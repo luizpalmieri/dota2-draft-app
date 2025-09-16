@@ -5,7 +5,7 @@ A comprehensive draft analysis tool for Dota 2 that provides strategic advice, i
 ## Project Structure
 
 ```
-dota2-overlay-assistant-app/
+dota2-draft-app/
 ├── app/                          # Main application package
 │   ├── __init__.py              # Package initialization
 │   ├── core/                    # Core business logic
@@ -29,7 +29,6 @@ dota2-overlay-assistant-app/
 
 - **Hero Selection Interface**: Autocomplete hero selection with images
 - **Strategic Analysis**: Item suggestions and counter-tips
-- **In-Game Overlay**: Transparent overlay window for live gameplay
 - **Comprehensive Data**: 120+ heroes with detailed strategy information
 
 ## Installation
@@ -54,7 +53,6 @@ python main.py
 - **DataManager**: Handles loading and managing game data from JSON files
 - **AnalysisCore**: Provides strategic analysis and recommendations
 - **MainApplication**: Main UI controller and event handler
-- **OverlayWindow**: In-game overlay for real-time advice
 
 ### Design Principles
 
