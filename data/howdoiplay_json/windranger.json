@@ -1,0 +1,39 @@
+{
+  "name": "Windranger",
+  "safe_name": "windranger",
+  "strategies": {
+    "general_tips": [
+      "Shackleshot calculates latch angles based on where it was originally cast, not from Windranger's current location.",
+      "For years man has wondered, \"HowdoesShackleshot work?\" Basically, it'll search for the closest available unit to the primary target to latch to. If there are no units in the AoE, it'll search for the closest available tree. It does not prioritize heroes over other unit types nor does it prioritize units in a straight line behind the main target.",
+      "What sets good Windrangers apart from bad Windrangers is how frequently Shackleshots are cast on creeps. Bad Windrangers will almost always target it on a hero even if there's a far larger window to miss the latch.",
+      "Shackleshot can latch to units in fog and invisible units. If you know where an invisible target is (like a Templar Assassin in Meld), then you can try to position a creep in such a way that you can shackle the enemy hero as the secondary target.",
+      "The \"Tangled\" facet counts illusions hit by Shackleshot fully as heroes for the damage bonus.",
+      "Powershot gives flying vision as the projectile travels and the vision lingers for a few seconds at the end point.",
+      "Be aware that Powershot's massive range can also be a liability at times. If you're farming in dangerous areas, be careful with your Powershot angles, otherwise enemies may discover you're farming their jungle when they see a random green arrow fly by their heads.",
+      "If your hero is within ~1800 range of a neutral camp, you can draw aggro and stack it if you damage the camp, like with Powershot. Any further away and neutrals won't aggro your hero when damaged and just keep sitting in their camp.",
+      "The \"Killshot\" facet adds Powershot nuke damage first andthencalculates if the enemy is within the kill threshold.",
+      "Unlike Axe's Culling Blade, Powershots with the \"Killshot\" facet can't kill enemies when they're under the effects of a buff that prevents them from going below 1 HP, like during Dazzle's Shallow Grave or Troll Warlord's Battle Trance.",
+      "Windrun gives you 100% evasion from incoming attacks, including attacks from towers. Even if the attack projectile is already in the air, you'll evade it on impact if Windrun is active.",
+      "The invisibility from Agh's Scepter Windrun is... kinda jank. Enemies won't be able to see your hero without true sight, but they will be able to see a selection circle underneath wherever your hero is while you're attacking from invisibility.",
+      "You can stop yourself from attacking a Focus Fired target by hitting the 'stop' or 'hold' hotkeys. If you right click on the target again, Focus Fire will resume. Useful to know against Blade Mail carriers.",
+      "When moving in Focus Fire, you will face the direction you're clicking in, but once you stop clicking, Windranger will turn around to face the enemy she's attacking. This is relevant when Focus Firing a Medusa Stone Gazing so you can attack her and not get Stoned.",
+      "Focus Fire doesn't give vision on the target. If someone is about to escape in fog, use a quick Powershot to keep them in vision.",
+      "You cannot target ward type units (like Phoenix's Supernova, Pugna's Nether Ward, Undying's Tombstone) with Focus Fire.",
+      "Focus Fire persists on enemies after they die with Aegis/Reincarnation. You'll immediately resume attacking the target at Focus Fire speed once they respawn. If Windranger has Aegis, however, you will lose the Focus Fire buff when you reincarnate.",
+      "Despite its appearance, Agh's Shard Gale Force isnotclassified as traditionalforced movement, but rather a \"pull.\" This means itcan'tinterrupt things like Magnus's Skewer, Phoenix's Icarus Dive, Primal Beast's Onslaught, Spirit Breaker's Charge, Techies' Blast Off, or Templar Assassin's Meld."
+    ],
+    "counter_tips": [
+      "Be acutely aware of Windranger's angle to you and any allied creeps between you and her in lane. Windrangers are always fishing for Shackles, so keep mirroring her movements to make it difficult.",
+      "Constantly keep her in your camera when laning against her. A full duration Powershot is not an easy spell for her to land, but it is if you're asleep at the wheel. Watch where she's aiming and move away.",
+      "Windrun gives 100%evasionagainst physical attacks, but physical damage can still hurt her. This includes damage from spells like Dazzle's Shadow Wave or Death Prophet's Exorcism.",
+      "Get an MKB or Bloodthorn to deal with Windrun evasion if you're a carry.",
+      "Windrun can be removed with basic dispels like from Enchantress's Enchant, Oracle's Fortune's End, or Shadow Demon's Demonic Purge. Nullifier and Eul's can also dispel.Her \"Windrun Cannot Be Dispelled\" talent can counterplay this, however.",
+      "Her \"Windrun Cannot Be Dispelled\" talent can counterplay this, however.",
+      "Windranger will Focus Fire under any circumstances when she can normally right click her target. If she's stunned, slept, feared, ethereal, hexed, taunted, disarmed, or out of range, she won't attack.",
+      "Focus Fire involves a bunch of smaller damage attacks in a quick period of time. This makes damage block items like Vanguard or Crimson Guard very effective at mitigating her damage.",
+      "Blade Mail can make her think twice about wanting to Focus Fire you.",
+      "If a melee hero reflects Focus Fire with Lotus Orb, they'll need to be within 350 + melee hero attack range (default 150) to land attacks on Windranger. Any further and the attacks will miss.",
+      "Windranger's Easy Breezy innate makes it so move speed slows on her have a lower limit."
+    ]
+  }
+}

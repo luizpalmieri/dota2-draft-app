@@ -1,0 +1,34 @@
+{
+  "name": "Batrider",
+  "safe_name": "batrider",
+  "strategies": {
+    "general_tips": [
+      "Batrider doesn't need to turn to cast Sticky Napalm.",
+      "Don't just toss Napalms casually. Go out of your way to make sure you're keeping stacks up on the enemy hero. The difference between 2 casts and 4 casts of Sticky Napalm can be the difference between suggesting the enemy eat a Tango or go hide under their tower.",
+      "Enemies only get Magic Stick charges if you're in vision when the spell is cast. Try to cast Napalm from fog as often as possible.",
+      "You can stack neutral camps with Sticky Napalm damage to draw aggro.",
+      "You can click on an enemy hero to see how many Magic Stick/Wand charges they have. If they're sitting on like 10, it'll be much trickier to get a kill on them.",
+      "Napalm is relevant all game long because turn speed is relevant all game long. Just because you're not laning anymore doesn't mean you should stop using the spell. It still raises your damage and enemies will still find it annoying as hell to turn in molasses.Napalm also synergizes with your Smoldering Resin innate adding a DoT to your attacks.",
+      "Napalm also synergizes with your Smoldering Resin innate adding a DoT to your attacks.",
+      "Sticky Napalm has rules against proccing on most item DoTs from Batrider (no Blood Grenade, Urn/Vessel, Orb of Venom, or Radiance), but Meteor Hammer and Witch Blade do benefit from Sticky Napalm damage.",
+      "Pay attention to the buff icon timer for Firefly. When it ends you need to make sure you won't be stuck somewhere you don't want to be.",
+      "Enemies can see your Firefly trail even when you're under Smoke.",
+      "Even if you die, your Firefly trail will remain for its full duration.",
+      "Firefly doesn't deal damage to Roshan.",
+      "Don't feel obligated to drag someone as far as you can when you Flaming Lasso someone. If your team is nearby or you're 1v1ing, your time may be spent better trying to lay on additional Napalm stacks.",
+      "Sources of forced movement (like Marci's Dispose, Pudge's Meat Hook, or Eul's Scepter) have no movement effect on a Lassoed enemy target.",
+      "If you have Primal Beast on your team and you attempt to Lasso an enemy he's Pulverizing, your Lasso will go on cooldown without doing anything.",
+      "With Agh's Scepter Lasso, Linken's Sphere can be bypassed if a target is the secondary Lasso, not the primary Lasso."
+    ],
+    "counter_tips": [
+      "Buy a Magic Stick ASAP against this fool to take advantage of Sticky Napalm spam in lane.",
+      "Once you get 6-8 stacks of Napalm on you in lane, back off and let the debuff time out. You can check how many stacks you have by looking at your current debuffs.",
+      "Activating Phase Boots on melee heroes can improve your turn rate when dealing with Sticky Napalm.",
+      "Banishes won't save an ally from getting dragged by Batrider's Lasso. You may be better off banishing the Batrider so he can't move.Undying's Agh's Shard Tombstonedoesprotect an ally from getting dragged by Lasso, however.GRAB ALLY.",
+      "Undying's Agh's Shard Tombstonedoesprotect an ally from getting dragged by Lasso, however.GRAB ALLY.",
+      "Kunkka X Marks Returning a Lassoed target will immediately cancel the Lasso.",
+      "Lone Druid's Spirit Bear Agh's Shard Fetch can cancel Lasso if it's cast on the same target after Lasso.",
+      "Don't hug the nearby tree-line when defending tier two towers. Batriders love hovering hidden over those trees to get easy Lassos."
+    ]
+  }
+}

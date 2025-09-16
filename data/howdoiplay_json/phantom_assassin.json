@@ -1,0 +1,39 @@
+{
+  "name": "Phantom Assassin",
+  "safe_name": "phantom_assassin",
+  "strategies": {
+    "general_tips": [
+      "Understanding the ins and outs of the Stifling Dagger are critical to not getting demolished in lane. Learn the projectile's travel times, be able to accurately estimate the damage of the dagger at each level on creeps, and practice timing right clicks+melee range Daggers to make it impossible to deny you.",
+      "If an enemy in your lane has a Magic Stick, cast your Stifling Daggers from fog whenever possible. Stick only gains charges from spells that are cast in vision.",
+      "Stifling Dagger applies damage as aninstant attack. This is a unique attack type that ignores disarms, has true strike, and applies attack modifiers. If you have an attack modifier with a proc, it'll roll for a chance once the projectile lands.Since Stifling Dagger is an instant attack, it'll break your Smoke once it damages a unit.You can activate Shadow Blade/Silver Edge after the Dagger projectile is launched to get the backstab damage.",
+      "Since Stifling Dagger is an instant attack, it'll break your Smoke once it damages a unit.",
+      "You can activate Shadow Blade/Silver Edge after the Dagger projectile is launched to get the backstab damage.",
+      "Spread Stifling Daggers from the \"Sweet Release\" facet can find enemies in fog and the Dagger projectiles even give vision.",
+      "Always be on the lookout for units to Phantom Strike to when you're trying to escape.",
+      "When pushing an uncontested tower, you can Phantom Strike onto a nearby enemy creep and use the attack speed buff to siege the tower.",
+      "When farming your jungle, consider using your courier to get vision of the next camp to Phantom Strike onto rather than walking around from camp to camp.",
+      "When Blur is active, lane creeps and neutral creeps don't react to getting attacked by you.",
+      "You're not really 'invisible' under Blur's active. Enemies won't see your icon on their minimap and you will be considered untargetable by single target spells, but enemies will still see a cloaked version of your model wherever you are.",
+      "Activating Blur disjoints any incoming projectiles.",
+      "Blur's active dispelling follows the same rules as Smoke, but with a smaller radius. Meaning, it will dispel when near enemy heroes or towers.Creep-heroes don't dispel Smoke and also don't dispel Blur. You can kill units like Lone Druid's Spirit Bear or Visage's Familiars while actively Blurred.",
+      "Creep-heroes don't dispel Smoke and also don't dispel Blur. You can kill units like Lone Druid's Spirit Bear or Visage's Familiars while actively Blurred.",
+      "Agh's Shard Blur lowering cooldowns on kills even works on Aegis deaths/Wraith King Reincarnation.",
+      "Agh's Scepter Fan of Knives absolutely shreds illusions because the damage calculates off of a target's max HP.",
+      "Reflected Blade Mail damage doesn't go through debuff immunity. If you're killing yourself on enemy Blade Mails, consider buying a BKB."
+    ],
+    "counter_tips": [
+      "A Magic Stick may be a smart investment if you're doing a good job zoning her out since she'll have to spam Dagger for last hits.",
+      "If you're a carry, get a MKB or Bloodthorn for the accuracy to hit her through Immaterial evasion.",
+      "Attacks proccing Chain Lightning from Maelstrom/Mjollnir cannot be evaded. Not a huge bump in accuracy, but it's something.",
+      "The \"Serrated Shiv\" neutral item artifact can provide some accuracy against her evasion.",
+      "If you are a Chen (with Agh's Shard Holy Persuasion) or Doom (with \"Doom Devours Ancients\" talent) or built a Helm of the Overlord, consider getting a blue Thunderhide lizard ancient creep for the accuracy aura.",
+      "If you're a support, get a Ghost Scepter or Aeon Disk for survivability. A Pavise could allow you or an ally to survive a few more right clicks with the barrier. If you're tanky, get a Blade Mail so she'll kill herself on you.",
+      "Phantom Assassin's Immaterial evasion and Coup de Grace's Deadly Focus crit can both be disabled by Breaks.Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "PA cannot Phantom Strike when rooted.",
+      "You can dispel Phantom Strike attack speed off of PA. This can make heroes like Shadow Demon with Demonic Purge or items like Nullifier handy counters.",
+      "The minimap is very deceptive when playing against a PA. You can never be 100% sure of her whereabouts because Blur's active hides her from your minimap.",
+      "The Agh's Scepter Fan of Knives break debuff can be removed with basic dispels."
+    ]
+  }
+}

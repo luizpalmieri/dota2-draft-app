@@ -1,0 +1,32 @@
+{
+  "name": "Lion",
+  "safe_name": "lion",
+  "strategies": {
+    "general_tips": [
+      "Be aware of the advantages of ground targeting Earth Spike. The cast range is about 300 units shorter than the actual range of the stun. Ground targeting also makes it possible to thread the needle between heroes, allowing you to potentially land the stun on multiple targets.That being said, stop ground targeting Earth Spike when you don't have to. IceFrog's such a nice guy, he gives you a mostly guaranteed targeting system for free. There is a special circle in hell for Lions who skillshot and whiff Earth Spike on solo targets in targetable cast range.",
+      "That being said, stop ground targeting Earth Spike when you don't have to. IceFrog's such a nice guy, he gives you a mostly guaranteed targeting system for free. There is a special circle in hell for Lions who skillshot and whiff Earth Spike on solo targets in targetable cast range.",
+      "If you ground target Earth Spike from fog, you won't reveal yourself to the enemy who gets hit by it. If you directly target them, they'll get vision of you.This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "Earth Spike ignores Linken's Sphere and Lotus Orbs.",
+      "You can stack certain neutral camps with Earth Spike. This only works onsomecamps, however. The reason is because Earth Spike raises the creeps above the spawn box check height,but different camps have different heights.You'll have to test it in a lobby yourself (use the-spawnneutralscommand with cheats enabled) to see which camps work and which ones don't. The timing is extremely close, you have to click the spell at ~59s.",
+      "If you a feel a team fight coming on, keep casting and canceling Hex on their initiator. Hexes have 0 cast time and the moment your target comes into range (like with a Blink Dagger), the Hex will instantly get cast. If you're worried about Tidehunter Ravaging your team, group up all juicy-like, bait his Blink, then Frogitize him, Cap'n.",
+      "Hexes are effectively casting a silence, a mute, and a slow on enemies. Some enemies can cast spells while stunned (like Abaddon with Borrowed Time), but can't during a hex because they're silenced.",
+      "Hex can instantly kill most illusions.",
+      "Secondary drains from Agh's Shard Mana Drain go further than Mana Drain's cast range. If you're trying to Drain an enemy out of range, try Draining yourself into an allied hero or ranged creep and you may catch the enemy with a secondary Drain.",
+      "Despite Agh's Shard Mana Drain turning you debuff immune, it does not provide any kind of dispel on your hero.",
+      "You can cast Mana Drain on allies to give them mana and buff their move speed.",
+      "You can Mana Drain enemy ranged creeps and many jungle creeps to quickly get mana. Left click on a jungle creep to see if it has mana, some don't.",
+      "Time your Mana Drains on enemy heroes in lane with last hits. If one of your creeps is about to die, start Draining. Either they go for the last hit and lose a bunch of mana or they immediately back off and lose the last hit.",
+      "Mana Drain is a cheap and long range way to break Linken's Sphere.",
+      "Mana Drain provides true sight on the target for its duration, but doesnotprovide shared vision, so enemies can still break it by going into fog.",
+      "You get the Finger of Death bonus damage as long as the target dies within 3 seconds of getting Fingered. You don't have to kill steal everything at 100 HP to get the stack..."
+    ],
+    "counter_tips": [
+      "You can dispel the buff Lion gets from his To Hell and Back innate.",
+      "Always be afraid of this guy. He can kill you with relative ease and makes disabling you seem such a breeze. If you see him suddenly start walking towards you, he's probably gearing up to Finger you or he's setting up for a gank.",
+      "Mana Drain breaks if you go into fog. If he's Draining you in lane, you may be able to stop the Drain quicker by going into tree fog rather than running out of the break distance.If his Mana Drain doesn't break when you think it should, he likely has a ward providing vision of you.",
+      "If his Mana Drain doesn't break when you think it should, he likely has a ward providing vision of you.",
+      "There is an extremely brief (0.25s) moment after Finger of Death connects before the damage is actually dealt. You can dodge the damage with banishes or from something like Eul's or Manta Style if your timing is impeccable."
+    ]
+  }
+}

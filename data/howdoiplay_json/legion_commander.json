@@ -1,0 +1,29 @@
+{
+  "name": "Legion Commander",
+  "safe_name": "legion_commander",
+  "strategies": {
+    "general_tips": [
+      "You don't need to hit any units to get the bonus attack speed from Overwhelming Odds.",
+      "You can always cast Overwhelming Odds while mid-Duel.I'm serious, you canalwayscast Overwhelming Odds mid-Duel. Doesn't matter if you're banished, stunned, silenced, hexed, and Doomed. You canstillcast Overwhelming Odds mid-Duel.The only exception is if you're Feared. Fears are actually the strongest disable in the game apparently.",
+      "I'm serious, you canalwayscast Overwhelming Odds mid-Duel. Doesn't matter if you're banished, stunned, silenced, hexed, and Doomed. You canstillcast Overwhelming Odds mid-Duel.",
+      "The only exception is if you're Feared. Fears are actually the strongest disable in the game apparently.",
+      "Press the Attack is a strong dispel. You can cast it on allies to wipe off most disables and debuffs, including stuns.",
+      "Strategically draw aggro from creeps by clicking enemy heroes to potentially get a Moment of Courage proc when going for last hits or denies.",
+      "It can be worth keeping neutral creeps alive with minimal HP so they give you more chances to proc Moment of Courage.",
+      "You can milk a lot of lifesteal from a single creep wave or jungle camp by standing still while drawing aggro and watching Moment of Courage's cooldown/buff. Every time the spell procs, use the Moment of Courage attack for lifesteal. This way you give yourself more Moment of Courage opportunities by only killing off the wave with lifestealing attacks.",
+      "The standard max-greed Duel procedure is using Press the Attack, activating any items (like Blade Mail or BKB), then Dueling your target. You'll need to trim ingredients in the combo as the game progresses in order to get the Duel off quicker and to not alert enemies to your presence before jumping in.",
+      "If you have a Shadow Blade/Silver Edge, Dueling straight out of invis won't give the bonus Backstab damage unless you right click the enemy first since Duel counts as a spell and spells end invisibility.",
+      "Tread switching is an important thing to utilize on LC since she is a hero with fairly mana intensive spells. Remember to stay off STR treads until the healing from Press the Attack is complete, but also remember to not stay on INT treads for 15 minutes straight until someone pings you after a Duel loss and you sheepishly swap back.",
+      "Unlike Axe's Berserker's Call and Winter Wyvern's Winter's Curse, Duel is a taunt thatalsoapplies a silence on the target. This means Ursa can't Agh's Scepter Enrage and Abaddon can't manually cast Borrowed Time while Dueled.",
+      "You do not earn Duel damage from Aegis deaths, Arc Warden's Tempest Double, or illusions.",
+      "You can earn Duel damage from Wraith King Reincarnation deaths and deaths that turn him into a Wraith from his Vampiric Spirit innate."
+    ],
+    "counter_tips": [
+      "The barrier Legion Commander gets with her \"Stonehall Plate\" facet can be dispelled.",
+      "Simple spells to mess with Duel: Dazzle's Shallow Grave, Oracle's False Promise, Winter Wyvern's Cold Embrace, Bane's Nightmare, Outworld Destroyer/Shadow Demon/Tusk banishes, Centaur Warrunner's Agh's Scepter Hitch A Ride, Slark's Agh's Shard Depth Shroud, Snapfire Agh's Scepter Gobble Up.Some of these spells outright end the Duel and some of them will have Legion Commander eagerly waiting to attack the target once they emerge from the banish. There isn't really any logic.Other ways to mess with Duel include Disarms (ex. Heaven's Halberd) or Ethereal states (ex. Ghost Scepter).",
+      "Some of these spells outright end the Duel and some of them will have Legion Commander eagerly waiting to attack the target once they emerge from the banish. There isn't really any logic.",
+      "Other ways to mess with Duel include Disarms (ex. Heaven's Halberd) or Ethereal states (ex. Ghost Scepter).",
+      "LC loves going against teams with a bunch of summons thanks to Overwhelming Odds damage, so draft accordingly."
+    ]
+  }
+}

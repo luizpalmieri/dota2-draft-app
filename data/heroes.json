@@ -1,0 +1,746 @@
+[
+  {
+    "id": "",
+    "name": "Antimage",
+    "safe_name": "antimage",
+    "image_path": "hero_images/antimage.png"
+  },
+  {
+    "id": "",
+    "name": "Axe",
+    "safe_name": "axe",
+    "image_path": "hero_images/axe.png"
+  },
+  {
+    "id": "",
+    "name": "Bane",
+    "safe_name": "bane",
+    "image_path": "hero_images/bane.png"
+  },
+  {
+    "id": "",
+    "name": "Bloodseeker",
+    "safe_name": "bloodseeker",
+    "image_path": "hero_images/bloodseeker.png"
+  },
+  {
+    "id": "",
+    "name": "Crystal Maiden",
+    "safe_name": "crystal_maiden",
+    "image_path": "hero_images/crystal_maiden.png"
+  },
+  {
+    "id": "",
+    "name": "Drow Ranger",
+    "safe_name": "drow_ranger",
+    "image_path": "hero_images/drow_ranger.png"
+  },
+  {
+    "id": "",
+    "name": "Earthshaker",
+    "safe_name": "earthshaker",
+    "image_path": "hero_images/earthshaker.png"
+  },
+  {
+    "id": "",
+    "name": "Juggernaut",
+    "safe_name": "juggernaut",
+    "image_path": "hero_images/juggernaut.png"
+  },
+  {
+    "id": "",
+    "name": "Mirana",
+    "safe_name": "mirana",
+    "image_path": "hero_images/mirana.png"
+  },
+  {
+    "id": "",
+    "name": "Morphling",
+    "safe_name": "morphling",
+    "image_path": "hero_images/morphling.png"
+  },
+  {
+    "id": "",
+    "name": "Nevermore",
+    "safe_name": "nevermore",
+    "image_path": "hero_images/nevermore.png"
+  },
+  {
+    "id": "",
+    "name": "Phantom Lancer",
+    "safe_name": "phantom_lancer",
+    "image_path": "hero_images/phantom_lancer.png"
+  },
+  {
+    "id": "",
+    "name": "Puck",
+    "safe_name": "puck",
+    "image_path": "hero_images/puck.png"
+  },
+  {
+    "id": "",
+    "name": "Pudge",
+    "safe_name": "pudge",
+    "image_path": "hero_images/pudge.png"
+  },
+  {
+    "id": "",
+    "name": "Razor",
+    "safe_name": "razor",
+    "image_path": "hero_images/razor.png"
+  },
+  {
+    "id": "",
+    "name": "Sand King",
+    "safe_name": "sand_king",
+    "image_path": "hero_images/sand_king.png"
+  },
+  {
+    "id": "",
+    "name": "Storm Spirit",
+    "safe_name": "storm_spirit",
+    "image_path": "hero_images/storm_spirit.png"
+  },
+  {
+    "id": "",
+    "name": "Sven",
+    "safe_name": "sven",
+    "image_path": "hero_images/sven.png"
+  },
+  {
+    "id": "",
+    "name": "Tiny",
+    "safe_name": "tiny",
+    "image_path": "hero_images/tiny.png"
+  },
+  {
+    "id": "",
+    "name": "Vengefulspirit",
+    "safe_name": "vengefulspirit",
+    "image_path": "hero_images/vengefulspirit.png"
+  },
+  {
+    "id": "",
+    "name": "Windrunner",
+    "safe_name": "windrunner",
+    "image_path": "hero_images/windrunner.png"
+  },
+  {
+    "id": "",
+    "name": "Zeus",
+    "safe_name": "zuus",
+    "image_path": "hero_images/zuus.png"
+  },
+  {
+    "id": "",
+    "name": "Kunkka",
+    "safe_name": "kunkka",
+    "image_path": "hero_images/kunkka.png"
+  },
+  {
+    "id": "",
+    "name": "Lina",
+    "safe_name": "lina",
+    "image_path": "hero_images/lina.png"
+  },
+  {
+    "id": "",
+    "name": "Lion",
+    "safe_name": "lion",
+    "image_path": "hero_images/lion.png"
+  },
+  {
+    "id": "",
+    "name": "Shadow Shaman",
+    "safe_name": "shadow_shaman",
+    "image_path": "hero_images/shadow_shaman.png"
+  },
+  {
+    "id": "",
+    "name": "Slardar",
+    "safe_name": "slardar",
+    "image_path": "hero_images/slardar.png"
+  },
+  {
+    "id": "",
+    "name": "Tidehunter",
+    "safe_name": "tidehunter",
+    "image_path": "hero_images/tidehunter.png"
+  },
+  {
+    "id": "",
+    "name": "Witch Doctor",
+    "safe_name": "witch_doctor",
+    "image_path": "hero_images/witch_doctor.png"
+  },
+  {
+    "id": "",
+    "name": "Lich",
+    "safe_name": "lich",
+    "image_path": "hero_images/lich.png"
+  },
+  {
+    "id": "",
+    "name": "Riki",
+    "safe_name": "riki",
+    "image_path": "hero_images/riki.png"
+  },
+  {
+    "id": "",
+    "name": "Enigma",
+    "safe_name": "enigma",
+    "image_path": "hero_images/enigma.png"
+  },
+  {
+    "id": "",
+    "name": "Tinker",
+    "safe_name": "tinker",
+    "image_path": "hero_images/tinker.png"
+  },
+  {
+    "id": "",
+    "name": "Sniper",
+    "safe_name": "sniper",
+    "image_path": "hero_images/sniper.png"
+  },
+  {
+    "id": "",
+    "name": "Necrolyte",
+    "safe_name": "necrolyte",
+    "image_path": "hero_images/necrolyte.png"
+  },
+  {
+    "id": "",
+    "name": "Warlock",
+    "safe_name": "warlock",
+    "image_path": "hero_images/warlock.png"
+  },
+  {
+    "id": "",
+    "name": "Beastmaster",
+    "safe_name": "beastmaster",
+    "image_path": "hero_images/beastmaster.png"
+  },
+  {
+    "id": "",
+    "name": "Queenofpain",
+    "safe_name": "queenofpain",
+    "image_path": "hero_images/queenofpain.png"
+  },
+  {
+    "id": "",
+    "name": "Venomancer",
+    "safe_name": "venomancer",
+    "image_path": "hero_images/venomancer.png"
+  },
+  {
+    "id": "",
+    "name": "Faceless Void",
+    "safe_name": "faceless_void",
+    "image_path": "hero_images/faceless_void.png"
+  },
+  {
+    "id": "",
+    "name": "Skeleton King",
+    "safe_name": "skeleton_king",
+    "image_path": "hero_images/skeleton_king.png"
+  },
+  {
+    "id": "",
+    "name": "Death Prophet",
+    "safe_name": "death_prophet",
+    "image_path": "hero_images/death_prophet.png"
+  },
+  {
+    "id": "",
+    "name": "Phantom Assassin",
+    "safe_name": "phantom_assassin",
+    "image_path": "hero_images/phantom_assassin.png"
+  },
+  {
+    "id": "",
+    "name": "Pugna",
+    "safe_name": "pugna",
+    "image_path": "hero_images/pugna.png"
+  },
+  {
+    "id": "",
+    "name": "Templar Assassin",
+    "safe_name": "templar_assassin",
+    "image_path": "hero_images/templar_assassin.png"
+  },
+  {
+    "id": "",
+    "name": "Viper",
+    "safe_name": "viper",
+    "image_path": "hero_images/viper.png"
+  },
+  {
+    "id": "",
+    "name": "Luna",
+    "safe_name": "luna",
+    "image_path": "hero_images/luna.png"
+  },
+  {
+    "id": "",
+    "name": "Dragon Knight",
+    "safe_name": "dragon_knight",
+    "image_path": "hero_images/dragon_knight.png"
+  },
+  {
+    "id": "",
+    "name": "Dazzle",
+    "safe_name": "dazzle",
+    "image_path": "hero_images/dazzle.png"
+  },
+  {
+    "id": "",
+    "name": "Clockwork",
+    "safe_name": "rattletrap",
+    "image_path": "hero_images/rattletrap.png"
+  },
+  {
+    "id": "",
+    "name": "Leshrac",
+    "safe_name": "leshrac",
+    "image_path": "hero_images/leshrac.png"
+  },
+  {
+    "id": "",
+    "name": "Furion",
+    "safe_name": "furion",
+    "image_path": "hero_images/furion.png"
+  },
+  {
+    "id": "",
+    "name": "Life Stealer",
+    "safe_name": "life_stealer",
+    "image_path": "hero_images/life_stealer.png"
+  },
+  {
+    "id": "",
+    "name": "Dark Seer",
+    "safe_name": "dark_seer",
+    "image_path": "hero_images/dark_seer.png"
+  },
+  {
+    "id": "",
+    "name": "Clinkz",
+    "safe_name": "clinkz",
+    "image_path": "hero_images/clinkz.png"
+  },
+  {
+    "id": "",
+    "name": "Omniknight",
+    "safe_name": "omniknight",
+    "image_path": "hero_images/omniknight.png"
+  },
+  {
+    "id": "",
+    "name": "Enchantress",
+    "safe_name": "enchantress",
+    "image_path": "hero_images/enchantress.png"
+  },
+  {
+    "id": "",
+    "name": "Huskar",
+    "safe_name": "huskar",
+    "image_path": "hero_images/huskar.png"
+  },
+  {
+    "id": "",
+    "name": "Night Stalker",
+    "safe_name": "night_stalker",
+    "image_path": "hero_images/night_stalker.png"
+  },
+  {
+    "id": "",
+    "name": "Broodmother",
+    "safe_name": "broodmother",
+    "image_path": "hero_images/broodmother.png"
+  },
+  {
+    "id": "",
+    "name": "Bounty Hunter",
+    "safe_name": "bounty_hunter",
+    "image_path": "hero_images/bounty_hunter.png"
+  },
+  {
+    "id": "",
+    "name": "Weaver",
+    "safe_name": "weaver",
+    "image_path": "hero_images/weaver.png"
+  },
+  {
+    "id": "",
+    "name": "Jakiro",
+    "safe_name": "jakiro",
+    "image_path": "hero_images/jakiro.png"
+  },
+  {
+    "id": "",
+    "name": "Batrider",
+    "safe_name": "batrider",
+    "image_path": "hero_images/batrider.png"
+  },
+  {
+    "id": "",
+    "name": "Chen",
+    "safe_name": "chen",
+    "image_path": "hero_images/chen.png"
+  },
+  {
+    "id": "",
+    "name": "Spectre",
+    "safe_name": "spectre",
+    "image_path": "hero_images/spectre.png"
+  },
+  {
+    "id": "",
+    "name": "Ancient Apparition",
+    "safe_name": "ancient_apparition",
+    "image_path": "hero_images/ancient_apparition.png"
+  },
+  {
+    "id": "",
+    "name": "Doom Bringer",
+    "safe_name": "doom_bringer",
+    "image_path": "hero_images/doom_bringer.png"
+  },
+  {
+    "id": "",
+    "name": "Ursa",
+    "safe_name": "ursa",
+    "image_path": "hero_images/ursa.png"
+  },
+  {
+    "id": "",
+    "name": "Spirit Breaker",
+    "safe_name": "spirit_breaker",
+    "image_path": "hero_images/spirit_breaker.png"
+  },
+  {
+    "id": "",
+    "name": "Gyrocopter",
+    "safe_name": "gyrocopter",
+    "image_path": "hero_images/gyrocopter.png"
+  },
+  {
+    "id": "",
+    "name": "Alchemist",
+    "safe_name": "alchemist",
+    "image_path": "hero_images/alchemist.png"
+  },
+  {
+    "id": "",
+    "name": "Invoker",
+    "safe_name": "invoker",
+    "image_path": "hero_images/invoker.png"
+  },
+  {
+    "id": "",
+    "name": "Silencer",
+    "safe_name": "silencer",
+    "image_path": "hero_images/silencer.png"
+  },
+  {
+    "id": "",
+    "name": "Obsidian Destroyer",
+    "safe_name": "obsidian_destroyer",
+    "image_path": "hero_images/obsidian_destroyer.png"
+  },
+  {
+    "id": "",
+    "name": "Lycan",
+    "safe_name": "lycan",
+    "image_path": "hero_images/lycan.png"
+  },
+  {
+    "id": "",
+    "name": "Brewmaster",
+    "safe_name": "brewmaster",
+    "image_path": "hero_images/brewmaster.png"
+  },
+  {
+    "id": "",
+    "name": "Shadow Demon",
+    "safe_name": "shadow_demon",
+    "image_path": "hero_images/shadow_demon.png"
+  },
+  {
+    "id": "",
+    "name": "Lone Druid",
+    "safe_name": "lone_druid",
+    "image_path": "hero_images/lone_druid.png"
+  },
+  {
+    "id": "",
+    "name": "Chaos Knight",
+    "safe_name": "chaos_knight",
+    "image_path": "hero_images/chaos_knight.png"
+  },
+  {
+    "id": "",
+    "name": "Meepo",
+    "safe_name": "meepo",
+    "image_path": "hero_images/meepo.png"
+  },
+  {
+    "id": "",
+    "name": "Treant",
+    "safe_name": "treant",
+    "image_path": "hero_images/treant.png"
+  },
+  {
+    "id": "",
+    "name": "Ogre Magi",
+    "safe_name": "ogre_magi",
+    "image_path": "hero_images/ogre_magi.png"
+  },
+  {
+    "id": "",
+    "name": "Undying",
+    "safe_name": "undying",
+    "image_path": "hero_images/undying.png"
+  },
+  {
+    "id": "",
+    "name": "Rubick",
+    "safe_name": "rubick",
+    "image_path": "hero_images/rubick.png"
+  },
+  {
+    "id": "",
+    "name": "Disruptor",
+    "safe_name": "disruptor",
+    "image_path": "hero_images/disruptor.png"
+  },
+  {
+    "id": "",
+    "name": "Nyx Assassin",
+    "safe_name": "nyx_assassin",
+    "image_path": "hero_images/nyx_assassin.png"
+  },
+  {
+    "id": "",
+    "name": "Naga Siren",
+    "safe_name": "naga_siren",
+    "image_path": "hero_images/naga_siren.png"
+  },
+  {
+    "id": "",
+    "name": "Keeper Of The Light",
+    "safe_name": "keeper_of_the_light",
+    "image_path": "hero_images/keeper_of_the_light.png"
+  },
+  {
+    "id": "",
+    "name": "Wisp",
+    "safe_name": "wisp",
+    "image_path": "hero_images/wisp.png"
+  },
+  {
+    "id": "",
+    "name": "Visage",
+    "safe_name": "visage",
+    "image_path": "hero_images/visage.png"
+  },
+  {
+    "id": "",
+    "name": "Slark",
+    "safe_name": "slark",
+    "image_path": "hero_images/slark.png"
+  },
+  {
+    "id": "",
+    "name": "Medusa",
+    "safe_name": "medusa",
+    "image_path": "hero_images/medusa.png"
+  },
+  {
+    "id": "",
+    "name": "Troll Warlord",
+    "safe_name": "troll_warlord",
+    "image_path": "hero_images/troll_warlord.png"
+  },
+  {
+    "id": "",
+    "name": "Centaur",
+    "safe_name": "centaur",
+    "image_path": "hero_images/centaur.png"
+  },
+  {
+    "id": "",
+    "name": "Magnataur",
+    "safe_name": "magnataur",
+    "image_path": "hero_images/magnataur.png"
+  },
+  {
+    "id": "",
+    "name": "Shredder",
+    "safe_name": "shredder",
+    "image_path": "hero_images/shredder.png"
+  },
+  {
+    "id": "",
+    "name": "Bristleback",
+    "safe_name": "bristleback",
+    "image_path": "hero_images/bristleback.png"
+  },
+  {
+    "id": "",
+    "name": "Tusk",
+    "safe_name": "tusk",
+    "image_path": "hero_images/tusk.png"
+  },
+  {
+    "id": "",
+    "name": "Skywrath Mage",
+    "safe_name": "skywrath_mage",
+    "image_path": "hero_images/skywrath_mage.png"
+  },
+  {
+    "id": "",
+    "name": "Abaddon",
+    "safe_name": "abaddon",
+    "image_path": "hero_images/abaddon.png"
+  },
+  {
+    "id": "",
+    "name": "Elder Titan",
+    "safe_name": "elder_titan",
+    "image_path": "hero_images/elder_titan.png"
+  },
+  {
+    "id": "",
+    "name": "Legion Commander",
+    "safe_name": "legion_commander",
+    "image_path": "hero_images/legion_commander.png"
+  },
+  {
+    "id": "",
+    "name": "Techies",
+    "safe_name": "techies",
+    "image_path": "hero_images/techies.png"
+  },
+  {
+    "id": "",
+    "name": "Ember Spirit",
+    "safe_name": "ember_spirit",
+    "image_path": "hero_images/ember_spirit.png"
+  },
+  {
+    "id": "",
+    "name": "Earth Spirit",
+    "safe_name": "earth_spirit",
+    "image_path": "hero_images/earth_spirit.png"
+  },
+  {
+    "id": "",
+    "name": "Abyssal Underlord",
+    "safe_name": "abyssal_underlord",
+    "image_path": "hero_images/abyssal_underlord.png"
+  },
+  {
+    "id": "",
+    "name": "Terrorblade",
+    "safe_name": "terrorblade",
+    "image_path": "hero_images/terrorblade.png"
+  },
+  {
+    "id": "",
+    "name": "Phoenix",
+    "safe_name": "phoenix",
+    "image_path": "hero_images/phoenix.png"
+  },
+  {
+    "id": "",
+    "name": "Oracle",
+    "safe_name": "oracle",
+    "image_path": "hero_images/oracle.png"
+  },
+  {
+    "id": "",
+    "name": "Winter Wyvern",
+    "safe_name": "winter_wyvern",
+    "image_path": "hero_images/winter_wyvern.png"
+  },
+  {
+    "id": "",
+    "name": "Arc Warden",
+    "safe_name": "arc_warden",
+    "image_path": "hero_images/arc_warden.png"
+  },
+  {
+    "id": "",
+    "name": "Monkey King",
+    "safe_name": "monkey_king",
+    "image_path": "hero_images/monkey_king.png"
+  },
+  {
+    "id": "",
+    "name": "Dark Willow",
+    "safe_name": "dark_willow",
+    "image_path": "hero_images/dark_willow.png"
+  },
+  {
+    "id": "",
+    "name": "Pangolier",
+    "safe_name": "pangolier",
+    "image_path": "hero_images/pangolier.png"
+  },
+  {
+    "id": "",
+    "name": "Grimstroke",
+    "safe_name": "grimstroke",
+    "image_path": "hero_images/grimstroke.png"
+  },
+  {
+    "id": "",
+    "name": "Hoodwink",
+    "safe_name": "hoodwink",
+    "image_path": "hero_images/hoodwink.png"
+  },
+  {
+    "id": "",
+    "name": "Void Spirit",
+    "safe_name": "void_spirit",
+    "image_path": "hero_images/void_spirit.png"
+  },
+  {
+    "id": "",
+    "name": "Snapfire",
+    "safe_name": "snapfire",
+    "image_path": "hero_images/snapfire.png"
+  },
+  {
+    "id": "",
+    "name": "Mars",
+    "safe_name": "mars",
+    "image_path": "hero_images/mars.png"
+  },
+  {
+    "id": "",
+    "name": "Dawnbreaker",
+    "safe_name": "dawnbreaker",
+    "image_path": "hero_images/dawnbreaker.png"
+  },
+  {
+    "id": "",
+    "name": "Marci",
+    "safe_name": "marci",
+    "image_path": "hero_images/marci.png"
+  },
+  {
+    "id": "",
+    "name": "Primal Beast",
+    "safe_name": "primal_beast",
+    "image_path": "hero_images/primal_beast.png"
+  },
+  {
+    "id": "",
+    "name": "Muerta",
+    "safe_name": "muerta",
+    "image_path": "hero_images/muerta.png"
+  }
+]

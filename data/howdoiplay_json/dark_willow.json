@@ -1,0 +1,41 @@
+{
+  "name": "Dark Willow",
+  "safe_name": "dark_willow",
+  "strategies": {
+    "general_tips": [
+      "Brambles can trigger on invisible units and provide true sight for the root duration.",
+      "Even though you can't really tell when casting the spell, each Bramble in the Maze spawns in a specific sequence and there is a slight delay between each activation. The order is: inner circle spawns with the right Bramble first, then continues spawning counterclockwise. Then the outer circle spawns from top right Bramble and continues spawning counterclockwise. tl;dr: Inner circle right Bramble spawns the quickest, outer circle bottom right Bramble spawns ~0.7s later.",
+      "Items like Healing Salves, Tangoes, and Clarities benefit from Pixie Dust's innate regen amp. Burst heals, like from Magic Stick/Wand or Healing Lotuses, donotbenefit.",
+      "Activating items or casting spells won't break Shadow Realm. You can also cast Shadow Realm while channeling a TP.",
+      "Shadow Realm will disjoint all incoming projectiles after the fade time. You will also be invulnerable to damage from anyinstant attacksfrom spells while in Realm, like Monkey King's Boundless Strike or Pangolier's Swashbuckle.",
+      "Shadow Realm mostly follows the same rules as invisibility for spells that target you.",
+      "Allies can target you with spells/items while you're in Shadow Realm, but only if they target your topbar portrait.",
+      "The bonus damage from Shadow Realm doesn't work on buildings or wards, but you can still use the bonus attack range provided by the spell to attack those types of units.",
+      "If your Shadow Realm attack misses, the damage won't land. If you die while the Shadow Realm projectile is flying, the bonus damage won't land.",
+      "Cursed Crown draws aggro from creeps. If you're getting chased by a few enemies in the jungle, you can try casting it on a neutral who will start following you and then start following the people chasing you.",
+      "A target becoming banished won't stop the Crown AoE stun from triggering around them.",
+      "Jex won't attack any units in fog during Bedlam.However, Jex does provide a small radius of vision around himself. You can use Bedlam to check cliffs for wards.",
+      "However, Jex does provide a small radius of vision around himself. You can use Bedlam to check cliffs for wards.",
+      "Jex's targeting is completely random in Bedlam. No priority is given to heroes, low HP targets, units you're right clicking, or anything. However, you can obviously influence what target is chosen by moving your hero around. You can vaguely see Jex's attack range from the pink aura surrounding him as he flies.",
+      "Jex can attack Rosh during Bedlam.",
+      "Even though Jex 'attacks,' Bedlam damage is not actual right clicks, but instead just a bunch of tiny magic damage nukes. This means that you increase Jex's damage with magic amplification, not armor reduction.",
+      "When casting Terrorize, you have to compensate for the lengthy cast animation and the time it takes for Jex to fly. Cancel the animation if you look like you're going to whiff it.",
+      "You can't cast Bedlam if Jex's projectile is still flying to/from a Terrorize cast location. But you can 'catch' Jex by blinking into him to get access to Bedlam quicker.",
+      "Terrorize provides shared vision over all affected units for the duration of the fear and ground vision around where the Terrorize lands. Jex also provides vision as he flies back to you.",
+      "Remember that fears are also silences+mutes during their duration. A Terrorized Morphling can't activate Attribute Shift and a Terrorized Sven can't activate BKB. All they can do is run.",
+      "When Terrorized, Rosh just sits in his pit sulking and won't attack anything.",
+      "When you Terrorize enemies who have breached your side lane high ground and are attacking your barracks, it's likely that the feared path they'll take will be through your base into the mid lane, rather than down the side lane stairs.",
+      "Enemies can only hear your Terrorize cast animation sound cue if they either have vision of your hero or if they have vision ofthe pointwhere you're targeting Terrorize. This is can be useful around the Rosh pit as you can surprise enemies by targeting Terrorize on the walls of the pit where they can't hear the cast. If you're getting chased, you can target the Terrorize on a high ground where enemies likely won't have vision as opposed to a low ground where they'll hear the cast. If you're trying to fear a slippery hero like Anti-Mage, try targeting Terrorize in the trees where he may not hear it rather than directly on top of him."
+    ],
+    "counter_tips": [
+      "Pay attention to your pathing when playing against a Willow. The capture radius on Brambles is tiny. With a little effort, you should be able to sidestep the roots.You can even dodge the generated Brambles against Willow's Agh's Shard Cursed Crown if you click precisely. You need to be careful, but not super careful. So if you don't have the patience to not spam click 10 times a second, just delicately aim one right click in the diagonal space between the Brambles while you're stunned and then shift+queue an escape right click.",
+      "You can even dodge the generated Brambles against Willow's Agh's Shard Cursed Crown if you click precisely. You need to be careful, but not super careful. So if you don't have the patience to not spam click 10 times a second, just delicately aim one right click in the diagonal space between the Brambles while you're stunned and then shift+queue an escape right click.",
+      "Bramble roots, the Cursed Crown countdown debuff, and the Terrorize fear can all be removed with any basic dispel. Lotus Orb can be a handy item to have on your team to help with that.",
+      "On every bell toll from Cursed Crown you can faintly see some particles indicating the AoE of stun around your hero. Try to avoid catching your teammates in the stun.",
+      "Shadow Realm is basically the same thing as Slark's active Shadow Dance for targeting purposes. Ground targeted spells and items still work just fine against her.However, ground targeted instant attacks like Monkey King's Boundless Strike or Pangolier's Swashbuckle won't deal damage to her in Shadow Realm. This differs from Shadow Dance.",
+      "However, ground targeted instant attacks like Monkey King's Boundless Strike or Pangolier's Swashbuckle won't deal damage to her in Shadow Realm. This differs from Shadow Dance.",
+      "Gleipnir can root Dark Willow even when she's untargetable in Shadow Realm.",
+      "Bedlam targets units randomly in its AoE, so surrounding yourself with creeps or summons makes it much harder for Jex to damage you."
+    ]
+  }
+}

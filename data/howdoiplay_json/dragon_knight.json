@@ -1,0 +1,21 @@
+{
+  "name": "Dragon Knight",
+  "safe_name": "dragon_knight",
+  "strategies": {
+    "general_tips": [
+      "Breathe Fire's damage reduction component is a big deal in team fights, especially since it reduces total attack damage including +dmg items. Don't save it for kill stealing, use it early on in a fight.",
+      "The damage over time from \"Corrosive Dragon\" facet attacks work on towers. This is what makes DK such a mean pusher early on.",
+      "The Health Restoration reduction from \"Frost Dragon\" facet attacks reduce HP gains on targets similar to how a Spirit Vessel would.",
+      "Attacks from your illusionsdo notapply Wrym's Wrath or Elder Dragon Form debuffs.However, illusions do get the free pathing from Agh's Scepter's Black Dragon.",
+      "However, illusions do get the free pathing from Agh's Scepter's Black Dragon.",
+      "The transformation into Dragon Form is nearly as useful as the Dragon Form itself during the laning phase. No one ever expects you to suddenly go full Dragon and whip out a ranged stun in the span of no seconds. People know how far to stand away from a DK in Knight form and people know to stand much further back from a DK in Dragon form. Don't give them the chance to adapt."
+    ],
+    "counter_tips": [
+      "You can Break DK's Dragon Blood innate.Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "The HP regen Dragon Knight gains from his Dragon Blood innate can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others."
+    ]
+  }
+}

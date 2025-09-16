@@ -1,0 +1,49 @@
+{
+  "name": "Undying",
+  "safe_name": "undying",
+  "strategies": {
+    "general_tips": [
+      "Undying's Ceaseless Dirge innate cooldown can be reduced with cooldown reduction, butdoes notinteract with Refreshers.",
+      "Decay is a weird nuke. You take STR and deal the nuke damage on a hero on every cast, but it doesn't feel like much because their HP bar still looks close to full. After you play Undy for a couple of games, you realize that enemies will often fail to notice how much HP they're missing in lane and how much damage you've built up. So crank the aggression.",
+      "Decay deals double the nuke damage to creeps.",
+      "In lane, try to use Decay only when you can catch multiple heroes. Even if the enemies you're laning against are trying to avoid one another, they'll eventually bumble into each other at some point. That's when you pounce.",
+      "Try to use healing items only when you don't have Decay stacks on. Since Decay gives you more STR, you're healing a lower percentage of actual health when you eat a Tango.",
+      "Soul Rip is technically more useful as a heal than a nuke because healing isn't reduced by magic resistance.",
+      "If you're getting ganked, use Soul Rip before spamming Decay. Decay increases your STR, but Soul Rip only heals a flat amount of HP. You'll heal a larger portion of your max HP if you use Soul Rip first and then steal strength.",
+      "Soul Rip searches for units around Undying to calculate the heal, not units around the target. Units in fog don't add to the count.",
+      "You can Soul Rip your Tombstone to heal it.",
+      "Tombstone Zombies add to Soul Rip's unit count.",
+      "\"Oh good, Flesh Golem is down, let's force a fight,\" said no team ever. Tombstone is your real ult, so use it carefully. The fight needs to get nice and committed before you should feel comfortable bringing the thriller, so avoid initiating with it.",
+      "Casting Tombstone in chases can be useful if you need vision since the Tombstone has 1200 day/night vision for some reason.",
+      "Tombstone zombies won't spawn on targets that are in fog, but existing zombies will continue following any targets that escape into fog.",
+      "Tombstone is great for taking Rosh since Rosh will draw aggro on your zombies.With the \"Rotting Mitts\" facet, attacks on Rosh willnotspawn zombies.",
+      "With the \"Rotting Mitts\" facet, attacks on Rosh willnotspawn zombies.",
+      "You can deny your Tombstone to avoid feeding the gold bounty. Remind allies that they can also deny the Tombstone.",
+      "Try to place your Tombstone in awkward spots enemies can't easily find in the middle of a fight. Like on cliffs or other nearby high ground areas. You can't hide it in trees very easily since the Tombstone will destroy trees in a small radius when placed.",
+      "Unlike many other banish saves, there are no restrictions to Agh's Shard Tombstone's bunker targeting. You can freely bunker allies affected by Faceless Void's Chronosphere, Enigma's Black Hole, Batrider's Lasso, or Legion Commander's Duel.",
+      "A Tombstone will spawn from the \"Tombstone On Death\" talent when dying normally or dying under Aegis.",
+      "Flesh Golem raises your HP when cast thanks to the STR bonus, so you may consider using it when escaping if the extra HP will help you survive a gank.",
+      "Each of your attacks in Flesh Golem will apply a slow and damage amplification Plague debuff on an enemy. Try to punch all the high value targets once to apply the debuff, it lasts for a while.",
+      "The Flesh Golem Plague damage amp debuff from your attacks fully works on Roshan.However, it doesn't work on the Tormentor because, unlike magic amp and armor reduction, barriers ignore generic damage amp.",
+      "However, it doesn't work on the Tormentor because, unlike magic amp and armor reduction, barriers ignore generic damage amp.",
+      "Debuffing an enemy with the Flesh Golem Plague damage amplification allows your team to damage targets through spells that usually provide 100% damage reduction like Winter Wyvern's Winter's Curse.",
+      "Flesh Golem illusions donotapply the Plague debuff."
+    ],
+    "counter_tips": [
+      "Avoid standing next to your lane partner when you're against Undying. If he's spamming Decay, make sure he's only hitting one hero.",
+      "Because Undying takes your STR in lane, healing items are more effective. If you've got a few stacks of Decay on yourself, that's the best time to use a Tango or Salve.",
+      "Dawnbreaker's Starbreaker, Gyrocopter's Flak Cannon, Ember Spirit's Sleight of Fist, Pangolier's Swashbuckle, Mars's God's Rebuke, Luna's Moon Glaives (both active and passive), Hoodwink's Acorn Shot, Void Spirit's Astral Step, and Medusa's Split Shot are spells capable of committing mass zombie extinction.",
+      "Luna is especially strong against Undying since she can directly attack the Tombstone and all the Glaives will bounce around to nearby zombies.",
+      "Axe can Counter Helix off zombie attacks, but it won't kill zombies.",
+      "Alchemist gets Greevil's Greed gold off zombie kills even though they have a 0 bounty.",
+      "Kill the Tombstone. Finish it. I don't want this toss-one-attack-I-didn't-do-much-damage-to-it-so-it's-not-my-problem or this well-we-almost-killed-it-but-then-it-got-Soul-Ripped-so-whatevs garbage. Unless your team has one of the aforementioned methods of zombie genocide it is almost ALWAYS worth killing the Tombstone the second it comes up. Even if you're faring okay as the carry, your support players are fending for dear life if you don't help them.",
+      "Snapfire's Lil' Shredder is great at quickly taking down the Tombstone.",
+      "Illusions deal \u00bc the damage a hero does to the Tombstone.",
+      "Phantom Lancer can Juxtapose off the Tombstone.",
+      "Mjollnir is a fairly good pickup against Undying since zombies constantly hitting you will help Static Shield proc more frequently. The lightning(s) won't kill zombies, though.",
+      "Crimson Guard's active effectively neutralizes all zombie damage.",
+      "Zombies will lose interest in you and die if you go invisible.",
+      "You can see how much time is left on the Tombstone by clicking on it and watching its 'Spell Immunity' buff run down."
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Io",
+  "safe_name": "io",
+  "strategies": {
+    "general_tips": [
+      "This is as much of a guide to playingwithIo as it is actually playing Io. It's nearly impossible to Wisp properly if your teammates have no idea how the hero works. Actually, just teammate singular. Io only really needs one competent core-playing teammate to be effective.",
+      "If Io is over 700 units away from a Tether target, it'll move in until it's 300 units away from the target. The reason this is important is that when you see an allied Io trying to escape and they can't find any allied creeps to link, get close to them,but not too close.Once Io has you Tethered you can start moving away.",
+      "Io can start channeling a TP while flying to a Tether target.",
+      "When traveling to a Tether target, Io breaks trees in a small radius around where it lands. Use this to create easier jungle paths or to break trees for sight.",
+      "Tether DPS works on creeps. Try to arrange your heroes in a way that the line is damaging neutrals or lane creeps when free farming.Tether DPS also works on Rosh. It's especially worthwhile to keep Rosh in the Tether AoE since Tether also significantly slows enemy attack speeds.",
+      "Tether DPS also works on Rosh. It's especially worthwhile to keep Rosh in the Tether AoE since Tether also significantly slows enemy attack speeds.",
+      "Tether+Overcharge can be used to buff non-hero units. Amusing targets include Lone Druid's Spirit Bear, Warlock's Golem, Beastmaster's Boar, and siege creeps.",
+      "Io copies the move speed of the Tethered target. This means teammates should generally apply move speed buffs to the Tethered target, not Io.",
+      "Dagon's active instakills any non-ancient creep. Dagon also heals the caster for a percentage of the damage dealt, which, for an instakill, is equal to the current HP of the creep. It's a corny strategy, but you could theoretically Dagon full HP creeps to provide a burst heal to your Tethered ally.",
+      "You want to cast Spirits ~15 seconds before Relocating so that you can cast them again mid-gank.",
+      "Activate Spirits in the fountain before TPing out. The Spirits last for a while, so it's basically a free cast.",
+      "With Agh's Scepter, you can manually explode your Spirits by pressing the spell hotkey. Useful for quick burst damage when farming creeps.",
+      "You can toggle Spirits Movement while channeling a TP.",
+      "Tether and Spirits can hit invisible heroes.",
+      "While scouring the map/minimap for a destination to Relocate to, right click your Tethered ally. Assuming you have the \"Right Click Allies: Follow/Deny (not Attack)\" setting enabled, right clicking an ally makes your hero follow that ally around so you don't encounter the awkward, \"Alright this guy? Okay we're Reloc--WAIT WHAT THE HELL WHERE ARE YOU? WHY DID YOU GO TO FARM ANCIENTS? I SAID WE WERE RELOOHHHH NNNNNOOOOO.\"",
+      "Pay attention to the timer on Relocate and ask your teammate for consent before taking them back.",
+      "You can double-tap Relocate to automatically target the fountain.",
+      "When trying to Relocate save an ally that you're not currently Tethered to, save the Tether for the last possible second before the Relocate goes off. The advantages of delaying the Tether are your Relocate-out position will be further from the fight and there is less possibility of you getting disabled during the Relocate cast which would cancel it.",
+      "Relocate provides a small radius of flying vision around the cast location during the delay.",
+      "Allied Banishes, cyclones, and Bane's Nightmare or Winter Wyvern's Cold Embrace can prevent Relocate from going off after being cast. I guess you could use this for some sick BKB baiting in the late game? Or maybe checking the Rosh pit without going into it?An allied Snapfire's Agh's Scepter Gobble Up can even save Io from a Relocatereturnwhich differs from other similar Banishes.",
+      "An allied Snapfire's Agh's Scepter Gobble Up can even save Io from a Relocatereturnwhich differs from other similar Banishes.",
+      "The \"Attack Tethered Ally's Target\" talent will make Io attack any unit that gets hit with whatever is considered a 'right click' from the ally. This means Io will attack all enemies hit by Medusa's Split Shot, Gyrocopter's Flak Cannon and Agh's Scepter Side Gunner, Pangolier's Swashbuckle, and all other targets ofinstant attacks."
+    ],
+    "counter_tips": [
+      "Tethering heroes is unnatural, I tell you hwat.Many people suggest killing Io first in engagementsand that's all well and good, but a good Io will bait you into awful positions when attempting to kill the medic. The next best thing is forcing Io to separate from his ally and break the Tether. Remember that two different people are playing these heroes, so force them to separate.",
+      "If you disable Io while it's flying towards a Tethered target, you'll cancel the movement from Tether and keep Io in place.",
+      "Spirits don't provide vision as they circle, but they will provide vision if they explode on a hero.",
+      "Keep a close eye on your minimap when playing against an Io. If Relocate is cast, you'll see a bright red TP icon on your minimap at the destination.",
+      "Just look at the clock, man. I see so many players try to freestyle Relocation return punishes. Do you have a Rosh timer method? Press that as soon as you see the red TP circle effect disappear. Then count to 12.",
+      "Stunning/rooting/leashing/banishing/hexing/cycloning Io during the pre-cast of Relocate will prevent the spell from going off. This is one of the main reasons why Wisps always Tether their ally at the last possible moment when trying to Relocate evacuate them from a fight. If you're focusing an enemy and you see Wisp eyeballing your target, try to save a disable to intercept the Relocate.Applying a fear/silence on Io can also prevent Relocate from going off,but only if the disabling debuff is on Io when the actual teleport is supposed to trigger.Taunts are the only type of disable that does not prevent Relocate from going off at any point of the Relocate cast.",
+      "Applying a fear/silence on Io can also prevent Relocate from going off,but only if the disabling debuff is on Io when the actual teleport is supposed to trigger.",
+      "Taunts are the only type of disable that does not prevent Relocate from going off at any point of the Relocate cast.",
+      "You can also Eul's cyclone the enemy hero that Io is trying to save. Io can't target cycloned units with Tether, so you can outplay an Io who's trying to go for a last second Tether+Relocate save with this. Your team may get mad at you for Eul'sing an enemy who may have been stunned, but explain your reasoning after you win the fight and they'll realize you're actually a genius.",
+      "Remember that Io gets a small radius of flying vision around a Relocate destination, so if you drop a Chronosphere or something in advance, Io may just break the Tether and travel alone.",
+      "Spells that take advantage of enemies in close quarters can be effective against Relocates like Jakiro's Ice Path, Winter Wyvern's Winter's Curse, Witch Doctor's Paralyzing Cask, or Lich's Chain Frost.",
+      "Kunkka's X Marks can help prevent an enemy from getting Relocated out of a fight.",
+      "The heals Io and the Tethered target gain can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others."
+    ]
+  }
+}

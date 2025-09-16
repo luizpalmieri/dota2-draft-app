@@ -1,0 +1,34 @@
+{
+  "name": "Razor",
+  "safe_name": "razor",
+  "strategies": {
+    "general_tips": [
+      "Plasma Field gives you flying vision as it travels out.",
+      "Static Link gives shared vision around the targeted hero.",
+      "Static Link fully works against debuff immune/BKB'd enemies.",
+      "Static Linking illusions steals damage just like on a hero.",
+      "You can Static Link creep-heroes like Lone Druid's Spirit Bear, Visage Familiars, Warlock's Golem, and Brewmaster's Primal Split Brewlings.",
+      "The only thing that can stop Static Link is the enemy moving out of the break radius... or dying. Banishes or cyclones won't stop a Link in progress.",
+      "Mechanically, think of Static Link attacks as being similar to a short Windranger Focus Fire.",
+      "Static Link attacks scale with your attack speed.",
+      "Razor doesn't attack during Static Link if he's disarmed.",
+      "When moving in Static Link, you will face the direction you're clicking in, but once you stop clicking, Razor will turn around to face the enemy he's attacking. This is relevant when Static Linking a Medusa Stone Gazing so you can attack her and not get Stoned.",
+      "If for some reason you want to stop attacking a Static Linked target, like if they have Blade Mail active or something, you can hold down the \"Directional Move\" command andmashyour right click movement. You have to mash your move commands because each new directional move input cancels the Static Link attack animation.",
+      "If you're worried more about dealing damage than stealing damage it's okay to Link the Crystal Maiden to buff up your damage if Luna keeps breaking the Link. You can sap more damage than a hero actually has, so CM will see a fat red -168 by her measly 63 damage.",
+      "If you Static Link multiple enemies at the same time, you can only get moving attacks on one of the targets, not both targets simultaneously.",
+      "Refreshing Static Link allows another Link to add another buff to Razor, but you can't double Link one target at the same time.",
+      "Refreshing Eye of the Storm fully stacks the spell.",
+      "Eye of the Storm prioritizes striking Static Linked heroes.",
+      "Eye of the Storm does not work on Roshan.Eye of the Storm does, however, work on the Tormentor.",
+      "Eye of the Storm does, however, work on the Tormentor.",
+      "Eye of the Storm does not hit units in fog."
+    ],
+    "counter_tips": [
+      "Just because Razor died doesn't mean you get all your damage back instantly, and just because you died doesn't mean Razor won't keep dealing +200 damage. Static Link's buff/debuff will remain for the full duration.",
+      "Force Staff can help allies break the Static Link.",
+      "Razor won't right click during Static Link if he's disarmed.",
+      "Lotus Orb can discourage Razor from Static Linking allies. If a melee hero reflects a Static Link, the spell's internal attacks will only work if Razor is within 350 + melee hero attack range (default 150). Any further and the Static Link attacks will miss.",
+      "Eye of the Storm does not hit units in fog. No point trying to juke if you're Static Linked, however, because Static Link provides vision on the target."
+    ]
+  }
+}

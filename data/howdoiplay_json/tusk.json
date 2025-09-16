@@ -1,0 +1,50 @@
+{
+  "name": "Tusk",
+  "safe_name": "tusk",
+  "strategies": {
+    "general_tips": [
+      "Ice Shards has beastly range, but the projectile travels pretty slow. If you're going for a long range Shard, try to save it for when the enemy is moving into a chokepoint or just block the choke in advance.",
+      "The easiest way to 'reverse Shard' yourself is to target the cast of Ice Shards in front of your hero model, but inside of the white selection circle. With surprisingly little practice you can start cliffing yourself like a pro.If you want to take the guesswork out of it, you can also use shift+queueing. Right click to move as usual, thenever so slightlymove your mouse ahead of that right click and shift+queue an Ice Shard right in front of your move command. If you want to go one more level, you can then shift+queueanothermove command after and you'll do the whole motion fluidly without ever stopping.Here's a video of me badly explaining this.You can also use this technique to escape a Disruptor's Kinetic Field or Slark's Pounce leash.",
+      "If you want to take the guesswork out of it, you can also use shift+queueing. Right click to move as usual, thenever so slightlymove your mouse ahead of that right click and shift+queue an Ice Shard right in front of your move command. If you want to go one more level, you can then shift+queueanothermove command after and you'll do the whole motion fluidly without ever stopping.",
+      "Here's a video of me badly explaining this.",
+      "You can also use this technique to escape a Disruptor's Kinetic Field or Slark's Pounce leash.",
+      "The Ice Shards projectile provides flying vision as it travels. The vision remains briefly around the Shards landing location.",
+      "You can use Ice Shards to help get vision of a neutral creep in the jungle to Snowball to if you're getting ganked and there are no good targets nearby.",
+      "Think about your Snowball target when trying to save yourself or allies. Don't always target enemy heroes, they may move in a way that'll drag you further into a fight. Instead, look for neutrals or lane creeps that will move you to a safer and more predictable location once your Snowball ends.",
+      "You, and anyone else in you wrap up, are completely invulnerable while inside Snowball. This means that you can use this as a poor man's banish to protect allies if they're about to get killed.",
+      "You can pull allies into Snowball by right-clicking them. You can even use this while you're rolling mid-Snowball to pick up new heroes.",
+      "You can pull allies into Snowball even when they're cycloned. You need to have the \"Right Click Allies\" setting set \"To Follow/Deny\" for this to work, not \"To Attack.\"",
+      "Allies can jump into your Snowball themselves if they right click it, but only if they're not disabled (stunned/rooted).",
+      "You can pick up runes while sitting or rolling in Snowball, but allies cannot.",
+      "Snowballing a target with Lotus Orb will put them into a Snowball targeting you once your Snowball lands on them. They can't launch their Snowball early so they'll be stuck in it for the full duration.",
+      "You can cast Ice Shards while you're in Snowball.You can activate Tag Team while you're in Snowball.",
+      "You can activate Tag Team while you're in Snowball.",
+      "You can't Snowball allies that are affected by Enigma's Black Hole, Faceless Void's Chronosphere, or Batrider's Flaming Lasso.You also can't Snowball allies that are under Primal Beast's Pulverize. This one's especially important because if youattemptto gather an ally being Pulverized, the game will act like you did gather them and restrict you from pulling them in even after the Pulverize ends. Your ally won't be able to hop in the Snowball themselves either.",
+      "You also can't Snowball allies that are under Primal Beast's Pulverize. This one's especially important because if youattemptto gather an ally being Pulverized, the game will act like you did gather them and restrict you from pulling them in even after the Pulverize ends. Your ally won't be able to hop in the Snowball themselves either.",
+      "You can cast Drinking Buddies on all allied units, including creeps.",
+      "When set to alt-cast, Drinking Buddies will only pull Tusk to the targeted unit, rather than pulling both of you to the midway point. However, the spell's cast range is halved when in alt-cast.",
+      "You can cast Drinking Buddies to move while rooted/leashed. You can also cast it on rooted/leashed allies.Drinking Buddies movementcannotescape Slark's Pounce leash or Disruptor's Kinetic Field.",
+      "Drinking Buddies movementcannotescape Slark's Pounce leash or Disruptor's Kinetic Field.",
+      "Drinking Buddies movement destroys trees in your path.",
+      "Tag Team and Drinking Buddies damage works on neutrals and Roshan.",
+      "Tag Team's effects only work on attacks from Tusk, units Tusk owns, allied heroes, and allied illusions (though illusions only apply the slow since the damage bonus is \"+green\" damage which illusions can't use). Attacks from units/summons owned by allied heroes don't get any Tag Team bonuses.",
+      "Since the Tag Team and Drinking Buddies bonus damage is calculated as \"+green\" bonus damage for each attack, you can cleave, lifesteal, and crit off it.Bonus damage from these spells also boosts Walrus Punch's crit, so always enable Tag Team or Drinking Buddies before Walrus Punching for a big damage increase.",
+      "Bonus damage from these spells also boosts Walrus Punch's crit, so always enable Tag Team or Drinking Buddies before Walrus Punching for a big damage increase.",
+      "You can Walrus Punch enemy couriers. Not really useful, but funny as a statement play.You can also Agh's Scepter Walrus Kick enemy couriers, but it won't damage them. This is marginally more useful since maybe you'll spot an enemy courier in Kick range but not Punch range.",
+      "You can also Agh's Scepter Walrus Kick enemy couriers, but it won't damage them. This is marginally more useful since maybe you'll spot an enemy courier in Kick range but not Punch range.",
+      "Walrus Punch attacks have true strike.",
+      "If an enemy is flying from Walrus Punch, other sources of vertical forced movement won't work on them.Why is this relevant? You can potentially use this mechanic to Eul's dispel an enemy who's mid-Walrus Punch without actually cycloning them.\"Like that would ever be useful...\"Here's Boxi dispelling an enemy Puck's Aeon Disk at TI 2024 (clip starts at 41:04 in-game time).Mid-Walrus Punch he casts Eul's to dispel Puck's Aeon Disk buff without putting Puck into the cyclone. 33's Familiar stun lands the same tick that Walrus Punch ends and removing the Aeon Disk allows Morph's Adaptive Strike damage to go through and eventually get the kill.",
+      "Why is this relevant? You can potentially use this mechanic to Eul's dispel an enemy who's mid-Walrus Punch without actually cycloning them.",
+      "\"Like that would ever be useful...\"Here's Boxi dispelling an enemy Puck's Aeon Disk at TI 2024 (clip starts at 41:04 in-game time).Mid-Walrus Punch he casts Eul's to dispel Puck's Aeon Disk buff without putting Puck into the cyclone. 33's Familiar stun lands the same tick that Walrus Punch ends and removing the Aeon Disk allows Morph's Adaptive Strike damage to go through and eventually get the kill.",
+      "Walrus Punch (and Agh's Scepter Walrus Kick) breaks channels, even if the enemy is debuff immune/BKB'd.",
+      "Walrus Punch ignores Linken's Sphere and Lotus Orb.",
+      "If you Agh's Scepter Walrus Kick a target who has a Lotus Orb buff, your hero will be kicked towards the middle of the Dota map irrespective of the angle you kicked your target."
+    ],
+    "counter_tips": [
+      "Ice Shards is dangerous in lane because of how it affects pathing. You need to add some extra space in your safe zone to compensate for it. The distance you have to move to walk out of the Shards doesn't seem like much, but you set yourself up for skillshot disables or free harass.",
+      "Tusk and all his allies are invulnerable in his Snowball, so don't cast your spells until the ball breaks apart.",
+      "Tusk can't cast Snowball when rooted/leashed.",
+      "Lotus Orbing a Snowball will stick you in your own Snowball once Tusk lands on you. Since you don't have a Snowball hotkey, you can't launch it early, but youcanpick up nearby allies and even cast your spells while inside your reflected Snowball."
+    ]
+  }
+}

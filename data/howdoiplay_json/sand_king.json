@@ -1,0 +1,27 @@
+{
+  "name": "Sand King",
+  "safe_name": "sand_king",
+  "strategies": {
+    "general_tips": [
+      "The only reason you shouldn't hero target Burrowstrike is if you're going for multi-hero stuns or if you're trying to achieve a very specific position. Unlike Lion's Earth Spike, the bonus range granted by skillshotting Burrowstrike is barely anything (~100 units extra).",
+      "Burrowstrike ignores Linken's Sphere and Lotus Orbs.",
+      "Burrowstrike is a movement spell that doesn't destroy trees in its path. This can be useful when trying to juke and escape pursuers.",
+      "Sand King isn't actually 'traveling' during Burrowstrike. It's more like you turn into a projectile and show up at your destination. As a result, you'll completely bypass any spells that may be in your path (like Dark Willow's Bramble Maze, Jakiro's Ice Path, or even a Faceless Void's Chronosphere).",
+      "Attacking or casting an item/spell while in the Sand Storm AoE will temporarily reveal you for a brief period of time, but you'll go back invis after.You can remove Dust detection (after you walk out of the AoE) with basic dispels, like from Eul's, Guardian Greaves, or Lotus Orb.",
+      "You can remove Dust detection (after you walk out of the AoE) with basic dispels, like from Eul's, Guardian Greaves, or Lotus Orb.",
+      "Stinger's damage is applied as aninstant attack. This instant attack ignores disarms, has true strike, and applies attack modifiers (except cleave). If you have an attack modifier with a proc, it'll roll for a chance to proc on each target hit.Since Stinger is an instant attack, it'll break your Smoke if it damages a unit.",
+      "Since Stinger is an instant attack, it'll break your Smoke if it damages a unit.",
+      "You can use a 'stop' command to cancel your Epicenter cast animation without putting it on cooldown.",
+      "If you're planning on casting Epicenter post-Burrowstrike, aim the Burrowstrike so you end up behind the enemy. This'll buy you a turn animation's amount of time before they can spin around and attempt to interrupt your Epicenter cast.",
+      "If you're going to shift-queue your Blink Dagger after the Epicenter animation, choose your destination at the very last second. Things can change during the long ass cast animation. Positions can move, TPs come in, Blinks go out, empires fall.",
+      "If enemies have vision of any part of the Agh's Shard Epicenter AoE, the whole spell is shown through fog.",
+      "Agh's Shard Epicenter pulses trigger on invisible and fogged units."
+    ],
+    "counter_tips": [
+      "Dust can be very irritating for Sand King to deal with since he'll have to leave the reveal AoE for the invisibility on Sand Storm to be useful.",
+      "Sand King cannot Burrowstrike when rooted.",
+      "Sand King's Caustic Finale innate won't trigger if a unit is denied.",
+      "If you don't have a stun/silence to interrupt Sand King's Epicenter animation, you can still potentially disable his Blink Dagger with damage. Making him waste 2-4 Epi pulses for a 0.1s Windranger Powershot or some other long range spell is a great trade."
+    ]
+  }
+}

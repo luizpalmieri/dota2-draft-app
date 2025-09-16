@@ -1,0 +1,36 @@
+{
+  "name": "Alchemist",
+  "safe_name": "alchemist",
+  "strategies": {
+    "general_tips": [
+      "Try to catch people in Acid Spraybeforeyou stun them. Spray lowers armor significantly and Unstable Concoction deals physical damage.",
+      "Unstable Concoction will affect the entire AoE, even when it detonates on you. If you're debuff immune/BKB'd, you won't be affected by the self-stun.",
+      "You can't target creeps with Unstable Concoction, but you can use the self-detonate AoE damage to farm stacked camps slightly faster, especially if you lay an Acid Spray down first for the armor reduction.",
+      "You can use Unstable Concoction's self-detonate damage to deny yourself.",
+      "Be aware that enemies can see the Concoction countdown timer.",
+      "If you're teleporting into a fight, consider casting Unstable Concoction before you start the TP. That way you'll have a pre-cooked stun ready the moment you show up. Only do this if you're the first person to TP to a building, though, otherwise you may end up stunning yourself before a delayed TP channel completes.",
+      "You get a lot of time between stacks on your Greevil's Greed innate. If you're freefarming, you should be hitting the max cap constantly. If you're jungling, learn how to strategically draw aggro from neutral creeps using Acid Spray or any items you have to keep stacks up.",
+      "You can Greevil's Greed off Undying Tombstone zombies, Wraith King skeletons (both lives!), and any type of ward unit. You don't get Greevil's Greed from illusions or buildings.",
+      "Activating Chemical Rage disjoints projectiles on cast. You don't need to time it, just activate the spell whenever you see a projectile flying towards you.",
+      "Casting Chemical Rage applies a basic dispel on your hero. Use it to wipe off things like DoTs, slows, blinds, or roots.",
+      "Gifting an Agh's Scepter also gives an ally all the stats that come with an Agh's Scepter and raises their net worth.",
+      "If you gift an Agh's Scepter to an ally that already has one, it will be immediately removed from their inventory and they will get all their gold back.If you gift an Agh's Scepter to an ally that has an Agh's Blessing, it will also fully refund the price of an Agh's Blessing to that hero.",
+      "If you gift an Agh's Scepter to an ally that has an Agh's Blessing, it will also fully refund the price of an Agh's Blessing to that hero."
+    ],
+    "counter_tips": [
+      "Just because you think the damage from Acid Spray isn't hurting you that much doesn't mean you should stand around in it. Acid Spray drops your armor substantially, so you're far more vulnerable to physical damage when in the Spray.",
+      "Alchemist himself has pretty garbage armor, so armor-debuffing spells and items are great for killing him through Chemical Rage.",
+      "Unstable Concoction explodes in a small AoE. Don't give your teammate a hug if they're about to get hit by the Concoction because it'll stun both of you.Similarly, if you have Alchemist disabled mid-Concoction, stay away from the self-detonation. You'll also get stunned if you're standing too close to him.",
+      "Similarly, if you have Alchemist disabled mid-Concoction, stay away from the self-detonation. You'll also get stunned if you're standing too close to him.",
+      "If you silence Alchemist during Unstable Concoction, he won't be able to throw it until the silence ends.",
+      "Unstable Concoction's projectile cannot be disjointed.",
+      "You can click on Alchemist to see how much time is left on the Chemical Rage buff. Try to time your ganks when the buff is about to run out.",
+      "The HP regen Alchemist gains during Chemical Rage can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Be aware that Chemical Rage dispels Alchemist on cast, so only use a Vessel charge on himafterhe activates Chemical Rage.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Be aware that Chemical Rage dispels Alchemist on cast, so only use a Vessel charge on himafterhe activates Chemical Rage.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "You should always care about getting bounty runes, but you shouldreallycare about bounty runes if you're playing against an Alchemist. He gets a ton of gold from each rune thanks to his Greevil's Greed innate.",
+      "The Agh's Shard Berserk Potion buff can be dispelled off enemies."
+    ]
+  }
+}

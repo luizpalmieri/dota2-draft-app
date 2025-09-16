@@ -1,0 +1,31 @@
+{
+  "name": "Lich",
+  "safe_name": "lich",
+  "strategies": {
+    "general_tips": [
+      "While manaregendoesn't work on Lich thanks to his Death Charge innate, burst mana still works. So items like Mango, Magic Stick/Wand, Soul Ring, Arcane Boots, and Healing Lotuses still give mana.",
+      "Frost Shield only reduces damage from right clicks orinstant attacks, not physical spell damage. It does not reduce damage from tower attacks.",
+      "Frost Shield won't slow or deal damage to units in fog.",
+      "You can cast Frost Shield on creeps.",
+      "You can cast Frost Shield onalltowers and buildings.If you take the \"Frost Shield Provides HP Regen\" talent, it can also heal buildings.",
+      "If you take the \"Frost Shield Provides HP Regen\" talent, it can also heal buildings.",
+      "You can cast Frost Shield on ward-type units. In addition to observer/sentry wards, this means things you can also cast it on Phoenix's Supernova, Pugna's Nether Ward, or Undying's Tombstone.Frost Shield being castable on ward-type units also applies to your Agh's Shard Ice Spire. The Frost Shield heals the Ice Spire in addition to its normal behavior.",
+      "Frost Shield being castable on ward-type units also applies to your Agh's Shard Ice Spire. The Frost Shield heals the Ice Spire in addition to its normal behavior.",
+      "Here's a big thesis on Frost Shield's obtuse mechanics from December 2021.Is it useful? Absolutely not. But is it impressive? Very. No one knows what it means, but it's provocative. It gets the people going.",
+      "You can cast Sinister Gaze on ranged creeps or neutral creeps that have mana to steal their mana.",
+      "Targets under Sinister Gaze will ignore pathing. This allows you to draw targets up and down cliffs.",
+      "Since Sinister Gaze locks an enemy's facing direction, you could use a Force Staff offensively to move an enemy even further. For some reason, you can't cancel Gaze with Force Staff, however. You'll have to manually end the Gaze,thencast Force Staff.",
+      "Sinister Gaze, like all fears, is a disable which effectively stuns and silences enemy targets.",
+      "Sinister Gaze always lasts for the fixed channel duration. This means it ignores status resistance on enemies, but also ignores debuff amplification.",
+      "Agh's Scepter Sinister Gaze allows you to cast all your other spells during the channel. They'll all have instant cast times and don't require you to face the target to cast.",
+      "Agh's Scepter Sinister Gaze allows you to pull targets in fog or even untargetable units, like a Dark Willow in Shadow Realm or enemies under a Slark Agh's Shard Depth Shroud.",
+      "Only the first hit of Chain Frost can be blocked by Linken's Sphere. The rest of the bounces will continue and deal damage as expected.",
+      "You can target your Agh's Shard Ice Spire with Chain Frost and Frost Shield."
+    ],
+    "counter_tips": [
+      "Be very careful of how far Sinister Gaze can pull you out of position.",
+      "Frost Shield and Sinister Gaze can both be dispelled with basic dispels.",
+      "If you kill the Agh's Shard Ice Spire, a Frost Blast from Lich will be cast around it on death."
+    ]
+  }
+}

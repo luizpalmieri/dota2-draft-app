@@ -1,0 +1,34 @@
+{
+  "name": "Chaos Knight",
+  "safe_name": "chaos_knight",
+  "strategies": {
+    "general_tips": [
+      "If you land a close range stun, it may be worth saving Reality Rift to gap-close after the stun wears off if you don't need the armor debuff.",
+      "Reality Rift does not break enemy channels.",
+      "If you cast Reality Rift on a debuff immune/BKB'd enemy, you'll just get teleported straight to them instead of meeting in the middle.",
+      "Reality Rift grabs any illusions you own within a 1375 radius.This includes Rifting in illusions of allies created with Agh's Scepter Phantasm.",
+      "This includes Rifting in illusions of allies created with Agh's Scepter Phantasm.",
+      "This is fairly common knowledge, but please turn on your Armlet before you Phantasm. Congratulations, you got super beefy illusions with no HP drain. This is also true pre-Manta or pre-Illusion rune for any hero.Remember to turn on Armlet before picking up Shield runes too.",
+      "Remember to turn on Armlet before picking up Shield runes too.",
+      "You can toggle your Armlet while TPing.",
+      "You can start in INT Treads and swap while in the Phantasm delay to get your illusions to spawn with AGI treads. You can't get them to STR because INT -> STR is two ticks, which can't be performed in time.",
+      "You can use the split animation on Phantasm to dispel your hero, disjoint projectiles, and banish yourself for 0.5s.Agh's Scepter Phantasm will globally dispel allies, but will not disjoint projectiles or banish them.",
+      "Agh's Scepter Phantasm will globally dispel allies, but will not disjoint projectiles or banish them.",
+      "If you're about to die, take a risk and send one of your illusions where you wanted to go while you sit still. Most people will assume you have garbage micro and continue pursuing whichever one is moving.",
+      "Like with Manta Style, re-casting Phantasm from a Refresher will replace the old illusions, not create an additional set of illusions.",
+      "I don't often recommend starting items, but CK is an excellent Mango carrier."
+    ],
+    "counter_tips": [
+      "Reality Rift and Chaos Bolt have amusingly long cast times. If you're getting chased by CK, use tree fog liberally to juke his spells.",
+      "CK cannot Reality Rift when rooted/leashed.",
+      "Winter Wyvern can be an annoying hero for CK to deal with. Cold Embrace makes it nigh impossible for him to kill targets and Winter's Curse can turn his own Phantasm illusions against himself.",
+      "Any level of Dagon can instakill illusions. As do spells like Disruptor's Glimpse, Pudge's Meat Hook, Skywrath Mage's Mystic Flare, and any Hex.Brewmaster's Storm Brewling with Dispel Magic deals full damage to all types of illusions.",
+      "Brewmaster's Storm Brewling with Dispel Magic deals full damage to all types of illusions.",
+      "Enchantress is a notable CK counter since Untouchable makes her very difficult to kill early by CK alone and she can easily steal Phantasm illusions with Enchant.",
+      "Because Phantasm illusions spawn one \"tick\" after the real CK emerges from the banish, you can attack+move the ground right underneath the Phantasm before it ends and you'll always start attacking the real CK (assuming no other targets are closer to draw your attack+move aggro).This tip also works against heroes generating Manta Style illusions. Attack+move a target before they Manta and you'll start attacking the real hero one tick before Manta illusions spawn.",
+      "This tip also works against heroes generating Manta Style illusions. Attack+move a target before they Manta and you'll start attacking the real hero one tick before Manta illusions spawn.",
+      "Ghost Scepter can buy you valuable seconds if CK Rifts you in to his illusion orgy.",
+      "Creating illusions of an enemy Chaos Knight has a chance to spawn an additional illusion thanks to his Reins of Chaos innate."
+    ]
+  }
+}

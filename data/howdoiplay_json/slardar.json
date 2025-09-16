@@ -1,0 +1,25 @@
+{
+  "name": "Slardar",
+  "safe_name": "slardar",
+  "strategies": {
+    "general_tips": [
+      "You can cast Guardian Sprint while TPing and it won't cancel the channel.",
+      "Slithereen Crush's puddle and the water trail from Corrosive Haze buffs your Seaborn Sentinel innate the same way being in the river would.Make a puddle with Crush when pushing towers to benefit from the bonus passive damage from Seaborn Sentinel.",
+      "Make a puddle with Crush when pushing towers to benefit from the bonus passive damage from Seaborn Sentinel.",
+      "Slithereen Crush and Bash procs deal physical damage, making them work very well with Corrosive Haze's armor reduction.",
+      "Increase your Bash attack counter on jungle or lane creeps. The buff lasts indefinitely and won't increase/proc on building or ward targets.",
+      "Basher/Abyssal passive bashes don't work with Slardar. The game won't allow you to have another bash besides Bash of the Deep.",
+      "Corrosive Haze's armor reduction lets your team take Rosh or Tormentor much more easily.",
+      "Corrosive Haze's true sight isn't some sort of get-out-of-buying-detection-free card. The way to counter invis heroes is to know where they are before they know you know where they are.",
+      "Corrosive Haze fully works on debuff immune/BKB'd enemies.",
+      "You can cast Corrosive Haze on enemy couriers.",
+      "Enemy illusions debuffed by Corrosive Haze provide you bonus armor with your \"Brineguard\" facet.The \"Brineguard\" facet working with illusions is especially relevant if you build Agh's Shard and Crush to apply Corrosive Haze to a bunch of illusions at once.",
+      "The \"Brineguard\" facet working with illusions is especially relevant if you build Agh's Shard and Crush to apply Corrosive Haze to a bunch of illusions at once."
+    ],
+    "counter_tips": [
+      "Slardar's Guardian Sprint can be dispelled.",
+      "Be aware that Corrosive Haze can allow the enemy team to take Roshan super early.",
+      "Like with Dust or Bounty Hunter's Track, Corrosive Haze can be removed with basic dispels like from Lotus Orb, Guardian Greaves, Manta Style, Disperser, or Satanic."
+    ]
+  }
+}

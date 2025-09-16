@@ -1,0 +1,52 @@
+{
+  "name": "Arc Warden",
+  "safe_name": "arc_warden",
+  "strategies": {
+    "general_tips": [
+      "Multiple Flux casts on the same target fully stack.",
+      "Manipulate creep aggro to get good Fluxes in lane. The search radius for muting Flux is basically melee range, so right click an enemy hero to attract their creeps towards you, then Flux 'em. Just don't forget to kill their ranged creep first.",
+      "Spark Wraiths trigger on invisibleandSmoked units.",
+      "Spark Wraiths provide a small radius of ground vision wherever they're planted.",
+      "Use Spark Wraiths to stack neutral camps.",
+      "You can double tap Tempest Double to cast it next to your hero.",
+      "Rules on what the Tempest Double can interact with on the map:The Tempest Double can activate and use every type of rune, Watchers, Outposts, and Twin Gates.The Tempest Doublecannotactivate Lotus Pools.The Tempest Double can activate Shrines of Wisdom. However, the primary experience won't go to Arc Warden. Only the secondary experience will be granted to your team.",
+      "The Tempest Double can activate and use every type of rune, Watchers, Outposts, and Twin Gates.",
+      "The Tempest Doublecannotactivate Lotus Pools.",
+      "The Tempest Double can activate Shrines of Wisdom. However, the primary experience won't go to Arc Warden. Only the secondary experience will be granted to your team.",
+      "Interactions with various items on the Double:Doubles cannot duplicate any consumable item (including Bottle).Items with charges (Urn, Holy Locket, etc) copy the Original's charges.Midas is considered core since the item effectively has a 2x multiplier with the Tempest Double.The Tempest Double's item cooldowns operate independently of your own.Doubles cannot copy Aegis, Gem, or Rapier. Itcancopy Refresher, but it can't activate it.A Double's BKB time decrements on its own.Doubles cannot pick up or drop items. You also cannot move items around in the Double's inventory/backpack.Any neutral item that has a right click effect with a cooldown won't apply with the Tempest Double.Basher doesn't work with the Tempest Double.",
+      "Doubles cannot duplicate any consumable item (including Bottle).",
+      "Items with charges (Urn, Holy Locket, etc) copy the Original's charges.",
+      "Midas is considered core since the item effectively has a 2x multiplier with the Tempest Double.",
+      "The Tempest Double's item cooldowns operate independently of your own.",
+      "Doubles cannot copy Aegis, Gem, or Rapier. Itcancopy Refresher, but it can't activate it.",
+      "A Double's BKB time decrements on its own.",
+      "Doubles cannot pick up or drop items. You also cannot move items around in the Double's inventory/backpack.",
+      "Any neutral item that has a right click effect with a cooldown won't apply with the Tempest Double.",
+      "Basher doesn't work with the Tempest Double.",
+      "So what can you do with items?Two Shivas' can be a double magic nuke in a huge radius. The active's slow and passive aura don't stack, however.You or your Tempest Double can Eul's Scepter each other. Yeah, no need for Wind Waker, just Eul's.Pipe of Insight's active does not have a stack limit duration, unlike Mek or Greaves. Multiple Pipe activations don't stack a bigger barrier, though, it'll just reset the barrier value to max. That being said, you probably shouldn't build Pipe on Arc unless you're against some kinda Zeus, Sand King, Leshrac, Queen of Pain, Tinker team or something.A double Dagon 5 can deal a ton of magic damage very quickly. This build can also be ruined by someone just building BKB or Aeon Disk.Tempest Doubles copy the Moon Shard buff if the main hero has one consumed.",
+      "Two Shivas' can be a double magic nuke in a huge radius. The active's slow and passive aura don't stack, however.",
+      "You or your Tempest Double can Eul's Scepter each other. Yeah, no need for Wind Waker, just Eul's.",
+      "Pipe of Insight's active does not have a stack limit duration, unlike Mek or Greaves. Multiple Pipe activations don't stack a bigger barrier, though, it'll just reset the barrier value to max. That being said, you probably shouldn't build Pipe on Arc unless you're against some kinda Zeus, Sand King, Leshrac, Queen of Pain, Tinker team or something.",
+      "A double Dagon 5 can deal a ton of magic damage very quickly. This build can also be ruined by someone just building BKB or Aeon Disk.",
+      "Tempest Doubles copy the Moon Shard buff if the main hero has one consumed.",
+      "Consider enabling the console commanddota_player_smart_multiunit_cast trueif you're playing Arc Warden or Meepo. This command makes the game attempt to cast a targeted spell on the first unit selected that doesn't have the spell on cooldownwithoutyou tabbing through control groups.Here's an example: You have both your hero and your Tempest Double selected. You cast Magnetic Field from your hero and put the spell on cooldown. You can press the spell hotkey again and the game will attempt to cast the spell, skip your hero because it's on cooldown, and then make the Double cast Magnetic Field.",
+      "Here's an example: You have both your hero and your Tempest Double selected. You cast Magnetic Field from your hero and put the spell on cooldown. You can press the spell hotkey again and the game will attempt to cast the spell, skip your hero because it's on cooldown, and then make the Double cast Magnetic Field."
+    ],
+    "counter_tips": [
+      "Flux won't deal damage if you're standing near any allied unit.Flux can also be muted by standing next to neutral creeps. Unfortunately, couriers donotmute Flux.",
+      "Flux can also be muted by standing next to neutral creeps. Unfortunately, couriers donotmute Flux.",
+      "Arc Warden has no stuns. If you think you can't survive a surprise Flux gank, just TP out.",
+      "In team fights, positioning items like Blink or Shadow Blade can help you isolate the real Arc Warden before he gets the opportunity to lay down a bunch of spells.",
+      "The Double cannot duplicate any sources of true sight, so invisibility like from Shadow Amulet/Shadow Blade/Glimmer Cape can be invaluable for survival.",
+      "Certain abilities can instakill creeps even if they're Glyphed. These include: Doom's Devour, Mirana's Sacred Arrow, Night Stalker's Agh's Shard Hunter in the Night, Pudge's Meat Hook, Hand of Midas, and Dagon. These can be handy to remember in a late game situation if Arc Warden Glyphs a creep wave while Boots of Traveling on to it.",
+      "Magnetic Field won't provide any evasion to enemies if you're attacking while inside the Field.",
+      "Spark Wraiths cannot be disjointed. Think of it like Skywrath Mage's Arcane Bolt since it also provides vision as it travels towards you.",
+      "Kill the Double. This is easier said than done in the late game, but it's worth having your team cooperate to slaughter the Tempest since the bounty on it is significant.",
+      "Most spells treat the Double like a hero, not like an illusion.Spells that give temporary buffs when attacking heroeswillproc on the Tempest Double. Examples: Bounty Hunter's Jinada gold steal, Monkey King's Jingu Mastery stacks, Outworld Destroyer's Astral Imprisonment mana steal, Silencer's Glaive INT steal, and Slark's Essence Shift temporary stat steal.Spells that give permanent buffs when killing a hero willnotproc when killing the Tempest Double. Examples: Axe's Culling Blade, Legion Commander's Duel, Lion's Finger of Death, Necrophos's Reaper's Scythe, or Bounty Hunter's Track. However, Axe's Culling Blade still resets its cooldown when killing the Double as if it's a hero, it just won't give the kill stacks.",
+      "Spells that give temporary buffs when attacking heroeswillproc on the Tempest Double. Examples: Bounty Hunter's Jinada gold steal, Monkey King's Jingu Mastery stacks, Outworld Destroyer's Astral Imprisonment mana steal, Silencer's Glaive INT steal, and Slark's Essence Shift temporary stat steal.",
+      "Spells that give permanent buffs when killing a hero willnotproc when killing the Tempest Double. Examples: Axe's Culling Blade, Legion Commander's Duel, Lion's Finger of Death, Necrophos's Reaper's Scythe, or Bounty Hunter's Track. However, Axe's Culling Blade still resets its cooldown when killing the Double as if it's a hero, it just won't give the kill stacks.",
+      "Phantom Lancer makes life difficult for Arc Warden. Illusions and dispels make Flux useless, evasion from the Magnetic Field can be easily bypassed by Phantom Rush, and Arc Warden isn't great at dealing AoE damage.",
+      "If Disruptor Glimpses a freshly spawned Tempest Double, it'll immediately get sent back to Arc Warden's fountain since it was \"dead\" there."
+    ]
+  }
+}

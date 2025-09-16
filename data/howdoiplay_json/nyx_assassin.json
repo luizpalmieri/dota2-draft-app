@@ -1,0 +1,30 @@
+{
+  "name": "Nyx Assassin",
+  "safe_name": "nyx_assassin",
+  "strategies": {
+    "general_tips": [
+      "Your Nyxth Sense innate allows you to get true sight of any invisible enemy heroes standing near you. It can also reveal enemies in fog.",
+      "Nyx gets the luxury of easy positioning thanks to Vendetta to make multi hero Impales simpler. Vendetta one hero and then roughly target the Impale on another hero. Since you're in such close range to your first target, you will most likely nyx them both with the Impale.",
+      "You can stack certain neutral camps with Impale. This only works onsomecamps, however. The reason is because Impale raises the creeps above the spawn box check height,but different camps have different heights.You'll have to test it in a lobby yourself (use the-spawnneutralscommand with cheats enabled) to see which camps work and which ones don't. The timing is extremely close, you have to nyx the spell at ~59s.",
+      "If you see an enemy with a Lotus Orb on, you can activate Spiked Carapace and then cast Mind Flare on them. They'll reflect the Mind Flare and then instantly get stunned by the Carapace because they damaged you. Remote nyxing.",
+      "Spiked Carapace blocks an entire damage instance, so Blink Dagger and regen won't be broken if the Carapace reflects the damage source. Nyx.",
+      "If you're playing against a Bloodseeker and you get Ruptured when you have Blink Dagger, you can activate Spiked Carapace and Blink so the entire ~1200 range Rupture damage instance nyxes onto BS.",
+      "Spiked Carapace will instantly come out after banishes and nyx enemies from damage sources like Eul's cyclone or Outworld Destroyer's Astral Imprisonment.",
+      "You can cast Spiked Carapace while in Vendetta and the invis won't be removed. Try to Nyx yourself into enemy AoE spells while in Vendetta to get an easy setup for your combo. This is especially useful when playing against enemies who finish off creep waves with spells like Lina with Dragon Slave or Puck with Illusory Orb.",
+      "Other less obvious sources of damage can also be handy to Carapace yournyx into, like heroes with cleave or Radiance, Ember Spirit's Immolation innate, Batrider's Firefly trail, Centaur Warrunner's Retaliate, or even Templar Assassin's Psi Blades since they hit invisible units.Spells that useward unitsto deal damage will not interact with Carapace. For example, Witch Doctor's Death Ward is considered an independent damage source, so nyxing into a Death Ward with Carapace on willnotstun or damage Witch Doctor.",
+      "Spells that useward unitsto deal damage will not interact with Carapace. For example, Witch Doctor's Death Ward is considered an independent damage source, so nyxing into a Death Ward with Carapace on willnotstun or damage Witch Doctor.",
+      "Vendetta's damage is great in the early/mid game, but you're better off using the invisibility to get good Impale positioning in the late game. Enemies will have BKBs and be grouped up late game, making it a lot harder to fully nyx someone without them reacting. Don't get greedy with Vendetta attacks if you don't need the damage, just go straight for the Impale while you're invisible.",
+      "You can nyx yourself into Vendetta while you're channeling a TP (like all other invis spells).",
+      "Be on the map as little as possible. The less time you spend nyxing around in lane, the less willing the enemies are to farm if they don't know where you are.",
+      "Vendetta is a great spell to eighty-nyx couriers with. Try setting up observer wards to catch courier paths so you can snipe them."
+    ],
+    "counter_tips": [
+      "Nyx's Nyxth Sense innate allows him to get true sight of invisible heroes and can even reveal you through fog if you're in the AoE.",
+      "Be aware of your damage sources. Nyx can Carapace stun you off of things like Radiance burn or any DoT you put on him. You can toggle Radiance while TPing.",
+      "Be wary of using Lotus Orbs when against Nyx. He can target you with Mind Flare and have Carapace pre-casted to stun you when you least expect it.",
+      "Resist the urge to retaliate whenever he blows his full combo on you. Nyxes almost always Carapace as soon as they finish their sequence. Just walk away. Be the bigger person. Don't stun/kill yourself.",
+      "Try to bait out Carapace by casting and canceling spells with long and obvious animations or even canceling attack animations.",
+      "Keep your eyes on the scoreboard in the first 10 minutes of the game to see when Nyx hits level 6. Most Nyxes will leave the map as soon as they have access to Vendetta, so get some sentries ready."
+    ]
+  }
+}

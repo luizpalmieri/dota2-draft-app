@@ -1,0 +1,53 @@
+{
+  "name": "Ember Spirit",
+  "safe_name": "ember_spirit",
+  "strategies": {
+    "general_tips": [
+      "The capture radius on Searing Chains is fairly large, but that's usually a disadvantage since it means you'll probably catch creeps when you want to catch heroes. When possible, hold on to the Chains until you can position yourself away from worthless enemy units rather thancomplaining aboutrelying on RNG.",
+      "Searing Chains will not capture units in fog or invisible units, but will provide true sight on captured units.",
+      "While Sleighted, projectiles will follow you around as you bounce from unit to unit. It's not a disjoint, but you can use this invulnerability period to 'absorb' projectiles without taking any damage or stun, like from a Gyrocopter Homing Missile for example.",
+      "While you are invulnerable, you are not considered 'hidden/banished' in Sleight of Fist or Activate Fire Remnant. That means certain spells that affect invulnerable units, like Silencer's Global Silence, can still affect you while you're in these spells.",
+      "You can use spells during Sleight of Fist. Yes, Chains is a given, but casting and activating Remnants during Sleight is also important. You can cast Remnants mid-Sleight to close distances quicker when chasing enemies. Activating them at the tail end of a Sleight will also make you extremely difficult to lock down when being chased.",
+      "You can use items during Sleight of Fist. This includes TP scrolls. Just be sure that your Sleight ends before the TP channel finishes, otherwise you'll be brought back to your Sleight Remnant.",
+      "You willalwaysreturn to your Sleight Remnant when Sleight ends. This means you can avoid an enemy Disruptor's Glimpse by being mid-Sleight when Glimpse is supposed to move you and you'll still return to your Sleight Remnant.",
+      "The hardest part of executing the Sleight+Chains combo on solo targets is knowing when Sleight will actually go off. Don't get too excited and prematurely cast Chains first. Just hit the hotkey as soon as you can react to Ember going into Sleight and you'll probably land it.",
+      "If you're trying to Sleight+Chain someone who's in a clump of other units, you should save the Chains until later in the Sleight. It's possible you may kill off some other useless units while Sleighting which improves your chances of Chaining the hero.",
+      "You can slightly influence where Chains will go off when attacking a large group of units.To do so, target Sleight, then shift+queue an attack/right-click command on the unit you want to Chain, then shift+queue Searing Chains. If done correctly, Searing Chains will go off when your hero gets \"close\" to the target you right-clicked. It's easier to do the more units are within the Sleight because you'll have more opportunities to be near your desired Chains target.",
+      "I highly recommend enabling the \"Show Ability Rangefinder While Casting\" interface setting. For Ember, it becomes far easier to tell when Sleight of Fist will go off when you can see the cast range.",
+      "When manfighting early on with a low level Sleight, keep the Sleight in your pocket until the end of the fight. With good timing, you can use the banishment phase of the Sleight to mask the backswing of one of your attacks while tripping up heroes who are mashing right click on you, stalling some potential auto attacks.",
+      "Unlike most other spells involving'instant attacks,'using Sleightwon'tbreak your Smoke when used on creeps.Also, unlike most other instant attacks, Sleight of Fist will deal no damage if you're disarmed and does not have true strike.",
+      "Also, unlike most other instant attacks, Sleight of Fist will deal no damage if you're disarmed and does not have true strike.",
+      "Because you're invulnerable when Sleight of Fisting or traveling to a Fire Remnant, you can cast items on Lotus Orbed enemies and it won't get reflected back on your hero.",
+      "Sleight of Fist lands on units in fog. Use this to scout if enemies are on high ground or behind treelines or check the Rosh pit.",
+      "You can cast Sleight of Fist while traveling to a Fire Remnant, but the timing isextremelytight. Not only do you need to target the Sleight of Fist immediately after entering Activate Fire Remnant, but you also need to target the Sleight directly along the path you're flying because Ember Spirit can't turn while flying to a Remnant.Honestly, this tip is purely here for the Ember Spirit enthusiasts who are fact checking my site for comprehensiveness. It's utterly useless in 99% of situations and nothing that I just typed makes any sense to a new player trying to learn Ember. But for you,Mr. 2000 Games On Ember?Yeah, I know your tech. Your useless tech.In fact, have a whole video aboutSleight of Fist.",
+      "Honestly, this tip is purely here for the Ember Spirit enthusiasts who are fact checking my site for comprehensiveness. It's utterly useless in 99% of situations and nothing that I just typed makes any sense to a new player trying to learn Ember. But for you,Mr. 2000 Games On Ember?Yeah, I know your tech. Your useless tech.",
+      "In fact, have a whole video aboutSleight of Fist.",
+      "Sleight of Fist won't draw aggro from neutrals because they don't know who hit them.",
+      "Illusions of Ember Spirit do not carry his innate passive Immolation damage.",
+      "Barriers, like the one from Flame Guard, will absorb damage before on-damage effects are triggered on your hero. This means things like Bottle won't get broken if you're only receiving magic damage during an active Flame Guard.",
+      "Raindrops absorb damage before Flame Guard does. If you're trying to preserve your active Flame Guard in lane for damage or to help last hit, a Raindrop may buy you some more damage to tank.",
+      "Your Remnants' travel speed scales off your hero's move speed when cast. This means that you should avoid casting fresh Remnants when you're slowed.This is relevant when dealing with weird spells like Disruptor's Kinetic Field and Slark's Pounce. If you walk to the very edge of these spells then your move speed is considered zero and your Remnant won't go anywhere.",
+      "This is relevant when dealing with weird spells like Disruptor's Kinetic Field and Slark's Pounce. If you walk to the very edge of these spells then your move speed is considered zero and your Remnant won't go anywhere.",
+      "You can pick up items, such as Aegis or runes, whiletraveling to a Remnantor when flying around in aSleight of Fist.",
+      "When traveling to a Fire Remnant, you deal damage to everything on the way in a melee range radius around your hero.",
+      "Use Remnants for mobility purposes as well as damage. Toss one out before teleporting back to base so you can quickly get back out on the lane. Toss one out before dying so you can get back out on the map as soon as you respawn (or buyback).",
+      "You consume all placed Remnants when activating one. Ember travels to the Fire Remnant furthest away from the targeted one first.",
+      "Ember Spirit will turn to face wherever you target Activate Fire Remnant regardless of which Remnant you're actually flying to. If you're just trying to mash your way out of a gank, target Activate Fire Remnant directly in front of your hero so you don't suffer through a potentially lethal turn rate.",
+      "After you gank a lane, consider hiding a Remnant somewhere nearby for safekeeping before you return to a different part of the map. Another gank opportunity may present itself in the same lane and enemies may not expect it.",
+      "When contesting runes, consider sending a Remnant to one rune spot and walking your hero to the other rune spot.",
+      "Damage from multiple Agh's Shard Remnants do not stack.",
+      "With Agh's Shard, you'll spawn a Remnant wherever you die."
+    ],
+    "counter_tips": [
+      "Whenever Ember uses Sleight, he leaves a temporary Remnant behind during the cast. This is where he'll always return once Sleight finishes. Use this as a beacon to set up disables like Dark Willow's Bramble Maze, Jakiro's Ice Path, Mirana's Arrow, or just start mashing your silence/hex/disable on the temporary remnant so you can catch him as soon as he returns.",
+      "Ember hates silences, but he also really hates slows. The travel speed on Remnant casts scale off of Ember's own move speed, so heroes with strong slows can cut Ember's aggression significantly since he'll need to pre-cast an escape Remnant before going in.",
+      "Ember cannot Activate Fire Remnant or cast Sleight of Fist when rooted/leashed.",
+      "Ember consumes all currently spawned Remnants when he Activates one.",
+      "You can click on Ember and check his buffs to see how many Remnants he currently has out on the map. If he has zero, get ready for the easiest gank of your life.",
+      "Sleight of Fist gets affected by evasion, disarms, and damage block.",
+      "You can dispel the active Flame Guard. This makes Eul's Scepter and Nullifier solid items to have against Ember.",
+      "Ember Spirit can't turn off his Immolation innate damage. This makes him easy pickings for Nyx Assassin with Spiked Carapace since Ember literally cannot stop dealing damage around himself.",
+      "Ember can pick up runes while flying around in a Sleight of Fist. Depending on how good of an Ember player you're up against, you should consider stopping for a moment just short of a rune to bait his Sleight so that he can't snatch it from you."
+    ]
+  }
+}

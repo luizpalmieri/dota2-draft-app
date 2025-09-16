@@ -1,0 +1,51 @@
+{
+  "name": "Storm Spirit",
+  "safe_name": "storm_spirit",
+  "strategies": {
+    "general_tips": [
+      "Static Remnants last quite a while, so it's not a bad idea to set some up if you're afraid a Riki or Smoked hero is trailing you since they'll detonate and damage on invis units.",
+      "You can drop a Static Remnant on an Aegis reincarnation to prevent the enemy from Blinking out since the Remnant will detonate as soon as the enemy respawns.",
+      "If you take the \"Static Slide\" facet, you can double-tap Static Remnant to cast the spell in place.",
+      "You can Overload an auto attack while the projectile is flying in the air. If you just tossed a long range auto attack on a target, you can cast a Remnant or Ball real quick and the attack will hit Overloaded.",
+      "Get your free Overloads. Cast a spell in the fountain or throw up a quick Remnant once you reach your destination if you're going to be TPing to a tower. Or use a spell before activating an invis rune.",
+      "You can cast spells like Static Remnant or Electric Vortex while flying in Ball Lightning.",
+      "You can use items while in Ball Lightning, like Scythe of Vyse or Orchid.You can begin channeling a TP while flying in Ball Lightning. Useful when escaping or during base defenses to kill a creep wave while zipping and TPing back to safety at the same time.You can pick up items while flying in Ball Lightning.Like an Aegis, perhaps.You can pick up runes that are along your path while in Ball Lightning. You can activate runes and use Bottle while in Ball.",
+      "You can begin channeling a TP while flying in Ball Lightning. Useful when escaping or during base defenses to kill a creep wave while zipping and TPing back to safety at the same time.",
+      "You can pick up items while flying in Ball Lightning.Like an Aegis, perhaps.",
+      "You can pick up runes that are along your path while in Ball Lightning. You can activate runes and use Bottle while in Ball.",
+      "You can start a drive-by Outpost or Watcher channel by clicking them during Ball Lightning.",
+      "Just be aware that you can only channel a single Lotus at a time. You can't grab the entire Pool in one drive-by.",
+      "While traveling in Ball Lightning, Storm will attempt to perform the next action you ordered once he gets in range to do it. If there is no action (like a right click on the enemy hero), he'll just auto attack the nearest thing if Auto Attack is set to 'Standard.'This can be irritating when you're Balling long distances or into fogged vision because Storm may waste the Overload attack on a creep that's in attack range while mid-Ball. To avoid this, hit the stop key while you're flying and he won't attack anything while flying and he'll do nothing when he lands.If you lose your Overload attack while flying in Ball Lightning, you can just re-cast Ball Lightning mid-flight and you'll get another Overload charge for free.",
+      "This can be irritating when you're Balling long distances or into fogged vision because Storm may waste the Overload attack on a creep that's in attack range while mid-Ball. To avoid this, hit the stop key while you're flying and he won't attack anything while flying and he'll do nothing when he lands.",
+      "If you lose your Overload attack while flying in Ball Lightning, you can just re-cast Ball Lightning mid-flight and you'll get another Overload charge for free.",
+      "If you need escape quickly when an enemy is setting up on you, be cognizant of your turn rate. You may be better off doing a quick zip forward rather than risking turning around in front of the enemy.",
+      "Avoid making multiple short trips when you're escaping and Balling on a mana budget. Do one long trip. There's no reason to have to pay the ignition cost of Ball Lightning multiple times if you have one destination.",
+      "Ball Lightning disjoints projectiles on cast.",
+      "You can cast a 0 range Ball Lightning by clicking your hero portrait when targeting Ball.If you have the \"Double Tap Ability to Self Cast\" setting enabled, you can also double tap Ball Lightning to cast it in place to get an Overload or for the disjoint.",
+      "If you have the \"Double Tap Ability to Self Cast\" setting enabled, you can also double tap Ball Lightning to cast it in place to get an Overload or for the disjoint.",
+      "If you Ball Lightning over the edges of the map, you briefly get high ground vision over the surrounding treeline.",
+      "If you Ball Lightning over the edges of the map at an angle, you'll be placed back onto the map without breaking any trees behind you. If you're trying to escape enemies chasing you in the trees, consider doing this instead of zipping down every tree in a straight line.",
+      "You are considered 'invulnerable' while in Ball Lightning (similar to being in a Eul's cyclone), so brush up on your jukenomics. Besides using the invulnerability to absorb projectiles, spells like Bloodseeker's Rupture won't affect you when you're traveling and you can even fly through a Faceless Void's Chronosphere without getting locked.",
+      "You arenotconsidered 'hidden/banished' in Ball Lightning. That means certain spells that affect invulnerable units, like Dark Seer's Vacuum, Silencer's Global Silence, or Vengeful Spirit's Nether Swap can still affect you while you're in Ball Lightning.",
+      "Since you are invulnerable while in Ball Lightning, you can cast items like Orchid on a target with Lotus Orb and not worry about it getting reflected back. You can also avoid a reflected Electric Vortex, but you have to target Ball Lightning far enough away that the 0.3s cast animation of Vortex takes place while you're still in Ball Lightning.",
+      "If you need to chain multiple Ball Lightning casts as quickly as possible, you need to try and time your next Ball Lightning when you're slightly less than 0.3s away from the first Ball Lightning ending. This way most of the cast animation for the next zip happens as the previous zip is ending. If you do it too early, Storm Spirit won't do anything when the first Ball Lightning ends. If you do it too late, you'll be vulnerable for a brief moment during the new zip's cast animation. This is mainly relevant during high ground defenses where you need to shoot out of your base to kill the creep wave and return back as safely as possible.",
+      "Doing multiple quick Ball Lightnings is a great way to torture heroes who have long cast animations. They'll have to keep turning and resetting their cast animation every time you Ball around them.",
+      "Arcane Rune (and other sources of mana cost reduction) only reduce Ball Lightning'sinitialmana cost, not the travel cost.",
+      "Remember that Regen Runes end once your hero is at max HP/mana. Keep zipping around and farming with Ball Lightning to keep yourself below max mana to take advantage of the full rune duration."
+    ],
+    "counter_tips": [
+      "Shut his mouth. Silences and most other disables irritate Storm. The more time he has to spend walking around with non-Overloaded right clicks, the less happy he is.",
+      "Break his ankles. Like most other heroes with a Blink, Storms will overshoot Ball Lightning down the path that they think you're traveling so they can get in more right clicks. If you're escaping out of his auto attack range during a gank, as soon as he starts Balling towards you, turn around and move to where he just was. He'll either have to Ball again or slowly walk to come back.",
+      "Tie him up. Storm can't cast Ball Lightning when rooted. Heroes with roots/leashes are obviously great, but don't forget about Rod of Atos.",
+      "Ghost Scepter is an underrated item against Storm. Yes, most of his damage is magic, but he actually has to right click on you to deal it.",
+      "Mana burn can be annoying for Storm to deal with. Anti-Mage, for example, loves going up against Storm Spirits.",
+      "Nyx Assassin can be annoying for Storm to deal with since he may inadvertently trigger Spiked Carapace with Overload or Static Remnant's AoEs.",
+      "Dark Seer's Vacuum and Vengeful Spirit's Nether Swap affect invulnerable targets. So you can potentially take Storm out of Ball Lightning with these spells.Disruptor's Agh's Scepter Static Storm can mute invulnerable targets. If a Storm Spirit keeps killing your creep wave with repeated Ball Lightning+TP combos when you're trying to siege his high ground, you can risk catching him by surprise by canceling his TP with an early Static Storm in his Ball Lightning path.",
+      "Disruptor's Agh's Scepter Static Storm can mute invulnerable targets. If a Storm Spirit keeps killing your creep wave with repeated Ball Lightning+TP combos when you're trying to siege his high ground, you can risk catching him by surprise by canceling his TP with an early Static Storm in his Ball Lightning path.",
+      "If you're Roshing and you suspect Storm may attempt to snatch the Aegis, try dropping some useless items like your Quelling Blade or Wraith Bands around Rosh. While he's frantically trying to pick up an Aegis, he may end up jamming his inventory with your decoy items.",
+      "Before Storm hits level 6, he's pretty vulnerable to ganks with his slow move speed and no escapes. Consider rotating to gank him early on in the game to slow him down.",
+      "The Overload buff can be dispelled off Storm Spirit.Agh's Shard Overload can be dispelled off enemies.",
+      "Agh's Shard Overload can be dispelled off enemies."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Lycan",
+  "safe_name": "lycan",
+  "strategies": {
+    "general_tips": [
+      "Wolves are quite possibly the strongest scouting tool in the game. They can serve as two moving, permanently invisible, temporary observer wards on demand. Use them to scout, check/kill runes, block/stack camps, body block targets, and most importantly, follow around high priority targets.If you want a Wolf to quietly hunt someone, select the Wolf, then issue a follow command by pressing the move command hotkey(default M)+left click on a target. Your Wolf will tail your target but never attack and break invisibility. However, be aware that when the duration of the Wolf ends, the enemy hero will suddenly see a Wolf keel over and die next to them, possibly compromising your sneakiness.Wolves summoned with the \"Spirit Wolves\" facet can also be useful for scouting. These Spirit Wolves have free pathing and will always stand behind your hero model. You could try turning your back to a cliff and the Wolves will path on top of the cliff and give some vision.",
+      "If you want a Wolf to quietly hunt someone, select the Wolf, then issue a follow command by pressing the move command hotkey(default M)+left click on a target. Your Wolf will tail your target but never attack and break invisibility. However, be aware that when the duration of the Wolf ends, the enemy hero will suddenly see a Wolf keel over and die next to them, possibly compromising your sneakiness.",
+      "Wolves summoned with the \"Spirit Wolves\" facet can also be useful for scouting. These Spirit Wolves have free pathing and will always stand behind your hero model. You could try turning your back to a cliff and the Wolves will path on top of the cliff and give some vision.",
+      "Wolves summoned with the \"Spirit Wolves\" facet will grief your smoke plays. These Wolves cannot be smoked and enemies will have vision of two gleaming Wolves randomly running around. This is also the case under an invis rune or Shadow Blade.",
+      "If you take the \"Alpha Wolves\" facet, the Hamstring spell on Wolves can root enemies through debuff immunity/BKB.",
+      "When jungling or Roshing, you can shake neutral aggro off your Wolves the same way you can drop tower aggro. Select the Wolf in question and then attack hotkey+left click another allied unit and the creeps should start focusing another unit.",
+      "Howl works on Rosh.",
+      "During night time, the Howl debuff is global. Pay attention to the minimap to see if your team can benefit from you Howling enemies.",
+      "Lycan has 1800 night vision when in Shapeshift form.",
+      "Here's a weird Agh's Scepter Wolf Bite interaction: Every time a Bitten ally returns from being banished/hidden, they'll get the Shapeshift health bonus. Try it. Wolf Bite a Puck and they'll heal every time they come out of Phase Shift, Wolf Bitten Ember Spirit with Sleight of Fist, or Wolf Bitten Phantom Lancer with Doppelganger. Their HP goes down during the hide and then goes back up when they return.This also works with just Lycan in Shapeshift form. Though really the only way you can reliably hide yourself is with a Manta Style activation or the \"Outworld Scepter\" neutral item artifact.",
+      "This also works with just Lycan in Shapeshift form. Though really the only way you can reliably hide yourself is with a Manta Style activation or the \"Outworld Scepter\" neutral item artifact.",
+      "Agh's Scepter Wolf Biting an ally will turn them into a melee hero no matter what range bonus items or spells they have. If a Wolf Bitten ranged hero has a spell that issue secondary attacks, the attacks won't connect unless the additional targets are in melee range.",
+      "You can Agh's Scepter Wolf Bite creep-hero units like creeps dominated by Helm of the Dominator/Overlord or an ally Lone Druid's Spirit Bear (wolfbear) or Warlock's Golem (golemwolf)."
+    ],
+    "counter_tips": [
+      "Howl can be dispelled off allies.",
+      "Illusions of Lycan provide Feral Impulse. Useful to know if you're playing Terrorblade since Reflection can give you a big damage boost.",
+      "While you can't slow him when he's Shapeshifted, mass Eul's Scepters are a great way to keep him on lockdown. It's cheap enough that most people on your team can build it and it buys time for other stuns to come off cooldown.",
+      "Crimson Guard can help reduce Lycan's damage and protect your buildings against his pushes.",
+      "Winter Wyvern's Winter's Curse can be irritating for Lycan to deal with since it turns him into food for all his summons.",
+      "Enchantress's Agh's Scepter Little Friends can turn Lycan's army against him.",
+      "Witch Doctor's Agh's Scepter Death Ward can bounce attacks on creeps/summons.",
+      "Night Stalker's Agh's Shard Hunter in the Night allows NS to eat ancient creeps at night."
+    ]
+  }
+}

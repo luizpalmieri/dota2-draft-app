@@ -1,0 +1,45 @@
+{
+  "name": "Chen",
+  "safe_name": "chen",
+  "strategies": {
+    "general_tips": [
+      "Penitence works on Roshan.",
+      "Ward-type units (Shadow Shaman's Serpent Wards, Witch Doctor's Death Ward, etc) and towers benefit from Penitence attack speed.",
+      "Penitence attack speed is granted at the beginning of an attack on the debuffed target.",
+      "Ranged creeps under Chen's control can also benefit from the Penitence attack range bonus.",
+      "If a creep dies because you Persuaded a new creep past the cap, it does not grant any experience to enemies.",
+      "Creeps spawn with level 2 of their spells at minute 15 and level 3 at minute 30. Only creeps that have spawnedafterthe minute mark will have the higher level spell. Any creep that was born before the 15/30 minute mark, including ones you've already Persuaded, will be stuck at the same spell level.",
+      "Learn the abilities and auras of neutral creeps and figure out which one best matches your playstyle at various points of the game.Early game, consider getting the big Ghost for move speed slow or big Harpy for Chain Lightning nukes.The Vhoul Assassins give you heal reduction on attacks, but it only reduces HP regeneration, not heals or lifesteal. This can be situationally useful against heroes like Io, Morphling, Timbersaw, or other heroes that buy HP sustain items early on.For mid game fights, the blue Centaur or Mud Golems provide useful stuns or the little Troll with its Ensnare. Other options could be the goblet Kobold for the move speed aura or the Dark Troll Summoner for its Skeletons' Rally aura for pushing. Remember that the Skeletons' Rally aura buffs damage forallallied creeps/summons/heroes.Those spear disarm Kobolds seem pretty silly, but did you know they can disarmtowers?That's right, you can even stop a Glyphed tower from multishotting if you poke it with the third disarming attack from this little guy.The orange Ogre Bruiser stun lasts a long time, but the windup is insane. If you can get some other stun creeps to setup for it, though...The Harpy Scout can see into the Rosh pit with its \"Take Off\" active.The Harpy Stormcrafter has 1800 night vision.Late game, the Alpha Wolf can be valuable for the crits and damage aura.Situationally, some other creeps can also be useful. The easy camp shield Troll gives you a passive that breaks, the small Ghost gives you an undisjointable silence, the small white Satyr gives you a dispel that can be cast on enemies and allies, and the small Wolf lets you reduce enemy total attack damage. The blue Ogre Ice Armor can be useful defensively. The healing Hill Troll provides a Heal Amplification aura which can boost Hand of God on allies.The Wildwing Ripper Hurricane ability can let you pull allies out of Faceless Void's Chronosphere and Enigma's Black Hole. Doesn't work against Disruptor's Kinetic Field, Mars's Arena, or leashes.If you buy Agh's Shard, some ancients worth considering are the small Frostbitten Golem for the cooldown reduction aura, big Granite Golem for the max HP aura, the big yellow Thunderhide lizard for the attack speed buff, or the blue Thunderhide lizard for the accuracy aura.Multiple casts of the Ice Shaman's Icefire Bomb don't stack, they just refresh the debuff.",
+      "Early game, consider getting the big Ghost for move speed slow or big Harpy for Chain Lightning nukes.",
+      "The Vhoul Assassins give you heal reduction on attacks, but it only reduces HP regeneration, not heals or lifesteal. This can be situationally useful against heroes like Io, Morphling, Timbersaw, or other heroes that buy HP sustain items early on.",
+      "For mid game fights, the blue Centaur or Mud Golems provide useful stuns or the little Troll with its Ensnare. Other options could be the goblet Kobold for the move speed aura or the Dark Troll Summoner for its Skeletons' Rally aura for pushing. Remember that the Skeletons' Rally aura buffs damage forallallied creeps/summons/heroes.",
+      "Those spear disarm Kobolds seem pretty silly, but did you know they can disarmtowers?That's right, you can even stop a Glyphed tower from multishotting if you poke it with the third disarming attack from this little guy.",
+      "The orange Ogre Bruiser stun lasts a long time, but the windup is insane. If you can get some other stun creeps to setup for it, though...",
+      "The Harpy Scout can see into the Rosh pit with its \"Take Off\" active.",
+      "The Harpy Stormcrafter has 1800 night vision.",
+      "Late game, the Alpha Wolf can be valuable for the crits and damage aura.",
+      "Situationally, some other creeps can also be useful. The easy camp shield Troll gives you a passive that breaks, the small Ghost gives you an undisjointable silence, the small white Satyr gives you a dispel that can be cast on enemies and allies, and the small Wolf lets you reduce enemy total attack damage. The blue Ogre Ice Armor can be useful defensively. The healing Hill Troll provides a Heal Amplification aura which can boost Hand of God on allies.",
+      "The Wildwing Ripper Hurricane ability can let you pull allies out of Faceless Void's Chronosphere and Enigma's Black Hole. Doesn't work against Disruptor's Kinetic Field, Mars's Arena, or leashes.",
+      "If you buy Agh's Shard, some ancients worth considering are the small Frostbitten Golem for the cooldown reduction aura, big Granite Golem for the max HP aura, the big yellow Thunderhide lizard for the attack speed buff, or the blue Thunderhide lizard for the accuracy aura.",
+      "Multiple casts of the Ice Shaman's Icefire Bomb don't stack, they just refresh the debuff.",
+      "When a Mud Golem dies, it will instantly split, but you will still have control of the Shards. You can use this to stun an enemy with the Mud Golem, Persuade a lane creep to force the split, and then have two more Shard Golem stuns.",
+      "When either of the Hellbears die, they give all allies in an AoE a buff. You can kill them on demand by Persuading a new unit once you're at the max amount of Persuaded creeps.",
+      "Persuaded enemy lane creeps will benefit from your Glyph's invulnerability.Persuaded enemy lane creeps also benefit from Roshan's Banner invulnerability. This also works with any Dominated enemy lane creep.",
+      "Persuaded enemy lane creeps also benefit from Roshan's Banner invulnerability. This also works with any Dominated enemy lane creep.",
+      "Creeps created from your Summon Convert facets are classified as creep-heroes and won't get instakilled by things like Midas or Dagon. They'll react to enemy spells like how Warlock's Golem does.",
+      "Remember that using Twin Gates costs mana on all units that pass through, including your creeps.",
+      "If you cast Divine Favor on yourself, all your creeps get teleported to your hero.If a unit being teleported under Divine Favor takes damage from a player, the teleport will be canceled.",
+      "If a unit being teleported under Divine Favor takes damage from a player, the teleport will be canceled.",
+      "Don't bring your whole entourage back to base if you need to refill HP and mana. Leave your creeps in the lane and try to pick up last hits or send them to neutral camps and start stacking.",
+      "You can hold ALT to see all your allies current HP under their top bar portraits. Useful if you need to keep your camera on one part of the fight, but want to make sure you can time Hand of God if someone's about to die.",
+      "Unlike most sources of debuff immunity, Agh's Scepter Hand of God doesnotalso dispel allies. They only receive the temporary debuff immunity."
+    ],
+    "counter_tips": [
+      "The following spell interactions only apply to Chen's Persuaded creeps, not the Summon Convert from his facets (which are considered creep-heroes):Consider getting a Midas or Helm of the Dominator if you're up against a Chen. Watch him fumble through his control groups before he realizes that you turned his Satyr into your Ogre Club.Dagon instakills non-ancient creeps.Heroes with spells that notably affect creeps are big counters against Chen. Clinkz's Death Pact, Crystal Maiden's Frostbite, Doom's Devour, Enchantress's Enchant, Lifestealer's Infest, Mirana's Sacred Arrow, Pudge's Meat Hook, and Night Stalker's Agh's Shard Hunter in the Night are a few specific examples.",
+      "Consider getting a Midas or Helm of the Dominator if you're up against a Chen. Watch him fumble through his control groups before he realizes that you turned his Satyr into your Ogre Club.",
+      "Dagon instakills non-ancient creeps.",
+      "Heroes with spells that notably affect creeps are big counters against Chen. Clinkz's Death Pact, Crystal Maiden's Frostbite, Doom's Devour, Enchantress's Enchant, Lifestealer's Infest, Mirana's Sacred Arrow, Pudge's Meat Hook, and Night Stalker's Agh's Shard Hunter in the Night are a few specific examples.",
+      "Damaging a unit that's being teleported under Holy Persuasion cancels the teleport."
+    ]
+  }
+}

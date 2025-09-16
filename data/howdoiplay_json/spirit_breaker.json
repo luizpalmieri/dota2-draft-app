@@ -1,0 +1,44 @@
+{
+  "name": "Spirit Breaker",
+  "safe_name": "spirit_breaker",
+  "strategies": {
+    "general_tips": [
+      "The Herd Mentality innate only benefits allies if they are an entirenumberedlevel behind. If they're behind in experience, but the same level as an ally, there is no experience benefit.",
+      "Take advantage of the proximity Greater Bashes you are gifted while Charging. If you're trying to land a stun on a unit that can't be targeted by Charge (if they're cycloned, banished, Linken's Sphere'd, etc) line yourself up so that you can cast Charge on a unit behind your intended target so you'll bash them en route.",
+      "Charge is blocked by Linken's Sphere on cast. You can potentially outplay this by Charging a creep near where your target is farming and hoping the creeps die so the Charge target will shift to the hero. A substitute Charge will not pop Linken's.",
+      "If you see an opportunity to gank another lane, consider TPing to the nearest available structure before casting a cross-country Charge. The less time an enemy has to react and reposition, the more successful your ganks will be.",
+      "If you're getting ganked and you can't take the fight, immediately move your camera over to another lane, find a creep or neutral, and Charge it. This is your escape mechanism.",
+      "You can send your courier to give vision of neutral camps to sneakily Charge around the map.",
+      "In your buffs, there is a portrait of the hero you're Charging. You can alt+click this to announce to your team who you're targeting with Charge.",
+      "During Charge, you are granted shared vision around the target. That means fog of war is removed around whatever the enemy hero can see. This is especially useful against heroes like Night Stalker who have extra vision in certain situations.",
+      "If you want to throw enemies off your Charge trajectory or slightly stall a Charge, consider backpacking move speed items while you're Charging. You'll slow yourself down and enemies may think you canceled the charge.",
+      "You can cast non-targeted items while you're Charging, like Phase Boots, Shadow Blade, Mask of Madness, Smoke of Deceit, BKB, and even Power Tread switching.",
+      "You can cast Bulldoze while Charging. Charge applies a Greater Bash on everything you hit and Greater Bash deals damage based off your move speed, so activating Bulldoze mid-Charge will boost your damage on contact.",
+      "After your Charge connects on an enemy, you'll usually have enough time to fish for one Greater Bash right click in the stun duration before you need to chain into Nether Strike.",
+      "Greater Bash's proc chance utilizespseudo-random distribution (PRD).Statistically, about one in every six right clicks should be a Bash with 17%, but PRD encourages a lower likelihood of 'streaks.' If you go six right clicks with no Bash, chances are now much higher that your next right clickwillBash thanks to PRD. Try to exploit this by priming right clicks on jungle or lane creeps before going for a gank.",
+      "Basher/Abyssal passive bashes don't work with Spirit Breaker. The game won't allow you to have another bash besides Greater Bash.",
+      "Greater Bash is essentially a crit dressed up in a scaling bash. Unfortunately, the only way of amplifying the 'crit' damage is by building move speed, not damage. The plus side is that you have two guaranteed ways of proccing this crit Bash with Charge and Nether Strike.",
+      "You can Nether Strike enemy couriers, but it won't damage them.",
+      "Probably the best Dust carrier and anti-invis hero you could ask for in pubs. Every time Dust is off cooldown, Charge that Riki and bash him into next Tuesday.",
+      "Get wards in the enemy jungle. Players will automatically avoid farming in lane once they realize you're becoming a threat and will start farming their jungle. Teach them that there is no sanctuary from the space cow.",
+      "SB is one of the tankiest level 1 heroes in the game. Take advantage of your chuftiness and don't be afraid of getting into fights early on.",
+      "Mechanically, Agh's Scepter Planar Pocket is like putting an inverse Linken's Sphere buff on a target. Enemy unit-targeted spells or items will do nothing to the Planer Pocketed target and will instead get re-cast from the enemy onto you. This includes any unit-targeted buffs that an enemy may place on their ally. If you're curious about the nuanced quirks and features of this spell, feel free to consultthe wiki."
+    ],
+    "counter_tips": [
+      "Ward everywhere. You need to always be keeping tabs on Spirit Breaker: Where does he come from, where does he go, who is he ganking, Barathrum Joe.",
+      "Even though most Spirit Breakers will carry Dust, consider getting a Glimmer Cape if he's Charging often. Nearly all of SB's damage is magical and needs to be dealt quickly, so the magic damage barrier while Glimmered can soak up a lot of his gank potential.",
+      "Charge can break Linken's from across the map. In Herald scum pubs this makes Linken's a Spirit Breaker counter, but in RIAA-certified Double Immortal tier, this makes SB a Linken's counter.",
+      "Remember that SB gets increased status resistance while in Bulldoze. Status resistance affects many things. It also doesn't affect a lot of things you may think it does.Here's the wiki page with all the interactions.",
+      "One of the easiest heroes to bait. No SB can resist Charging down a lonely Crystal Maiden quietly farming in lane, so take advantage of the mad cow's blood thirst. After a few failed ganks, the map will open up substantially when he stops Charging on a whim.Remember that while you're Charged, Spirit Breaker reveals the same fog of war that your hero sees. So don't just stand next to allies in plain sight if you're baiting him, make sure they're hiding behind trees where your hero wouldn't be able to naturally see them.",
+      "Remember that while you're Charged, Spirit Breaker reveals the same fog of war that your hero sees. So don't just stand next to allies in plain sight if you're baiting him, make sure they're hiding behind trees where your hero wouldn't be able to naturally see them.",
+      "SB can't cast Charge or Nether Strike when rooted/leashed.",
+      "Bulldoze can be removed off Spirit Breaker with basic dispels. This makes Eul's a handy item against him.",
+      "Shadow Demon can be a pretty strong counterpick with banishes to protect allies and Demonic Purge to slow SB and remove Bulldoze.",
+      "You can stun/root SB while he's Charging to cancel it. This is useful to know when you're getting Charged, but it's also useful when you're ganking SB. Keep a stun in your pocket for when he tries to Charge to another lane to escape.",
+      "Force Staff, Harpoon, and other sources offorced movement or knockbackcan end Charge prematurely.",
+      "Force Staff (or any other source of forced movement or knockback) will instantly remove Greater Bash's stun debuff. If an ally is stunned by Spirit Breaker's right click or Nether Strike, you can Force Staff them and they'll immediately be unstunned.This tip willnotwork against Charge, however. Charge has its own built in stun mechanic, only stuns using Greater Bash's debuff can be taken off with forced movement.",
+      "This tip willnotwork against Charge, however. Charge has its own built in stun mechanic, only stuns using Greater Bash's debuff can be taken off with forced movement.",
+      "You can disable SB while he's in the middle of the cast animation for Nether Strike to interrupt the animation."
+    ]
+  }
+}

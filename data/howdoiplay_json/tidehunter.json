@@ -1,0 +1,26 @@
+{
+  "name": "Tidehunter",
+  "safe_name": "tidehunter",
+  "strategies": {
+    "general_tips": [
+      "Gush applies minus armor on enemies. Try to use it before Anchor Smash since Anchor Smash is physical damage.",
+      "The Kraken Shell active cannot be dispelled.",
+      "Anchor Smash is an extremely easy spell to animation cancel (hit the stop key). This is mainly relevant if you're laning against another melee hero since you can bait them out of getting last hits by throwing out fake Smashes.",
+      "Anchor Smash's damage is applied as aninstant attack. This instant attack ignores disarms, has true strike, and applies attack modifiers (except cleave). If you have an attack modifier with a proc, it'll roll for a chance to proc on each target hit.Since Anchor Smash is an instant attack, it'll break your Smoke if it damages a unit.",
+      "Since Anchor Smash is an instant attack, it'll break your Smoke if it damages a unit.",
+      "Anchor Smash works on ancient creeps, but not Roshan.",
+      "The \"Anchor Smash affects buildings\" talent also applies the damage reduction debuff to towers.",
+      "Agh's Shard Dead in the Water provides true sight and exposes targets who move into fog.",
+      "Agh's Shard Dead in the Water's fixed move speed even works on enemies who are hasted or have slow resistance.",
+      "The Agh's Scepter Gush projectile itself doesn't give any vision, but you will temporarily get vision on every unit hit. The projectile can also hit invisible enemies, but won't give true sight."
+    ],
+    "counter_tips": [
+      "Tidehunter's Blubber innate that automatically strong dispels his hero after receiving damage over a threshold can be disabled by Breaks.Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "The Blubber innate can dispel a lot of debuffs, but certain persistent aura based debuffs like Disruptor's Static Storm or unit based debuffs like Grimstroke's Phantom's Embrace, can't be dispelled and are difficult for Tide to deal with.",
+      "Get a Magic Stick in lane if Tide is gonna be spamming Anchor Smash.",
+      "Ravage has a travel time as it expands outward, so if you're quick, you can attempt Force Staffing or using some other repositioning spell/item to evade it.You can even Blink inside of it since the Ravage AoE is a ring, not a filled circle.",
+      "You can even Blink inside of it since the Ravage AoE is a ring, not a filled circle."
+    ]
+  }
+}

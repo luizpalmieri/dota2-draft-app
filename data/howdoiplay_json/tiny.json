@@ -1,0 +1,48 @@
+{
+  "name": "Tiny",
+  "safe_name": "tiny",
+  "strategies": {
+    "general_tips": [
+      "The slow resistance mechanic, like from Tiny's \"Insurmountable\" facet, only reduces move speed slows, not attack speed slows.",
+      "Avalanche is constantly stunning in the AoE. So throw it in advance if you know a hero will be in the AoE before it finishes (mid-banish, pre-TP).",
+      "Toss fully disables the thrown unit (allies and enemies). It counts as a stun, so stagger it after Avalanche ends on an enemy to maximize disable time.",
+      "Debuff immune targets can never be thrown as a Tossed unit.",
+      "Toss damages buildings if a unit lands near it.With the \"Crash Landing\" facet, Toss will even slow tower attack speed if a unit lands near it.",
+      "With the \"Crash Landing\" facet, Toss will even slow tower attack speed if a unit lands near it.",
+      "The \"Crash Landing\" facet does not apply its debuffs to the unit that was Tossed, only the units the Tossed target lands on.",
+      "You can Toss people to runes.",
+      "Tossing enemy or allied heroes will break their channels.",
+      "Toss always grabs the unit closest to Tiny.",
+      "Targeting Toss on an enemy hero will pop their Linken's Sphere, but you can still grab a Linken's Sphere'd enemy and Toss them to something else.If you target Toss's landing on to an enemy that has Lotus Orb, they will Toss whatever you threw at them right back to you.",
+      "If you target Toss's landing on to an enemy that has Lotus Orb, they will Toss whatever you threw at them right back to you.",
+      "While you do need vision of a Toss target, you don't need vision of the unit you're going to Toss. Say an enemy is juking in fog, you can just mash Toss on a nearby target and Tiny will immediately grab the nearest valid unit, even if they're in fog, and Toss them. Useful against something like a Tree Dancing Monkey King who you can't see.You can't Toss invisible units, though. So to clarify: You can Toss units that aren't visible, but you can't Toss units that areinvisible. Got it? Good.",
+      "You can't Toss invisible units, though. So to clarify: You can Toss units that aren't visible, but you can't Toss units that areinvisible. Got it? Good.",
+      "When you're getting ganked by melee enemies, always be looking for units to Toss your aggressors away to.Next level plays when playing against melee-range Blink initiators: Bait yourself by hanging around in enemy vision and start mashing Toss on a target nearby. The moment you get Blinked on, you'll immediately Toss the enemy before they can react. Toss has an instant cast animation so you should theoretically be able to beat any kind of Blink initiation besides hex. This could be useful against heroes likeBatrideror Magnus who have to get within Toss range to initiate on you.",
+      "Next level plays when playing against melee-range Blink initiators: Bait yourself by hanging around in enemy vision and start mashing Toss on a target nearby. The moment you get Blinked on, you'll immediately Toss the enemy before they can react. Toss has an instant cast animation so you should theoretically be able to beat any kind of Blink initiation besides hex. This could be useful against heroes likeBatrideror Magnus who have to get within Toss range to initiate on you.",
+      "If allies are caught on the edge of a Faceless Void Chronosphere, you can Toss them out.",
+      "You can Toss targets in or out of a Disruptor's Kinetic Field.With BKB, you can potentially go into a Static Storm+Kinetic Field and Toss allies out to save them.",
+      "With BKB, you can potentially go into a Static Storm+Kinetic Field and Toss allies out to save them.",
+      "Attacking a building with a Tree can splash/cleave damage onto creeps, but attacking creeps will not splash damage onto buildings.",
+      "When ground targeting a Tree Throw, the tree will disintegrate and damage the first enemy unit it collides into, ignoring structures. A Thrown Tree will not 'cleave,' but instead explode in a circular AoE around the target.",
+      "Throwing a Tree provides vision as it travels.",
+      "Tree Throw's damage is applied as aninstant attackon the target hit. This instant attack ignores disarms, has true strike, and applies attack modifiers. If you have an attack modifier with a proc, it'll roll for a chance to proc on the primary target.Since Tree Throw is an instant attack, it'll break your Smoke if it damages a unit.You can activate Shadow Blade/Silver Edge after the Tree is thrown to get the backstab damage on the target hit.The splash damage from a Thrown Tree isnotclassed as an instant attack. So you can't apply Desolator on everyone hit by a Thrown Tree, for example, only the primary target.",
+      "Since Tree Throw is an instant attack, it'll break your Smoke if it damages a unit.",
+      "You can activate Shadow Blade/Silver Edge after the Tree is thrown to get the backstab damage on the target hit.",
+      "The splash damage from a Thrown Tree isnotclassed as an instant attack. So you can't apply Desolator on everyone hit by a Thrown Tree, for example, only the primary target.",
+      "You can't directly target couriers with Tree Throw, but a skillshotted Tree or a Throw that explodes near a courier can kill the donkey.",
+      "Denial attacks with a Tree will consume charges butwon'tcleave onto enemies.",
+      "Let your right clicks finish. Tiny's attack speed is constantly changing throughout the course of the game, which makes it a real pain to consistently cancel his backswing animation. Err on the side of caution and be patient.",
+      "You can \"store\" the max attack speed second hit of an Echo Sabre by canceling the attack before it connects. The attack speed buff lasts indefinitely, so you can spend the first right click on a creep and then store the fast attack for another target.",
+      "Echo Sabre will apply the slow with every Agh's Scepter Tree Volley attack and not go on cooldown."
+    ],
+    "counter_tips": [
+      "The damage reduction debuff from Tiny's Craggy Exterior innate can be dispelled.Applying breaks to Tiny will prevent Craggy Exterior from debuffing attackers.",
+      "Applying breaks to Tiny will prevent Craggy Exterior from debuffing attackers.",
+      "As long as the rocks are flying around, an Avalanche will stun you if you walk into the AoE.",
+      "Avalanche completely ignores any sources of status resistance.",
+      "Beware of being Tossed backwards into Tiny's tower during the laning phase. If Tiny starts running towards you for no good reason, watch out.",
+      "Breaks don't disable any aspect of Tiny's Grow. Would be pretty funny if it did, though.",
+      "Tiny is all about burst comboing enemies down. Consider investing in HP items (Blood Grenade, Fluffy Hat, Bracer) if you're a squishy support that keeps getting one-shotted."
+    ]
+  }
+}

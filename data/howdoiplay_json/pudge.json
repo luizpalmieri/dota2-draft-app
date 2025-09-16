@@ -1,0 +1,39 @@
+{
+  "name": "Pudge",
+  "safe_name": "pudge",
+  "strategies": {
+    "general_tips": [
+      "Part of being a good Pudge is more than landing Hooks, but also knowing when your Hooks won't land. The cast time is long enough that you should be able to at least occasionally stop-cancel unlikely Hooks. Stop-canceling Hooks is also a great way to stress out enemies who can see you.",
+      "Arguably the most reliable way of predicting enemy movement for Hooks during the laning phase is to watch for last hits. While you're hiding, watch the HP of your creeps and wait for the enemy to pick up the last hit. The knowledge of where they will be plus their attack animation should be enough to land a Hook fairly easily. If the only thing between you and the enemy is a creep, start casting the Hook right before they complete the last hit so the Hook passes through the creep as it's dying.",
+      "You can pull runes using Meat Hook and the mana cost on Hook will be refunded. You can abuse this with Soul Ring to refund the 'temporary' mana provided by the Ring's active.",
+      "Meat Hook willalwaysbring the unit it caught to your cast location when the Hook finishes returning. With expert timing, you can use this mechanic to save allies who are being repositioned with spells (like Disruptor's Glimpse or Kunkka's X Marks the Spot) or catch escaping enemies (like an Io Relocate) by having them be mid-return-Hook when the repositioning spell is triggered.This also works with TPing allies to bring them back after they spend a split second in the fountain.Meat Hook can pull allies or enemies out of Disruptor's Kinetic Field, Enigma's Black Hole, Faceless Void's Chronosphere, and Mars's Arena.A rare exception to Meat Hook beating all other spells is Clockwerk's Power Cogs. If you're pulling an ally out of Power Cogs, Hook movement will get canceled by the shock from Cogs.Meat Hook cannot pull allies or enemies that are being pulled by a Batrider's Flaming Lasso. However, if the Lasso ends mid-Hook, the target will end up next to Pudge once the Hook finishes returning.",
+      "This also works with TPing allies to bring them back after they spend a split second in the fountain.",
+      "Meat Hook can pull allies or enemies out of Disruptor's Kinetic Field, Enigma's Black Hole, Faceless Void's Chronosphere, and Mars's Arena.",
+      "A rare exception to Meat Hook beating all other spells is Clockwerk's Power Cogs. If you're pulling an ally out of Power Cogs, Hook movement will get canceled by the shock from Cogs.",
+      "Meat Hook cannot pull allies or enemies that are being pulled by a Batrider's Flaming Lasso. However, if the Lasso ends mid-Hook, the target will end up next to Pudge once the Hook finishes returning.",
+      "There are certain spotsin the mid lanethat you can jam your hero into that'll allow you to body block a Hook victim and prevent them from walking anywhere. Toss the Hook, then walk a tiny bit backwards to create a gap that only the victim can fit into.",
+      "Meat Hook does not cancel channels on allies. You can Hook them while they're TPing and it won't interrupt it. Hell, you can even Hook and move an allied Witch Doctor channeling Death Ward and it won't interrupt him.",
+      "Meat Hook damages, drags, and fully disables debuff immune/BKB'd enemies.",
+      "Meat Hook instantly kills any enemy/neutral non-ancient creep in connects with. This includes enemy siege creeps.",
+      "Meat Hook instantly kills enemy illusions.",
+      "Use Rot to help get last hits in lane.",
+      "You can't kill yourself with Rot damage.",
+      "You can toggle Rot while channeling and it won't cancel the channel. Like during Dismember or a TP.",
+      "Meat Shield can be activated while channeling. Like during Dismember or a TP.",
+      "Meat Shield reduces the self-damage taken from Rot.",
+      "Walking up to a hero and Dismembering them without Hooking them is like getting body shots as a Sniper in TF2. No one will respect you, but who cares when you get the kill.",
+      "Target and cast Dismember while an enemy is getting Hooked to give them as little time as possible to react with a BKB or some gap creating spell. This works because the sooner you start your Dismember cast animation, the less time an enemy has to react. If you start walking towards the enemy while they're returning from Hook, they'll be in Dismember cast range sooner.",
+      "When Roshing, don't use Dismember unless you're absolutely safe. It's a huge red flag for the enemy team that Pudge is off enjoying some fresh meat (the Dismember sound is global every time you cast it) despite the fact there is no hero on the map getting Benihana'd.",
+      "Don'tevershift-queue Meat Hook after Dismember. You are almost always better off canceling the last few milliseconds of Dismember by casting Meat Hook rather than waiting for the channel and cast backswing to end.",
+      "Dismember provides true sight on the target.",
+      "Never let Rubick steal Meat Hook. Constantly be spamming Rot against a Rubick."
+    ],
+    "counter_tips": [
+      "Play the hero and read the tips. The best way to beat a Pudge is to become the Pudge. You put Pudge into a cup, he becomes the cup, you put Pudge into a teapot, he becomes the teapot. Be Pudge, my friend.",
+      "Check Pudge's boots. If he's running at you with Rot and has Tranquils, you should right click him once to break his boots to slow his move speed before fleeing.",
+      "Lotus Orb prevents Pudge from casting Dismember on a target without it getting canceled instantly.",
+      "Dismember is a channeled disable, so stunning or silencing Pudge during the channel will end the spell.",
+      "In lane, consider constantly cutting down trees if you have a Quelling Blade. Pudge's Hooks are much easier to predict if he's not able to hide behind a forest."
+    ]
+  }
+}

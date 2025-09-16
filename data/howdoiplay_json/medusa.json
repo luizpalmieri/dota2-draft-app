@@ -1,0 +1,39 @@
+{
+  "name": "Medusa",
+  "safe_name": "medusa",
+  "strategies": {
+    "general_tips": [
+      "Debuff immunity (like from BKB) blocks the mana burn from Diffusal Blade against your Mana Shield innate.",
+      "Magic resistance (like from BKB) doesn't really improve your survivability. The Mana Shield innate calculates damage before any reductions are factored in, so all you're reducing is the 2% of damage that goes through to your HP.",
+      "Split Shot hits creeps if you're targeting a tower, but it won't hit a tower if you're attacking creeps.",
+      "If you're hitting a single target and Split Shot is toggled on, you're still taking the damage reduction. Stop attacking Rosh, finishing jungle camps, or pushing creepless towers with Split Shot on.",
+      "Illusions will either have Split Shot on or off depending on how you had it toggled before they spawned.",
+      "If an enemy Techies has Reactive Tazer on, you can hit him with secondary Split Shot attacks and you won't get disarmed.However, if you get an Agh's Scepter, then secondary Split Shotswilldisarm you on Techies Reactive Tazer.",
+      "However, if you get an Agh's Scepter, then secondary Split Shotswilldisarm you on Techies Reactive Tazer.",
+      "Mystic Snake bounces arenot random.The Snake will always take the shortest possible bounce once it reaches a target.This means that a Mystic Snake targeted on a melee creep will almost always bounce between other melee creeps before jumping to the ranged creep because they're always so tightly packed. It also means that if a hero is hanging around near their ranged creep, the Snake will almost definitely bounce to them before going to the rest of the creep wave.",
+      "This means that a Mystic Snake targeted on a melee creep will almost always bounce between other melee creeps before jumping to the ranged creep because they're always so tightly packed. It also means that if a hero is hanging around near their ranged creep, the Snake will almost definitely bounce to them before going to the rest of the creep wave.",
+      "Mystic Snake gains damage for each subsequent target it hits. Don't shoot the Snake directly at the enemy hero in lane if you want to get the max damage.",
+      "A general rule of thumb for determining if a jungle creep has a mana pool: If they have an active spell, they have mana. You can always left click on them to find out for sure. Camps whereallthe creeps have mana, like Satyr or Mud Golem camps and the Golem or Thunderhide ancient camps, are great sources to refill yourself with Mystic Snake.",
+      "Gorgon's Grasp can hit and reveal invisible enemies. It can also hit untargetable enemies (like a Slark in Shadow Dance)."
+    ],
+    "counter_tips": [
+      "Your all-purpose mana burners can be good against Dusa early/mid game. Invoker (EMP), Lion (Mana Drain), Silencer (Glaives of Wisdom), Anti-Mage (Mana Break), Bane (Fiend's Grip) are obvious counterpicks. Heroes who easily build Diffusal Blade can also be useful for burning her mana.",
+      "Stone Gaze will petrify you after you look at her for 2 cumulative seconds. Turning away from her doesn't reset the timer; it'll continue counting down from where the timer left off when you start looking at her again.",
+      "You can't dispel the 2 second Gaze timer, but you can dodge the petrification with banishes. You still count as facing Medusa even if you're in a banish (including Eul's cyclone), so if you time it properly, the stun will trigger while you're in your banish. When you exit the banish, you won't be stunned and a new 2 second timer will begin.",
+      "Windranger can attack Medusa during Stone Gaze while walking away with Focus Fire. Razor can attack Medusa during Stone Gaze while walking away with Static Link.",
+      "Activating Phase Boots on melee heroes can improve your turn rate when dealing with Stone Gaze.",
+      "Mars's Bulwark active can redirect Split Shot attacks to Mars.",
+      "Medusa is a ranged hero so Halberd's disarm lasts longer on her.",
+      "Breaks can disable Split Shot.",
+      "Infused Raindrop can protect you from a lot of potential Mystic Snake damage in lane.",
+      "Damage amplification isn't very effective against Medusa since her Mana Shield innate blocks damage before any other factors, like magic resistance or armor, are calculated.",
+      "Lifesteal isn't very effective against Medusa since you deal very little damage to her actual HP and that's what lifesteal calculates off of.",
+      "Elder Titan's Echo Stomp is great against Medusa since enemies only wake up once they take a certain amount of damage. But Medusa isn't taking that much damage, her Mana Shield innate is. So you can beat her to death without her waking up.",
+      "Oracle's Purifying Flames are a cute counter against Medusa since you don't really care about her healing. Nuke down her Mana Shield innate, who cares if she gets a little bit of HP back afterwards.",
+      "Illusions of Medusa are very tanky because they get the Mana Shield innate. This makes spells like Dark Seer's Wall of Replica, Grimstroke's Agh's Scepter Dark Portrait, or Shadow Demon's Disruption pretty annoying counters.",
+      "Any level of Dagon can instakill illusions. As do spells like Disruptor's Glimpse, Pudge's Meat Hook, Skywrath Mage's Mystic Flare, and any Hex.Brewmaster's Storm Brewling with Dispel Magic deals full damage to all types of illusions.",
+      "Brewmaster's Storm Brewling with Dispel Magic deals full damage to all types of illusions.",
+      "The buff provided by Medusa's \"Engorged\" facet can be removed with dispels."
+    ]
+  }
+}

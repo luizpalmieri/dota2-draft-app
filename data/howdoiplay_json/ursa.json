@@ -1,0 +1,39 @@
+{
+  "name": "Ursa",
+  "safe_name": "ursa",
+  "strategies": {
+    "general_tips": [
+      "Ursa can Earthshock to jump up or down cliffs and out of Disruptor's Kinetic Field.",
+      "You consume Overpower stacks on denial attacks.",
+      "The duration on the Overpower buff is longer than the spell's cooldown. Meaning that before you go in for a gank or into Rosh, you should cast Overpower well in advance so a second cast is already in the chamber when you need it.",
+      "When laning, try to keep Fury Swipe stacks up like you would Batrider's Sticky Napalm, especially against melee heroes. Ursa has very high base armor, so it can be worth tanking creep aggro to maintain Fury Swipe stacks.",
+      "Casting Enrage applies abasic dispelon your hero. Use it to wipe off DoTs, slows, blinds, or roots.Agh's Shard Earthshock doesnotapply the Enrage dispel.If you get an Agh's Scepter, Enrage becomes a strong dispel allowing you to remove stuns as well.",
+      "Agh's Shard Earthshock doesnotapply the Enrage dispel.",
+      "If you get an Agh's Scepter, Enrage becomes a strong dispel allowing you to remove stuns as well.",
+      "If you're already in Enrage, Agh's Shard Earthshock will add bonus duration to the Enrage.The Enrage from Agh's Shard Earthshock will also refresh the duration of your \"Grudge Bearer\" facet damage bonus. Cast Earthshock near the end of the Grudge Bearer buff duration to get extra time with the bonus damage.",
+      "The Enrage from Agh's Shard Earthshock will also refresh the duration of your \"Grudge Bearer\" facet damage bonus. Cast Earthshock near the end of the Grudge Bearer buff duration to get extra time with the bonus damage.",
+      "Fury Swipes works on Roshan allowing Ursa to kill him solo.",
+      "If Rosh is attacked by the team that last killed him, he'll release a \"Roar of Retribution\" at a certain HP threshold that enemies can hear globally signalling that Rosh is being taken.",
+      "Ursa is also very good at taking the Tormentor solo, just save your Enrage for the last few swipes.",
+      "Tormentor respawn timings are not announced in-game, you need to keep track of the last time it was killed.bind b \"chatwheel_say 57\"Enable the console and paste that command in and you can note the time whenever you press B or whatever hotkey.If you're too lazy to do that, then alt+click on the clock or enable 'Current Time' in your chat wheel. If your team has a habit of pinging things constantly and you think you'll lose the Tormentor time, just type the time in the chat and press Ctrl+A and Ctrl+X/Ctrl+C to preserve it in your clipboard.This tip was originally written in regards to taking the Rosh timer, but now that's built into the game next to your minimap as of 7.38.",
+      "If you're too lazy to do that, then alt+click on the clock or enable 'Current Time' in your chat wheel. If your team has a habit of pinging things constantly and you think you'll lose the Tormentor time, just type the time in the chat and press Ctrl+A and Ctrl+X/Ctrl+C to preserve it in your clipboard.",
+      "This tip was originally written in regards to taking the Rosh timer, but now that's built into the game next to your minimap as of 7.38.",
+      "There's an item in the game calledBlock of Cheese.You make it by combining 18 Healing Lotuses and 1 Cheese. Most games won't have this happen, but with how much Ursa kills Rosh, it's possible."
+    ],
+    "counter_tips": [
+      "Ursa has no stuns, so keep your finger on your TP when you see him bearing down on you.",
+      "Ursa gets bonus status resistance while in Enrage. So if possible, try to save your disables for when Enrage ends, rather than during the buff.The red Enrage visual on Ursa is pretty deceptive. He actually grows when Enrage is active and starts shrinking back down once it wears off. The red visual lingers for around one secondafterthe Enrage buff ends.",
+      "The red Enrage visual on Ursa is pretty deceptive. He actually grows when Enrage is active and starts shrinking back down once it wears off. The red visual lingers for around one secondafterthe Enrage buff ends.",
+      "You really need at least one Force Staff on your team against Ursa, preferably more. After that, Eul's, Scythe of Vyse, Aeon Disk, and Ghost Scepter are all good support items against Ursa.",
+      "Eul's cyclone duration doesn't get reduced by status resistance which makes it a good counter against Enrage.",
+      "Ursa can dispel himself with Enrage. Heroes with undispellable abilities like Invoker's Deafening Blast, Viper's Viper Strike, or Bloodseeker's Rupture are quite useful.",
+      "Ursa's Agh's Scepter allows him to Enrage out of stuns (similar to Abaddon's Borrowed Time), but he still won't be able to ult when hexed or silenced.",
+      "You can dispel Overpower stacks off of Ursa, making heroes like Enchantress (Enchant), Oracle (Fortune's End), and Shadow Demon (Demonic Purge) fairly useful.Shadow Demon is especially useful since Enrage can't dispel Demonic Purge. So not only are you slowing Ursa to a crawl, but Overpower will get insta-dispelled if he casts it. Just try to cast Demonic Purge on UrsabeforeEnrage is active, otherwise Enrage's status resistance will reduce the duration of the debuff.Applying Nullifier on Ursa is also useful for the same reasons.",
+      "Shadow Demon is especially useful since Enrage can't dispel Demonic Purge. So not only are you slowing Ursa to a crawl, but Overpower will get insta-dispelled if he casts it. Just try to cast Demonic Purge on UrsabeforeEnrage is active, otherwise Enrage's status resistance will reduce the duration of the debuff.",
+      "Applying Nullifier on Ursa is also useful for the same reasons.",
+      "BreakingUrsa only stops him from adding new Fury Swipe stacks, it does not stop him from getting bonus damage from existing stacks.",
+      "Ursa likes to sneak his first Rosh very early on in the game. It can be worth the effort to plant wards around the pits early on if he's lazy and doesn't smoke into Rosh.",
+      "There are tiny little blind spotson the edge of the Rosh pit entrancethat you can only see(old maps) if you walk right on it. Not super useful, but a notable interaction if you want to get cute."
+    ]
+  }
+}

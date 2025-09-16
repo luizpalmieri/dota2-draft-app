@@ -1,0 +1,44 @@
+{
+  "name": "Juggernaut",
+  "safe_name": "juggernaut",
+  "strategies": {
+    "general_tips": [
+      "You can activate Blade Fury while TPing and your channel won't break. Use this to go debuff immune if someone is walking up to you while you're TPing or use it to show up to your destination pre-debuff immune.",
+      "Debuff immunity, like from Blade Fury, prevents Tormentor damage from reflecting on you.",
+      "If you right click an enemy unit during Blade Fury, you'll \"attack\" them, but not in the traditional sense. The mechanics behind these right click attacks performed during Blade Fury:They willnotdeal damage to heroes.They willnotcleave or lifesteal.They will apply/refresh on-hit effects like Orb of Venom or Desolator.They will roll for proc chances on items like Basher or Maelstrom.They will deal damage to towers.They will add to 'hero attacks' for ward-type units (Pugna's Nether Ward, Shadow Shaman's Serpent Wards, Phoenix's Supernova, Undying's Tombstone).They will deal damage to couriers.",
+      "They willnotdeal damage to heroes.",
+      "They willnotcleave or lifesteal.",
+      "They will apply/refresh on-hit effects like Orb of Venom or Desolator.",
+      "They will roll for proc chances on items like Basher or Maelstrom.",
+      "They will deal damage to towers.",
+      "They will add to 'hero attacks' for ward-type units (Pugna's Nether Ward, Shadow Shaman's Serpent Wards, Phoenix's Supernova, Undying's Tombstone).",
+      "They will deal damage to couriers.",
+      "You can Blade Fury into a Black Hole or Chronosphere and your spinning DPS won't get canceled. You'll still get disabled, though.",
+      "If you're extremely fast fingered, you can cast Blade Fury during Manta Style's banishment to get out of ground targeted silences like Riki's Smoke Screen and Disruptor's Static Storm. It's hard as hell to do, but you may have luck if you just mash both the Blade Fury hotkey and your Manta hotkey at the same time.",
+      "Rather than frantically clicking around an enemy while attempting to Blade Fury them, use a follow command (default M+left click) on the target hero. This makes you far more difficult to juke and takes the guesswork out of following the enemy. Just beware if the enemy is about to go into fog because that will cancel the follow.",
+      "If you hold down ALT while mashing the Blade Fury hotkey, you can make Juggernaut scream on demand. Core knowledge in the laning phase, tbh.",
+      "Jughead is a competent solo pusher with the staying power that the Healing Ward gives creeps.",
+      "Healing Ward gives a fair amount of ground vision making it a clever tool for scouting if you don't need the heal. Use it to scout Rosh, check uphill, or give vision on cliffs for counterwarding.",
+      "To get your Healing Ward to stick on an ally, select the Ward and then right click the ally you want it to follow or use a move command (default 'M'+left click).",
+      "While mid-Omnislash, you can cast spells (except Blade Fury) and use items (except TPs and Blink Dagger).",
+      "As soon as you get your ultimate, constantly be looking for good opportunities to Omnislash. A good way to create one is to quickly kill the enemy's creep wave and then pounce on them while they're wondering why you got four last hits and they have yet to get one. The lane push will be worth the kill.",
+      "Only the first hit of Omnislash can be blocked by Linken's Sphere. The rest of the bounces will continue and deal damage as expected.",
+      "Omnislash damage works through disarms.",
+      "Casting Omnislash applies a basic dispel on Jugg.",
+      "Mechanically, Agh's Scepter Swiftslash follows all the same notes and rules as Omnislash.",
+      "You can seamlessly chain a Swiftslash cast into an Omnislash and vice versa if you need the extra damage. The Slash duration doesn't stack, however, so you should commit the second spell when the first one is about to end."
+    ],
+    "counter_tips": [
+      "Blade Fury applies a strong dispel on Jugg once the spell ends. So unlike other sources of debuff immunity, there's no point trying to stun Jugg as his spin is about to time out.",
+      "Going Ethereal (from Ghost Scepter, Necrophos's Ghost Shroud, Pugna's Decrepify, etc.) protects you from damage received during Omnislash. Eul's Scepter can also be used to momentarily evade Omni damage.",
+      "Keep tabs on Jugg's mana in lane. Blade Fury and/or Omnislash are usually free kills if Jugg has the mana to cast them. It also means that he can't escape easily if he doesn't have the mana to cast Blade Fury.",
+      "HOLY PEACHES, PLEASE KILL THE HEALING WARD. It doesn't take long. Doesn't matter if it's a 1k crit from Drow or a love tap from a dominated ranged creep, KILL IT.",
+      "At early levels, help your teammate diffuse Omnislash damage by running in and tanking some bounces. At late levels, just run away because he'll probably kill you both.",
+      "DUDE I'M SERIOUS, KILL THE HEALING WARD.",
+      "Each Omnislash attack alternates between hitting the front and back of a hero. The first attack is always on the back. You can use this to outplay low level Omnislashes with heroes like Bristleback or Mars by rotating your hero 180 degrees in between slashes to make sure Jugg keeps hitting the reduced side. This is only really useful against early game Omnislash.",
+      "Damage block from items like Vanguard or Crimson Guard can reduce Omnislash damage.",
+      "The search radius to find the next Omnislash attack is not huge. If you're able to quickly exceed the distance while you're being solo Omni'd, like with Mirana's Leap or Void Spirit's Astral Step or any spell Blinks, you can potentially escape the Omnislash.",
+      "Going invisible (if Jugg has no true sight) or banishing yourself will end the Omnislash if there are no other targets for Jugg to jump to."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Death Prophet",
+  "safe_name": "death_prophet",
+  "strategies": {
+    "general_tips": [
+      "Crypt Swarm can use unit targeting or ground targeting. If an enemy is juking into fog, use ground targeting, otherwise Death Prophet may cancel the unit-targeted cast if the enemy escapes vision.",
+      "Crypt Swarm can hit units slightly further than its max cast range.",
+      "If you ground target Crypt Swarm from fog, you won't reveal yourself to the enemy who gets hit by it. If you directly target them, they'll get vision of you.This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "You can't use two Spirit Siphon charges on one enemy at the same time, but you can have multiple Siphons out at once. If you're getting ganked, try to Siphon all of the heroes chasing you, or neutral/enemy creeps for the HP.",
+      "The Spirit Siphon heal is independent of the damage dealt. You can Siphon units with increased magic resistance, like siege creeps, Mud Golems, or Warpine Raiders and still heal the expected amount of HP.",
+      "You can cast Spirit Siphon on Roshan and Tormentor.",
+      "Refresher Orb/Shard restores all Spirit Siphon charges.",
+      "Refreshing and recasting Exorcism won't double up the spell, but instead cause the previous cast to end first, making the ghosts return to Death Prophet and heal her.",
+      "Exorcism ghosts deal physical damage. As a result, it does more/less damage based on enemy armor values.",
+      "Your Exorcism spirits will target whoever you right click. You can change targets even if you're disabled/stunned/cycloned.",
+      "When pushing undefended towers, stand closer to the tower. This will decrease the amount of time your Exorcism ghosts spend circling back to you after hitting the structure and allow you to deal more damage.Here's a cute trick: Plant an Iron Branch tree in front of a tower and stand behind it while Exorcism is active. Assuming there are no enemy creeps or wards to give vision, the enemy tower won't attack you because it can't see you unless you right click it.",
+      "Here's a cute trick: Plant an Iron Branch tree in front of a tower and stand behind it while Exorcism is active. Assuming there are no enemy creeps or wards to give vision, the enemy tower won't attack you because it can't see you unless you right click it.",
+      "A weird random interaction is Exorcism ghosts can kill Techies' Proximity Mines and Venomancer's Plague Wards, but can't damage any other type of ward unit. It's tricky to pull off consistently, but it does happen.",
+      "The slow from Agh's Scepter Exorcism Ghosts works on debuff immune/BKB'd enemies."
+    ],
+    "counter_tips": [
+      "Spirit Siphon won't break if you go into fog, but the Siphon itself doesn't provide shared vision of your hero. Death Prophet can still track you by following the Siphon particles, but you may be able to avoid a few right clicks by juking in trees.",
+      "You can click on her and check her buffs to see the duration left on Exorcism.",
+      "Chasing her down mid-Exorcism is a dangerous game. Besides the fact that the ghosts do a lot of damage, it's entirely likely that the ghosts will completely fill up her HP once they're done and she'll just turn around and destroy you.",
+      "Despite being physical damage, Exorcism ghosts ignore damage block and evasion, so Vanguard or Crimson Guard won't reduce their damage. Only armor helps.",
+      "You can target a hero that has defensively Eul's cycloned themselves with Nullifier to cancel it or you can cast Nullifier on them to prevent Eul's from activating. Shadow Demon's Demonic Purge works similarly.",
+      "The HP Death Prophet gains from Spirit Siphon or Exorcism ending can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Mage Slayer reducesspelldamage, meaning it can also reduce the amount of damage dealt from Exorcism."
+    ]
+  }
+}

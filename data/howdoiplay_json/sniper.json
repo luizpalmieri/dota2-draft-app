@@ -1,0 +1,37 @@
+{
+  "name": "Sniper",
+  "safe_name": "sniper",
+  "strategies": {
+    "general_tips": [
+      "Multiple casts of Shrapnel on the same area don't stack.",
+      "Use Shrapnel to provide vision of the enemy tower during high ground sieges if your creeps are dead.",
+      "Tier 1 towers never have backdoor protection enabled, only Tier 2 onwards have it. Keep this in mind if you want to sneak a quick Tier 1 tower without a creep wave.",
+      "You can use the active on Take Aim to prevent Rubick from stealing your better spells.",
+      "You can cancel the long Assassination cast animation with the stop key.",
+      "Assassinate ministuns targets and can break enemy channels when the projectile lands.",
+      "Assassinate gives true sight on the target during the cast animation and until the projectile connects.",
+      "Assassinate provides shared vision around the target. This is useful when dealing with high ground (sieging or defending) since you can keep casting it and canceling it on enemies/creeps to see around them.",
+      "If Sniper gets a kill, Assassinate's cooldown is refreshed. You don't even need to get the killwithAssassinate, any kill refreshes it.",
+      "Assassinate applies aninstant attackin addition to the nuke damage. This instant attack ignores disarms, has true strike, and applies attack modifiers. If you have an attack modifier with a proc, it'll roll for a chance once the projectile lands.You can activate Take Aim before the projectile lands to get the guaranteed Headshot proc on the instant attack.You can activate Shadow Blade/Silver Edge after the Assassinate projectile is launched to get the backstab damage.Since Assassinate deals an instant attack, it'll break your Smoke once it damages a unit.",
+      "You can activate Take Aim before the projectile lands to get the guaranteed Headshot proc on the instant attack.",
+      "You can activate Shadow Blade/Silver Edge after the Assassinate projectile is launched to get the backstab damage.",
+      "Since Assassinate deals an instant attack, it'll break your Smoke once it damages a unit.",
+      "The hero that needs to exploit positioning in lane the most. The Sniper Shuffle is the complex laning dance that involves waddling forward, popping the enemy in the face until you get a Headshot, pissing them off, running backwards, praying that they don't feel like wasting the energy to kill you, waiting for them to retreat, then repeating. The better you are at predicting enemy movement, the better Sniper you can be.",
+      "Agh's Shard Concussive Grenade counts as a disable, allowing you to briefly stun enemies and cancel their channels.",
+      "The self-knockback from Agh's Shard Concussive Grenade allows you to travel up and down cliffs. You can even blast yourself out of a Disruptor's Kinetic Field.",
+      "Nullifier can dispel the Force Staff buff off heroes. However, it does not dispel the Hurricane Pike pushback buff. If you're trying to escape while Nullified, casting Pike on yourself won't work to create a gap, but Piking an enemy will.",
+      "Sniper has higher than average night vision (1400 vs the standard 800). If you only barely see someone at night, chances are they can't see you."
+    ],
+    "counter_tips": [
+      "If you're getting Assassinated, you will have a debuff icon present in your status bar. The shot will get fired when the debuff timer goes around halfway. There are a few ways to evade it:Since the spell gives true sight on your hero, it can't be disjointed by traditional invisibility. However, Smoke of Deceit invis is unique and will cancel the targeting or even disjoint the projectile.Other disjoints, like from Blinks, will only dodge the spellafterthe projectile is fired.Spells that banish you or make you untargetable will cancel the Assassination cast. You don't need to time it when the projectile is fired, banishes cancel the targeting phase of Assassination. This even includes the very quick banish from a Manta Style activation.Spells that grant invulnerability, but don't banish, like Bane's Nightmare or being cycloned in Eul's won't cancel Assassinate targeting, but can potentially dodge the damage from the projectile if you time them right.",
+      "Since the spell gives true sight on your hero, it can't be disjointed by traditional invisibility. However, Smoke of Deceit invis is unique and will cancel the targeting or even disjoint the projectile.",
+      "Other disjoints, like from Blinks, will only dodge the spellafterthe projectile is fired.",
+      "Spells that banish you or make you untargetable will cancel the Assassination cast. You don't need to time it when the projectile is fired, banishes cancel the targeting phase of Assassination. This even includes the very quick banish from a Manta Style activation.",
+      "Spells that grant invulnerability, but don't banish, like Bane's Nightmare or being cycloned in Eul's won't cancel Assassinate targeting, but can potentially dodge the damage from the projectile if you time them right.",
+      "Infused Raindrop can save your life from some early game Assassinations.",
+      "Breaks can disable Sniper's bonus attack range from his Keen Scope innate.",
+      "Sniper has higher than average night vision (1400 vs the standard 800). Something to be aware of if you're trying to gank him at night.",
+      "Sniper can't cast Agh's Shard Concussive Grenade if he's rooted or leashed."
+    ]
+  }
+}

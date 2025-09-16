@@ -1,0 +1,24 @@
+{
+  "name": "Ogre Magi",
+  "safe_name": "ogre_magi",
+  "strategies": {
+    "general_tips": [
+      "Ogre can trade hits with the best of them in lane. Dude is crazy chufty with his ridiculous starting armor and a bucket of HP to boot.",
+      "Each cast of Ignite searches for two targets to hit. The secondary target is always whatever enemy unit is closest to the primary target that isn't already Ignited.",
+      "You can cast Bloodlust on towers.Any building can be Bloodlusted, actually. Your fountain can attack even faster and enemies may be less willing to kill your barracks when they're engorged.You can even Bloodlust the Aegis of Champions in your base and the neutral item chest. Suspiciously, youcan'tBloodlust your shopkeeper and get a very mysterious \"Ability Can't Target Enemies\" error. Deepest lore.",
+      "Any building can be Bloodlusted, actually. Your fountain can attack even faster and enemies may be less willing to kill your barracks when they're engorged.",
+      "You can even Bloodlust the Aegis of Champions in your base and the neutral item chest. Suspiciously, youcan'tBloodlust your shopkeeper and get a very mysterious \"Ability Can't Target Enemies\" error. Deepest lore.",
+      "Couriers can also be given the lust for Blood.",
+      "Only enemy or neutral targeted items can Multicast. Ally targeted items will never Multicast.",
+      "Multicast gives a chance for Hand of Midas to work on multiple creeps.Remember that higher levels of Multicast increase the amount of Midas procs. You may be wasting potential Multicasts on creep camps with only 2 creeps.",
+      "Remember that higher levels of Multicast increase the amount of Midas procs. You may be wasting potential Multicasts on creep camps with only 2 creeps.",
+      "You can't Multicast Quelling Blade, Tangoes, Urn of Shadows, Spirit Vessel, or Helm of the Dominator.",
+      "Multicasting an item adds a bonus 600 range 'search radius' on top of the item's default max cast range when finding secondary targets centered around Ogre Magi. This allows you to potentially Multicast items on enemies outside your normal cast range.",
+      "Agh's Shard Fire Shield can be cast on buildings."
+    ],
+    "counter_tips": [
+      "Even though running's not as fun as hitting, Ogre is a chaser extraordinaire. His only downfall is his slow cast times. If Ogre's chasing you down, try running into tree fog often.",
+      "Bloodlust is dispellable."
+    ]
+  }
+}

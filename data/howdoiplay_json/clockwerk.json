@@ -1,0 +1,43 @@
+{
+  "name": "Clockwerk",
+  "safe_name": "clockwerk",
+  "strategies": {
+    "general_tips": [
+      "When using Battery Assault in lane, position yourself so that the enemy creeps won't absorb hits. Stand along the outer perimeter of an enemy hero, rather than bulldozing through the middle of the creep wave.",
+      "Avoid immediately right clicking the enemy hero and drawing creep aggro when you're going in with Battery Assault in lane.",
+      "Battery Assault can't hit invis or untargetable units, but Power Cogs can. So if an enemy Templar Assassin uses Meld or a Slark goes into Shadow Dance, be aware that the shock on Cogs can still hit them.",
+      "The shock on Power Cogs counts as a stun. Even if Battery Assault is on cooldown, you can still cancel enemy TPs if you hit them with Cogs.Setting up Cogs right beside an Aegis grave can give you an instant disable when an enemy respawns.",
+      "Setting up Cogs right beside an Aegis grave can give you an instant disable when an enemy respawns.",
+      "Power Cogs with the \"Expanded Armature\" facet can shock enemies inside and outside the Cog circle.",
+      "If you have melee carries and you land a Hook+Cog, hit a Cog so that your teammate can get in to deal damage. Or, just walk in front of your target after Hooking them and Cog shock them towards your allies instead of trapping the enemy inside the Cogs.",
+      "Using Cogs as an area denial tool is just as useful as locking someone in. Use it to prevent enemies from chasing you or use it during high ground tower defenses.",
+      "With quick timing, you can activate a Force Staff, cast Cogs, and then end up outside of the Cogs. This is useful when escaping and trying to create a gap between enemies since you won't have to waste time hitting one of your Cogs to get out. Or you can just cast Force Staff after putting Cogs up, but that's not nearly as cool.",
+      "If you're offlaning, consider using Cogs to lock your lane creeps in at the beginning of the game so the waves meet closer to your tower.",
+      "Power Cogs destroy all trees within the circle and pushed Cogs also destroy trees in their path.",
+      "Consider planting Cogs near your team during high ground sieges to preempt an enemy who's trying to Blink in and initiate on your team. If they do, they may immediately get shocked when they Blink in.",
+      "Power Cogs have a massive radius of vision for some reason. Consider punching a few into enemy high grounds or other fogged areas to scout. You can also try dewarding by spawning a Power Cog on a cliff for vision instead of wasting your Rocket Flare cooldown.",
+      "Rocket Flares give vision on detonation, we all know that, but the vision provided during the Flare's flight is just as important. Make a decision whether you want vision of a small area for a long time or a large area for a short time. If you are policing the Rosh pit, detonate the Flare there. If you're trying to get information about where the enemies are during a lull, let it fly all over their jungle and explode somewhere useless. Ideally you can do both in one Flare and get a double kill where it explodes, but that's not always going to happen.",
+      "In late game situations, consider using Rocket Flare vision to keep track of runes.",
+      "If you are within ~1800 range of a neutral camp, you can draw aggro and stack it with Rocket Flare.",
+      "In the laning phase, consider using your Rocket Flare to pop an enemy Raindrop from an entirely different lane. It'll 100% trigger them and might even actually be useful for gameplay too?",
+      "A target can get hit by two Agh's Scepter Overclocked Rocket Flares if you target the primary Flare ~200 units or more left/right off center.",
+      "You can Hookshot to allied units, neutrals, Tormentor, or Rosh. Keep this in mind if Hook is off cooldown and you're getting ganked.",
+      "Hookshot stuns debuff immune/BKB'd enemies.",
+      "Clockwerk will briefly stun everything in his path while flying to a Hookshotted target. Normally this isn't relevant since the only target you'll usually collide with is the one you landed the Hook on. However, if you quickly change your 'starting' location after casting Hookshot with something like Blink Dagger, you can change your trajectory and use your flying body as a debuff immune piercing disable.",
+      "Cancel the cast animation for Hookshot with your 'stop' hotkey to bait enemies into juking for no reason.",
+      "You can interrupt Hookshot from dragging Clockwerk to his target by self-casting Force Staff or Eul's mid-flight.",
+      "You can cast items while flying in Agh's Shard Jetpack. In fact, you don't even have to turn your hero to target items (or spells) if you cast them mid-Jetpack. You can even TP while Jetpacking.",
+      "You can channel an Outpost or Watcher while Jetpacking. Just be sure you're happy with the direction you're traveling before you start because you'll have to keep moving in a straight line until the channel completes.If you channel a Twin Gate or Underlord Fiend's Gate while Jetpacking, your hero will stop moving and channel in place.",
+      "If you channel a Twin Gate or Underlord Fiend's Gate while Jetpacking, your hero will stop moving and channel in place."
+    ],
+    "counter_tips": [
+      "Clockwork: Professional Salve Assassin. Try to keep Healing Salve/Clarity usage on the down low, even if Clock's not in your lane. That dude will Flare you at the worst possible times.",
+      "Rocket Flare is a popular spell to get cross-map kills. If you're low on HP and Clock is far away, pause for a moment once you're in fog to try to evade a potential Flare.",
+      "Hookshots are fairly easy to juke if you know they're coming. If you're trying to escape and you just walked into a Flare, stand still for a moment or change your current path trajectory.",
+      "Pay attention to the Flare particles. If you're in the Rosh pit and you think you're safe because you haven't gotten hit, Clock may have Flared the area earlier.",
+      "Nature's Prophet casting Sprout on a target in Cogs will always shove everyone except the main target out of the Cogs.This is not applicable if Clockwerk has taken the \"Expanded Armature\" facet.",
+      "This is not applicable if Clockwerk has taken the \"Expanded Armature\" facet.",
+      "Clock's Agh's Shard Jetpack ability can be dispelled."
+    ]
+  }
+}

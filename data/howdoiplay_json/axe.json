@@ -1,0 +1,42 @@
+{
+  "name": "Axe",
+  "safe_name": "axe",
+  "strategies": {
+    "general_tips": [
+      "Remember that you can draw aggro from creeps on demand by right clicking enemy heroes. Even if the enemy hero is across the map, right clicking them will draw creep aggro. Don't waste mana on Berserker's Call if you don't have to.You can even use the top bar portraits to draw aggro. If you see an enemy hero is in vision on your minimap, you can attack+move (default A+left click) the enemy top bar portrait and it'll issue an attack command which'll draw creep aggro without having to move your camera.",
+      "You can even use the top bar portraits to draw aggro. If you see an enemy hero is in vision on your minimap, you can attack+move (default A+left click) the enemy top bar portrait and it'll issue an attack command which'll draw creep aggro without having to move your camera.",
+      "Enemies will follow you around when taunted in Berserker's Call. If you value positioning more than damage, you can walk or Force Staff after a Call to shepherd taunted enemies in your direction.",
+      "Berserker's Call goes through debuff immunity. If you see a BKB'd Shadow Fiend wiggling around trying to cast his Requiem, just walk up and Q him to interrupt it.",
+      "Berserker's Call's taunt is undispellable, even by strong dispels like Legion Commander's Press the Attack or Tidehunter's Kraken Shell.",
+      "Berserker's Call is a handy way to interrupt an enemy's invisibility. If an enemy Clinkz just ran away with 10 HP, try Blinking into where you think he'll be and cast Call. If you're right, they'll be forced to attack you and lose their invis.",
+      "Just because you don't catch anyone in Berserker's Call doesn't mean the spell was a bust. You get massive armor during its duration which can sometimes make the difference between life and death.",
+      "Remember that Battle Hunger DPS scales off your armor. So if an enemy is close to death from Battle Hunger, try casting a Berserker's Call on nothing just to give yourself more armor.The successful kill buff from Culling Blade also temporarily boosts your armor significantly. It's probably rarely practical, but you could Cull some nearby creep to increase your armor and raise your Battle Hunger DPS if an enemy is close to ticking out but out of range to get Culled themselves.",
+      "The successful kill buff from Culling Blade also temporarily boosts your armor significantly. It's probably rarely practical, but you could Cull some nearby creep to increase your armor and raise your Battle Hunger DPS if an enemy is close to ticking out but out of range to get Culled themselves.",
+      "Battle Hunger deals physical damage which means it is amplified with minus armor and can damage debuff immune/BKB'd enemies.",
+      "Battle Hunger is a great spell for disabling Blink Daggers, especially when breaking high ground.",
+      "Battle Hunger is a great spell for annoying supports in lane. Either they have to steal a last hit from their carry and get raged at or they panic over denies and miss them anyway.",
+      "When jungling a camp with Hill Trolls, focus your right clicks on the little shield Trolls bastards because they Break you and prevent you from lowering the Counter Helix count.",
+      "Counter Helix will trigger on mostinstant attackslike from Clinkz's Burning Barrage, Pangolier's Swashbuckle, or Riki's Tricks of the Trade.Instant attacks that cannot proc attack modifiers, like Gyro's Flak Cannon, willnottrigger Counter Helix.Counter Helix willnottrigger on attacks from towers or wards (like Shadow Shaman's Serpent Wards or Venomancer's Plague Wards).",
+      "Instant attacks that cannot proc attack modifiers, like Gyro's Flak Cannon, willnottrigger Counter Helix.",
+      "Counter Helix willnottrigger on attacks from towers or wards (like Shadow Shaman's Serpent Wards or Venomancer's Plague Wards).",
+      "You can Cull any enemy unit, including creeps. While this is usually irrelevant, it can potentially be worth Culling a creep to get the AoE movement speed buff to catch up to or escape from an enemy.",
+      "A lethal Culling Blade can kill through Dazzle's Shallow Grave, Oracle's False Promise, Abaddon's Borrowed Time, and Troll Warlord's Battle Trance. Culling Blade don't care.This works because Culling Blade removes these specific buffs off an enemybeforedealing its lethal damage.",
+      "This works because Culling Blade removes these specific buffs off an enemybeforedealing its lethal damage.",
+      "Culling Blade can be used as a finishing blow on Rosh in high pressure fights. Just be aware that killing Rosh won't reset the cooldown.",
+      "You can instagib couriers with Culling Blade.",
+      "A handy way to estimate Culling Blade thresholds is to look at the thin black lines on enemy HP bars. Each line represents 250 HP. Use that to estimate how much damage you need to do depending on your Culling Blade level.",
+      "Axe has one of the highest base HP regen stats in the game. This makes creep cutting a very effective strategy during the laning phase if the enemy team doesn't have any heroes who can deal with you from a distance."
+    ],
+    "counter_tips": [
+      "The bonus strength gained by Axe's \"One Man Army\" facet can be removed with breaks.",
+      "Battle Hunger can be taken off by denies. If your lane mate is being a hungry hungry hippo with last hits, focus your energy on landing a deny.",
+      "Battle Hunger only slows you if your hero is facing away from Axe.",
+      "When trying to help an ally who is about to die to Axe in lane,don'ttoss a few measly auto attacks if Axe isn't close to death himself. Axe will gladly trade some damage if it means he gets a few more chances to Helix.",
+      "You can click on Axe and check his buffs to see how many attacks are left before his next Counter Helix spin.",
+      "If you have a Eul's Scepter and have vision of an enemy initiator, like Axe, keep casting and canceling cyclone on them if you think a team fight is about to break out. Cyclone has 0 cast time and the moment your target comes into range (like with a Blink Dagger), the cyclone will instantly get cast.",
+      "If you somehow manage to steal an enemy hero's items when they drop them on the ground, you should store them somewhere safe on your side of the map instead of destroying them. A destroyed item or a stolen item in your inventory won't count towards an enemy's net worth, but an item on the ground does. This means you'll get more gold per kill, they'll lose more gold per death, and their buyback will cost more since the grounded item is still factored into their net worth.By extension, if you're about to win the game and the enemy courier starts flying out and dropping items on you, don't take the bait. They're hoping you kill the items and lower their net worth so their buy back will cost less.Why is this listed as a counter to Axe? Because I wanted to note this tip down somewhere and back in the day Axes used to get their boots stolen a lot. You had to be there.",
+      "By extension, if you're about to win the game and the enemy courier starts flying out and dropping items on you, don't take the bait. They're hoping you kill the items and lower their net worth so their buy back will cost less.",
+      "Why is this listed as a counter to Axe? Because I wanted to note this tip down somewhere and back in the day Axes used to get their boots stolen a lot. You had to be there."
+    ]
+  }
+}

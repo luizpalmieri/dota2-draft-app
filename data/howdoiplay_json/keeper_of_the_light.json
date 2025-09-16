@@ -1,0 +1,38 @@
+{
+  "name": "Keeper Of The Light",
+  "safe_name": "keeper_of_the_light",
+  "strategies": {
+    "general_tips": [
+      "Your Special Reserve innate makes it so you can never completely lose all your mana.",
+      "Stop channeling Illuminate in the middle of the lane. Keeper works best as a creepy voyeur hiding in the trees gently stroking his staff, waiting to explode.",
+      "Don't be afraid to terminate an Illuminate early if people are moving away. The horses have a travel time and a small amount of assured damage can sometimes be better than a huge amount of unreliable damage.",
+      "Illuminate gives more vision the longer its channeled.",
+      "Learn where the creeps should be according to what the time is to get the most out of Illuminate. The easiest way to do this is to look at the mirror lane on your side of the map and see where those creeps are.",
+      "Don't randomly channel Illuminate when pushing into tier 3 towers just because it's off cooldown. Start it at X:28/X:58 to kill the upcoming creep wave.",
+      "Pay attention to the buff timer on Spirit Form. If you were charging an Illuminate up, it'll cancel whenever Spirit Form times out.",
+      "Blinding Light is not a stun and doesn't stop enemy channels. It only applies knockback.However, the knockback mechanic doesmoveenemies, making it cancel things like Magnus's Skewer, Phoenix's Icarus Dive, Primal Beast's Onslaught, Spirit Breaker's Charge, Techies' Blast Off, and Templar Assassin's Meld.",
+      "However, the knockback mechanic doesmoveenemies, making it cancel things like Magnus's Skewer, Phoenix's Icarus Dive, Primal Beast's Onslaught, Spirit Breaker's Charge, Techies' Blast Off, and Templar Assassin's Meld.",
+      "If a hero is chasing you in melee range, cast Blinding Light in front of yourself, instead of behind. Keeper will have to turn around to cast it if you target it behind you and the turn rate could be deadly.",
+      "If you're trying to maximize your Chakra usage, try to get as few INT/mana items on a hero before you Chakra them. Same concept as Tread switching.",
+      "Chakra Magic's cooldown reduction does not reduce the cooldowns of ultimates, only basic spells.",
+      "Chakra Magic's cooldown reduction works on passives, such as Kunkka's Tidebringer or Doom's Infernal Blade.",
+      "Chakra Magic's cooldown reduction works on charge based abilities, such as Earth Spirit's Stone Remnants or Broodmother's Spin Web.",
+      "While Chakra Magic can't reduce the cooldown of ultimates, it can reduce the cooldown of spells granted by ultimates/shards/scepters, like your Agh's Scepter Will-O-Wisp or Zeus's Nimbus for example.",
+      "Be aware that multiple Agh's Shard Solar Bind casts on the same target don't stack, but instead refresh the debuff. This can be useful to maintain the full slow on an enemy by recasting another Bind before the first one times out.",
+      "When trying to teleport a teammate in danger with Recall, keep in mind that if they receive any damage from a hero, the teleport gets canceled. Wait for your ally to run into the trees or just escape fog before casting the spell on them.However, the speed buff from Recall does not get removed if a target takes damage.",
+      "However, the speed buff from Recall does not get removed if a target takes damage.",
+      "If placed on alt-cast, you can Recall to an ally hero instead of the other way around.",
+      "Will-O-Wisp destroys trees in a massive AoE. Use this to counter Nature's Prophet's Sprout, burn down a bunch of trees during a chase, or stun a Tree Dancing Monkey King.",
+      "The first Will-O-Wisp pulse happens one second after the spell is cast.",
+      "Unlike most other ward units, Agh's Scepter Will-O-Wisp does not take damage from towers.It doesn't even take damage from the fountain. Not that you would ever abuse this information, right?",
+      "It doesn't even take damage from the fountain. Not that you would ever abuse this information, right?"
+    ],
+    "counter_tips": [
+      "Keep your lane warded up tight if you're against KotL to keep eyes on when and where he's Illuminating.",
+      "Don't underestimate Blinding Light. If you rely on right click attacks in fights, you may need a BKB or Manta Style or Satanic or Disperser just to dispel the miss chance on this spell.",
+      "If you think your team will have trouble pushing high ground against KotL, consider building a Pipe for the magic damage barrier.",
+      "You can select the Agh's Scepter Will-O-Wisp Ignis Fatuus and alt+click the buff timer to see how many seconds are left.",
+      "Clones like Meepo and Arc Warden's Tempest Double count as heroes when attacking the Agh's Scepter Will-O-Wisp. Illusions do not count."
+    ]
+  }
+}

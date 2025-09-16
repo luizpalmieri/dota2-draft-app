@@ -1,0 +1,29 @@
+{
+  "name": "Jakiro",
+  "safe_name": "jakiro",
+  "strategies": {
+    "general_tips": [
+      "Each attack provided by your Double Trouble innate can proc items and counts as an additional hit against things like Phoenix's Supernova, Undying's Tombstone, or even enemy wards.",
+      "Dual Breath can hit targets farther than the max cast range of the spell, so stick to ground targeting if you're trying to damage an enemy that's escaping.",
+      "If you ground target Dual Breath from fog, you won't reveal yourself to the enemy who gets hit by it. If you directly target them, they'll get vision of you.This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "When casting Dual Breath, the slow 'ice' breath is released first, then the DoT 'fire' breath shortly after. So be aware that an enemy may be able to react to the first Dual Breath and Blink Dagger out.",
+      "Since Ice Path has a lot of 'active time,' you can use it to preemptively disable enemies. This is good against things like Puck's Phase Shift, Io's Relocate, heroes who are cycloned, or heroes who are TPing in to defend a structure.",
+      "Ice Path gives vision. Use it to scout high ground or the Rosh pit or cliffs when dewarding.",
+      "If you're getting chased by a melee enemy, just cast Ice Path in front of yourself and walk through it. Jakiro's turn speed and long cast animations make it easy for an enemy to dodge it if you cast it behind yourself when they're so close to you.",
+      "Casting Ice Path on an Aegis reincarnation will instantly stun the enemy when they respawn.",
+      "Liquid Fire slows down tower attack speeds and can make Jakiro a great pusher.",
+      "Try to time laning Liquid Fire attacks when enemies aren't standing near creeps. Since Liquid Fire has an AoE, it can very quickly change the lane equilibrium if it lands on creeps.",
+      "Manually casting Liquid Frost/Fire on enemy heroes won't draw creep aggro.",
+      "You almost never want to keep Liquid Frost/Fire on autocast. When manually casted, you have longer 'cast range,' but when on autocast, it uses Jakiro's default attack range. Why? Hell if I know. This game sometimes, I swear.",
+      "Even if the attack misses, Liquid Frost or Liquid Fire will always apply their effect on the target and the AoE.",
+      "No one likes fighting in a Macropyre. So if you don't want to fight, throw out a Macropyre. You can use it preemptively on your high ground if your teammates are dead to kill off the creep wave. It's not a big enough ult that it matters if you blow it, but it's annoying enough to discourage pushes.",
+      "Multiple instances of Macropyre donotstack with each other. If you have a Refresher, you're better off casting the second Macropyre somewhere else.",
+      "The slow on the ice walls from Agh's Scepter Macropyre works on debuff immune/BKB'd enemies."
+    ],
+    "counter_tips": [
+      "Ice Path has a long cast animation, but insane range. If you're running away from a gank, keep your camera on Jakiro to see if/when/where he is casting an Ice Path. The margin for error for him increases dramatically the further you get, but the stun will stay the same if you're caught in it or walk into it.",
+      "Don't stand next to your tower when farming under the tower. It's scientifically proven that Jakiro players get highly aroused if a single Liquid Fire attack lands on both a hero and a tower."
+    ]
+  }
+}

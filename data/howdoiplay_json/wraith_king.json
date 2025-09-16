@@ -1,0 +1,30 @@
+{
+  "name": "Wraith King",
+  "safe_name": "wraith_king",
+  "strategies": {
+    "general_tips": [
+      "Wraithfire Blast is a slow projectile and the animation is extremely obvious. Use the stun as close to the enemy as you can to prevent people from disjointing it or running away. Or pump fake and cancel the cast animation to mess with enemies and bait defensive spells.",
+      "The \"Reincarnation casts Wraithfire Blast\" talent will only target enemy heroes. It will not target illusions or creep-heroes.",
+      "Skeletons from the \"Bone Guard\" facet will always move to the closest attackable unit that's in vision. If there's nothing in vision, they'll head to the nearest lane and act like lane creeps. When jungling, try to get vision on the next camp you want to farm as the current camp is being finished off to keep your skellies on the same page.Consider using your courier to get vision of the next camp to guide your skeletons to.Skeletons won't block neutral creep camps.",
+      "Consider using your courier to get vision of the next camp to guide your skeletons to.",
+      "Skeletons won't block neutral creep camps.",
+      "Denying creeps adds to charges for the \"Bone Guard\" facet. Not denying Skeletons, though. There is no infinite Skeleton tech.",
+      "You can attack, use spells, and use items while in Wraith Form from your Vampiric Spirit innate. You also have free pathing.Agh's Scepter Vampiric Spirit also gives allies all the same Wraith Form benefits.",
+      "Agh's Scepter Vampiric Spirit also gives allies all the same Wraith Form benefits.",
+      "Sometimes it's advisable to sit on the skill point for Reincarnation. There's no point putting the spell on cooldown early on if your team can't take advantage of it and you're going to die twice anyway, so decide to level it when you need it.At the minimum, you should only skill Reincarnation right before your first Wraith Form death ends. Might as well take advantage of the few seconds of your Vampiric Spirit innate letting you run around and attack things, then skill up your ulti before the buff times out.",
+      "At the minimum, you should only skill Reincarnation right before your first Wraith Form death ends. Might as well take advantage of the few seconds of your Vampiric Spirit innate letting you run around and attack things, then skill up your ulti before the buff times out.",
+      "Reincarnation triggers before Aegis does if you have both.",
+      "You can manually trigger Reincarnation by self-casting the spell. Useful if you think you're going to get mana burned or repositioned to a bad spot (like from a Disruptor Glimpse) before your HP drops to zero.",
+      "An emergency Mango can be handy to supplement mana needed to Reincarnate in the early game."
+    ],
+    "counter_tips": [
+      "Mana burns make WK's life hard. Heroes like Invoker (EMP), Lion (Mana Drain), Silencer (Glaives of Wisdom), Clockwerk (Cog burn), Anti-Mage (Mana Break) are obvious counterpicks. Heroes who easily build Diffusal Blade (Phantom Lancer, Riki, Naga Siren, Spectre) are also good.Wraith King can deal with mana burners by building Agh's Shard to make Reincarnation free.",
+      "Wraith King can deal with mana burners by building Agh's Shard to make Reincarnation free.",
+      "You can get Desolator stacks, Bloodseeker Sanguivore heal, Bounty Hunter Track gold, Legion Commander Duel damage, Lion Finger damage, Necrophos Heartstopper regen multiplication + permanent Reaper's Scythe buffs, and Underlord Atrophy Aura damage off of a Reincarnation death.You do not get Urn charges, Silencer INT steals, Slark permanent Essence Shift steal, or Pudge Flesh Heaps.The aforementioned interactions are consistent with generic Aegis deaths excluding Legion Commander Duel damage.If Wraith King has an Agh's Scepter, these interactions are also true for him or his allies once the Wraith Delayexpiresbecause that's when they actually \"die.\" Existing debuffs are maintained to an enemy's Wraith form, it's kinda like they're under a Dazzle's Shallow Grave.",
+      "You do not get Urn charges, Silencer INT steals, Slark permanent Essence Shift steal, or Pudge Flesh Heaps.",
+      "The aforementioned interactions are consistent with generic Aegis deaths excluding Legion Commander Duel damage.",
+      "If Wraith King has an Agh's Scepter, these interactions are also true for him or his allies once the Wraith Delayexpiresbecause that's when they actually \"die.\" Existing debuffs are maintained to an enemy's Wraith form, it's kinda like they're under a Dazzle's Shallow Grave.",
+      "Windranger's Focus Fire persists through Reincarnation (including Aegis Reincarnation)."
+    ]
+  }
+}

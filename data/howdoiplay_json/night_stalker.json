@@ -1,0 +1,26 @@
+{
+  "name": "Night Stalker",
+  "safe_name": "night_stalker",
+  "strategies": {
+    "general_tips": [
+      "Void doesn't ministun enemies during daytime, only night.",
+      "You're considered a flying unit during Dark Ascension. Besides the free pathing, this also means you won't trigger Techies Proximity Mines.",
+      "Avoid taking traditional ganking routes if possible. You're crazy fast at night so you can afford to sacrifice some travel time in order to avoid walking into typically warded areas.",
+      "Use TPs liberally during night time. Show yourself in one lane, then TP to another once the wave dies. This makes your ganks far more unpredictable.",
+      "Get your own wards. It's much easier for you to place aggressive wards than it is for your supports thanks to the speed you have at night time with Hunter in the Night.",
+      "The range that most heroes can see during daytime is how far Night Stalker sees during night. Abuse this and sneak around enemies who don't know you're spying on them from afar.On the flip side, you need to also be acutely aware at how insanely blind you are during daytime. Take a look at your lane creeps when they're moving between towers or fighting with no heroes around. You see how awful their vision is? Yeah, that's pretty much your day vision. If you're trying to get into a gank position before activating Dark Ascension, there's a very real possibility that you'll be clocked by some random hero walking around in the area without even knowing. Be especially savvy about utilizing tree fog during daytime.",
+      "On the flip side, you need to also be acutely aware at how insanely blind you are during daytime. Take a look at your lane creeps when they're moving between towers or fighting with no heroes around. You see how awful their vision is? Yeah, that's pretty much your day vision. If you're trying to get into a gank position before activating Dark Ascension, there's a very real possibility that you'll be clocked by some random hero walking around in the area without even knowing. Be especially savvy about utilizing tree fog during daytime.",
+      "At night, you can eat ancient creeps with Agh's Shard Hunter in the Night.",
+      "You can eat creeps protected by Glyph or Roshan's banner with Agh's Shard Hunter in the Night."
+    ],
+    "counter_tips": [
+      "Void doesn't ministun during daytime. You can TP out with no fear if NS is chasing you while the sun's out.",
+      "Raindrops significantly reduce the nuke damage from Void.",
+      "Night Stalker sees as much at daytime as most heroes see at night. If you see him when the sun's out, remember that he only has 800 day vision and may not even know you're there.",
+      "Some heroes also don't mind night time that much. Luna gets bonus night vision with her Lunar Blessing innate, Lycan gets bonus night vision in Shapeshift, Slark has 1800 night vision, Sniper has 1400 night vision, Bane has 1200 night vision, Winter Wyvern has 1200 night vision, and Spirit Breaker has a night vision talent.",
+      "The \"Alert\" neutral item enchantment provides bonus night vision.",
+      "Phoenix forces the whole map to daytime during Supernova, even taking priority over Night Stalker's Dark Ascension. This can significantly reduce NS's usefulness in team fights.",
+      "Crippling Fear is one of the few silences that Manta Style and other dispels can't get you out of. If you're a hero that relies on spells to escape ganks, you'll likely need a BKB or Force Staff to get out of Crippling Fear silence. Eul's kind of works if you can cyclone Night Stalker and try to walk out of the silence AoE while he's in the air."
+    ]
+  }
+}

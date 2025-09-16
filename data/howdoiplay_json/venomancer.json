@@ -1,0 +1,35 @@
+{
+  "name": "Venomancer",
+  "safe_name": "venomancer",
+  "strategies": {
+    "general_tips": [
+      "Veno's Septic Shock innate makes your attacks do more damage the more debuffs you have applied to the enemy. Blood Grenade is a cheap and easy way to add a debuff to an enemy hero early on.",
+      "Are you struggling at maintaining creep equilibrium in the laning phase because of your Plague Wards? Watch this instructional video to help solve that problem.",
+      "tl;dw - Use the stop key and use unified unit orders. No one is forcing Plague Wards to constantly attack. Stop them if there are no heroes around, sic 'em all on a creep at the same time to last hit or deny, put them up on cliffs and tell them to shut up so they don't alert an enemy who didn't know you could see them.The \"Unified Orders with CTRL\" setting is also useful when chasing enemies down with Plague Wards. When you throw one up ahead, don't waste time box-selecting, just issue a unified ctrl+right click on the enemy hero.",
+      "The \"Unified Orders with CTRL\" setting is also useful when chasing enemies down with Plague Wards. When you throw one up ahead, don't waste time box-selecting, just issue a unified ctrl+right click on the enemy hero.",
+      "Plague Ward attacks apply a half-damage Poison Sting debuff, but the slow is the same value as your hero's Poison Sting.",
+      "Plague Wards have collision and can be used to block narrow paths.",
+      "Try to deny your Plague Wards in lane. Use your other Plague Wards to help deny dying Plague Wards.",
+      "Spam Plague Wards for vision. Seriously. Just slap them everywhere. They're super annoying for enemies to deal with and have 800 day/night vision.",
+      "When jungling, try to place your Plague Wards outside of the spawn box so you don't block new camps from spawning. Plague Wards last forever and will not time out before a camp respawns.Alternatively, Plague Wards are great for blocking enemy camps.",
+      "Alternatively, Plague Wards are great for blocking enemy camps.",
+      "Veno is damn good at harassing enemies in the jungle. Plague Wards have great cast range, short cooldown, and last forever.",
+      "The secondary Noxious Plague projectiles can hit invisible and fogged enemies.",
+      "Agh's Shard Venomous Gale willnotstun enemies who dispel the debuff with BKB/debuff immunity (because the spell doesn't go through debuff immunity).",
+      "Refreshers are pretty useless on Veno since all his debuffs are only refreshed when reapplied, they don't stack."
+    ],
+    "counter_tips": [
+      "Always be on the lookout for opportunities to deny your allies. You can't deny allies under Poison Sting or Noxious Plague, but you can deny allies under Venomous Gale.",
+      "Venomous Gale and Poison Sting can be dispelled.",
+      "If you dispel Agh's Shard Venomous Gale, you'll get stunned. However, if the dispel comes with debuff immunity (like activating BKB) you won't get stunned.",
+      "Poison Sting damage is classed as \"HP removal\" so it does not cancel Blink Daggers or consumable healing. You can use a Salve/Clarity/Bottle without fear of it getting canceled.",
+      "You can't disjoint the initial or the secondary Noxious Plague projectiles.",
+      "If you're panicking in your fountain because you think you're about to die to Veno's damage, consider a few options:Buy a Faerie Fire.Buy Blood Grenades.Buy a Cloak if you have the gold. You can sell it back a few seconds later (but it turns your gold unreliable).Pray.",
+      "Buy a Faerie Fire.",
+      "Buy Blood Grenades.",
+      "Buy a Cloak if you have the gold. You can sell it back a few seconds later (but it turns your gold unreliable).",
+      "Pray.",
+      "Venomancer's Septic Shock innate makes his attacks do more damage the more debuffs he has applied to you. All the more incentive to build dispels against Veno."
+    ]
+  }
+}

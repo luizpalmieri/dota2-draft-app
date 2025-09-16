@@ -1,0 +1,31 @@
+{
+  "name": "Bristleback",
+  "safe_name": "bristleback",
+  "strategies": {
+    "general_tips": [
+      "Viscous Nasal Goo's armor reduction works on Rosh. Combined with his good tanking ability, teams with Bristle can take Rosh fairly early.",
+      "If you're against heroes with global skills (Ancient Apparition's Ice Blast, Clockwerk's Rocket Flare, Invoker's Sun Strike, Zeus's Thundergod's Wrath), be sure to face in the inside of your fountain when healing to take advantage the Bristleback passive. Reduction is calculated based on your orientation to the source of the damage.",
+      "Spam spells to keep Warpath stacks up when roaming around the map if you have the mana regen to support it.If your finger gets tired of mashing the Quill Spray hotkey, you can set it to auto-cast and it'll spam it off cooldown automatically.",
+      "If your finger gets tired of mashing the Quill Spray hotkey, you can set it to auto-cast and it'll spam it off cooldown automatically.",
+      "Bristleback is a highly effective hero to take advantage of stacked ancients with. With a few items you should be able to take ancients literally without even looking thanks to Quill Spray.If you are in a rush when taking stacked ancients, consider backpacking any armor/block items you have so that your Bristleback passive procs more often since you're taking more damage.",
+      "If you are in a rush when taking stacked ancients, consider backpacking any armor/block items you have so that your Bristleback passive procs more often since you're taking more damage.",
+      "Ground targeting a TP allows you to continue facing in whichever direction you clicked the TP. If you want to travel out of a fight, but don't want to turn around because enemies are attacking your back, ground target your TP in front of you. You won't go back to the fountain, you'll just travel to the nearest structure from where you clicked.",
+      "Agh's Scepter Bristleback will lock your facing direction while active. Doesn't matter if you're Dueled by Legion Commander or being Sinister Gazed by Lich, your hero may move, but it'll continue facing the locked direction.Agh's Scepter Bristleback's active also allows you to cast spells and items without turning to face the cast location. This includes items like Blink Dagger or channeling a TP scroll.",
+      "Agh's Scepter Bristleback's active also allows you to cast spells and items without turning to face the cast location. This includes items like Blink Dagger or channeling a TP scroll.",
+      "Each Quill Spray from Agh's Scepter Bristleback adds a Warpath stack.",
+      "Bristle is tied for the fastest turn rate in the game. If you're laning against a ranged hero with a slow projectile, you should absolutely take advantage of this by gracefully pirouetting before each right click projectile hits your hero."
+    ],
+    "counter_tips": [
+      "Magic Wand is core against this guy ALL GAME LONG. Unlike other heroes who stop spamming once the laning phase ends, Bristle needs to mash his spells for the whole game. No matter what role you're playing, you should always get a Stick, Wand, or Holy Locket.",
+      "You can Break the Bristleback passive.Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Heroes that can force Bristleback to face a certain direction are useful for bypassing his Bristleback damage reduction. So heroes with taunts, like Axe's Berserker's Call or Legion Commander's Duel, or other directional fears, like Void Spirit's Aether Remnant or Lich's Sinister Gaze. Mars's Spear also turns enemies to face forwards while stunned.",
+      "Bristleback damage reduction is calculated based on his orientation to the hero whoownsthe source of damage he's taking.Summons (Zeus Nimbus, Lone Druid Spirit Bear, Visage Familiars) deal damage based on their own position, not the hero who summoned them.",
+      "You can dispel Goo stacks (Manta, Satanic, Eul's, Lotus Orb, Guardian Greaves, Disperser, etc). You cannot dispel Quill stacks.",
+      "Casting Eul's to cyclone Bristleback's Agh's Scepter active will make him shoot his Quills in random directions while he's spinning in the air.",
+      "Bristle is all about whittling down your armor and barraging you with physical damage. Stacking armor helps mitigate his damage output.",
+      "Quill Spray is physical damage, so if you get a Ghost Scepter this guy can't do anything except wipe his nose on you.",
+      "Mage Slayer reduces allspelldamage from enemies. A lot of Bristle's team fight damage is purely from Quill Spray, which is a spell."
+    ]
+  }
+}

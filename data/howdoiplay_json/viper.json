@@ -1,0 +1,23 @@
+{
+  "name": "Viper",
+  "safe_name": "viper",
+  "strategies": {
+    "general_tips": [
+      "Manually casting Poison Attack on enemy heroes won't draw creep aggro.",
+      "Viper Strike works fully on debuff immune/BKB'd enemies, including theBreak.",
+      "You can reduce the armor on buildings with the Agh's Shard Poison Attack.",
+      "Agh's Scepter Nosedive can highlight units in fog and invisible units if you pay attention to the particle effects.",
+      "You can use Agh's Scepter Nosedive to travel up and down cliffs.",
+      "The further away you target Agh's Scepter Nosedive, the longer Viper takes to travel to the destination.",
+      "Don't attempt to Agh's Scepter Nosedive through Disruptor's Kinetic Field or Mars's Arena. You'll get stuck on the edge and won't be able to act until their spell ends and your Nosedive finally finishes traveling.",
+      "Viper looks funny with high attack speed.",
+      "That's really all there is to know about Viper..."
+    ],
+    "counter_tips": [
+      "You want to avoid putting DoTs on Viper. Every time he takes damage, Corrosive Skin will refresh on your hero if you're in the passive's range. Seeing as how Corrosive Skin is also giving him magic resistance, he'll typically take less damage than you from any DoT.This includes things like Radiance. You should probably avoid building a Radiance against Viper.",
+      "This includes things like Radiance. You should probably avoid building a Radiance against Viper.",
+      "Viper Strike's projectile can be disjointed.",
+      "Viper can't cast Agh's Scepter Nosedive if he is rooted/leashed."
+    ]
+  }
+}

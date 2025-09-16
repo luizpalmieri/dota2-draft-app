@@ -1,0 +1,42 @@
+{
+  "name": "Abaddon",
+  "safe_name": "abaddon",
+  "strategies": {
+    "general_tips": [
+      "Any damage you deal to enemies, from attacks, spells, or items, will apply your Withering Mist innate.",
+      "The self-damage on Mist Coil can be absorbed by Aphotic Shield and will heal you during Borrowed Time.",
+      "Aphotic Shield is a strong dispel. You can cast it on allies to wipe off most disables and debuffs, including stuns.",
+      "You can cast Aphotic Shield on creeps. Handy for split pushing.",
+      "Aphotic Shield will always burst for the full damage regardless of damage absorbed even if it gets dispelled off.You can replace a Shield on a target to burst it on demand for the damage.Aphotic Shield's burst won't damage units in fog or invisible units, even if they're in the AoE.",
+      "You can replace a Shield on a target to burst it on demand for the damage.",
+      "Aphotic Shield's burst won't damage units in fog or invisible units, even if they're in the AoE.",
+      "The Aphotic Shield buff lasts for quite a while, so you can consider casting it on yourself for free in the fountain before TPing to a lane.",
+      "Abaddon's cast animations are long and the cast range on Aphotic Shield is garbage. If you're pushing/defending with your team and you're worried about enemy initiation, try casting and canceling Aphotic Shield on your team's highest priority hero. Not only will this constantly keep you in range to cast the Shield, but if you've got godlike reactions you can almost instantly wipe off any disable.",
+      "Barriers, like the one from Aphotic Shield, will absorb damagebeforeon-damage effects are triggered on a hero. This means that Salves, Clarities, Bottle, Urn, Blink Dagger, and sleeps won't get broken by damage until the barrier expires.Borrowed Time also means you don't receive 'damage,' so you can take advantage of all the aforementioned interactions under Borrowed Time as well. Mainly useful for Blinking during Borrowed Time.Aphotic Shield doesn't absorb any damage during Borrowed Time, all of it goes to healing.",
+      "Borrowed Time also means you don't receive 'damage,' so you can take advantage of all the aforementioned interactions under Borrowed Time as well. Mainly useful for Blinking during Borrowed Time.",
+      "Aphotic Shield doesn't absorb any damage during Borrowed Time, all of it goes to healing.",
+      "Illusions of Abaddon can apply Curse of Avernus.",
+      "The attack speed buff from Curse of Avernus works on buildings.",
+      "You can manually activate Borrowed Time for a strong dispel even when stunned or under other types of non-silence disables.It can be worth manually triggering Borrowed Time if you and your whole team are stunned. That way you can strong dispel off your stun and then immediately put an Aphotic Shield on an ally to dispel their stun as well.",
+      "It can be worth manually triggering Borrowed Time if you and your whole team are stunned. That way you can strong dispel off your stun and then immediately put an Aphotic Shield on an ally to dispel their stun as well.",
+      "Break prevents Borrowed Time from auto-triggering, so you'll need to manually cast it against Silver Edge carriers or other Breaks. Be sure to check at the beginning of the game if there are any potential Agh's Shards/Scepters or talents that provide Breaksbeforethey get you killed.",
+      "Abaddon is an ideal hero to keep auras on (Vlad's, Drum, Shiva's) since he takes too much time for teams to kill early on in a fight."
+    ],
+    "counter_tips": [
+      "The burst damage radius on Aphotic Shield is pretty huge, but it doesn't damage targets in fog. If a target with Aphotic Shield is trying to explode on you, try to juke them in trees and stay out of vision.Aphotic Shield can be dispelled off enemies. However, it will burst for the full damage once dispelled.",
+      "Aphotic Shield can be dispelled off enemies. However, it will burst for the full damage once dispelled.",
+      "Since Abaddon illusions can apply Curse of Avernus, Terrorblade's Reflection or Shadow Demon's Disruption can be annoying for Abaddon to deal with.",
+      "If you have a nuke that does >400 damage, you can instakill Abaddon without Borrowed Time ever auto triggering.",
+      "\"Kill check\" spells like Ancient Apparition's Ice Blast and Axe's Culling Blade can kill through Borrowed Time if Abaddon is below the kill check HP threshold.",
+      "Borrowed Time will auto-trigger and strong dispel Abaddon even if he's silenced/hexed.You can Break Abaddon so Borrowed Time won't auto-trigger and then silence him so Borrowed Time can't be manually cast to work around his ultimate.Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "You can Break Abaddon so Borrowed Time won't auto-trigger and then silence him so Borrowed Time can't be manually cast to work around his ultimate.",
+      "Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Eul's Scepter can be a useful Abaddon counter since it can waste a few seconds of Borrowed Time while he's spinning in the air.",
+      "The HP Abaddon gains during Borrowed Time can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Be aware that Borrowed Time strong dispels Abaddon on activation, so only use a Vessel charge on himafterhe's used the spell.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Be aware that Borrowed Time strong dispels Abaddon on activation, so only use a Vessel charge on himafterhe's used the spell.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Abaddon's Withering Mist innate behaves similar to a Spirit Vessel if you're below the HP threshold and he damages you."
+    ]
+  }
+}

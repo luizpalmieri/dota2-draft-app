@@ -1,0 +1,32 @@
+{
+  "name": "Outworld Destroyer",
+  "safe_name": "outworld_destroyer",
+  "strategies": {
+    "general_tips": [
+      "Manually casting Arcane Orb on enemy heroes won't draw creep aggro.",
+      "You can put Roshan in Astral Imprisonment jail.",
+      "If you're getting ganked in the early game, try using a Bottle charge or some sort of regen item right before self-Imprisoning yourself. The regen will continue healing while you're banished.",
+      "It can sometimes be worth Astraling an allied creep during a push to keep it alive a little longer when the enemy Glyphs their tower.",
+      "If you're trying to perfectly time a Meteor Hammer on a max level Astral Imprisonment, start casting the Meteor Hammer when the stun bar is over theSinBANISHED.",
+      "You will lose Astral Imprisonment buffs on death, including deaths from Aegis.",
+      "You can steal mana from enemy illusions with Astral Imprisonment.",
+      "You can steal mana from debuff immune/BKB'd enemies with Astral Imprisonment, but they won't get banished.",
+      "You can banish debuff immune allies with Astral Imprisonment.",
+      "If you click in a direction to turn before self-casting Astral Imprisonment, you'll complete your rotation while in Astral. This is important if you plan on Blinking out immediately from Astral to avoid a turn animation in the Blink direction.",
+      "Try to Astral an enemy before casting Sanity's Eclipse on them to increase the mana difference between your heroes.",
+      "Sanity's Eclipse will damage enemies who are currently banished in Astral Imprisonment.This interaction actually makes it possible to kill an enemy affected by Oracle's False Promise. If you Astral an enemy right before False Promise times out on them, they'll lose False Promise damage negation while in the banish, but won't get healed until they come out. Therefore, you can kill the enemy with Sanity's Eclipse damage or even just Astral Imprisonment's damage before they get healed.",
+      "This interaction actually makes it possible to kill an enemy affected by Oracle's False Promise. If you Astral an enemy right before False Promise times out on them, they'll lose False Promise damage negation while in the banish, but won't get healed until they come out. Therefore, you can kill the enemy with Sanity's Eclipse damage or even just Astral Imprisonment's damage before they get healed.",
+      "If you Astral allies with Agh's Shard, they can walk out of spells like Faceless Void's Chronosphere, Enigma's Black Hole, Mars's Arena, and Disruptor's Kinetic Field.A weird interaction to note is that Agh's Shard Astral Imprisonment is a double edged sword against Disruptor. While you do allow allies to walk through Kinetic Field, you will no longer be able to save them from Glimpse because they're no longer hidden/banished.",
+      "A weird interaction to note is that Agh's Shard Astral Imprisonment is a double edged sword against Disruptor. While you do allow allies to walk through Kinetic Field, you will no longer be able to save them from Glimpse because they're no longer hidden/banished.",
+      "Sanity's Eclipse deals double damage to illusions."
+    ],
+    "counter_tips": [
+      "Pure damage immunity from BKB significantly cuts OD's damage output from Arcane Orb.",
+      "OD can't cast Arcane Orb when he's silenced.",
+      "Consider building mana/INT items like Skadi or Wind Waker when you're playing against OD to minimize the damage you'll take from Sanity's Eclipse.",
+      "If you have the Mana Allergy debuff on your hero from OD's \"Overwhelming Devourer\" facet, casting your spells will heal OD first before damaging him.",
+      "Heals from items like Greaves, Mek, or Magic Wand are applied before Astral damage takes place allowing you to survive potentially lethal Imprisonments.",
+      "Essence Flux can be disabled by Breaks. This includes disabling the Agh's Scepter Essence Flux strong dispel."
+    ]
+  }
+}

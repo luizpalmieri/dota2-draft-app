@@ -1,0 +1,50 @@
+{
+  "name": "Pugna",
+  "safe_name": "pugna",
+  "strategies": {
+    "general_tips": [
+      "Pugna's Oblivion Savant innate allows him to cast any spells or items while channeling. For example, you can cast Decrepify while channeling a Life Drain or cast Nether Blast while channeling a TP scroll.When casting spells while channeling, Pugna has an instant cast animation.Blink Dagger behaves a little strangely when cast during channels. As long as you Blink within Blink Dagger cast range, you'll continue channeling. If you target Blink outside of max cast range, it'll cancel the channel.You can only have one active channel at a time. So you can't Life Drain a target and then also start channeling a Meteor Hammer simultaneously, for example.This innate is so powerful, you can even target allies who are untargetable under Riki's Agh's Shard Smoke Screen. Start channeling something, like a Life Drain or TP, and then target Decrepify on the ally in the Smoke Screen.",
+      "When casting spells while channeling, Pugna has an instant cast animation.",
+      "Blink Dagger behaves a little strangely when cast during channels. As long as you Blink within Blink Dagger cast range, you'll continue channeling. If you target Blink outside of max cast range, it'll cancel the channel.",
+      "You can only have one active channel at a time. So you can't Life Drain a target and then also start channeling a Meteor Hammer simultaneously, for example.",
+      "This innate is so powerful, you can even target allies who are untargetable under Riki's Agh's Shard Smoke Screen. Start channeling something, like a Life Drain or TP, and then target Decrepify on the ally in the Smoke Screen.",
+      "Nether Blast damages towers and creeps. You don't get bonus damage for engulfing the whole tower, which is what some Pugnas seem to think. Keep the tower on the edge of the Blast AoE and focus the majority of the Blast on the creep wave.",
+      "Nether Blast is a great spell to cast and stop-cancel. The animation is extremely obvious, but the lack of any visual feedback makes it difficult for the enemy to tell if you canceled it or not. Eventually they'll call your bluff, at which point you can start getting lazy with your Stop key.",
+      "Decrepify makes you immune to physical damage. You won't even take damage from physical damage spells such as Juggernaut's Omnislash or Bristleback's Quill Spray.",
+      "Check yourself before you Decrep yourself. In a 1v1 situation you usually want to Decrep the enemy, when there are multiple enemies you usually want to Decrep yourself, when there is a team fight, you should try to save your Decrep for your Nether Ward.",
+      "When trying to save allies with Decrepify, be aware of the dispels that are on the field. If the enemy has a BKB, Manta Style, Satanic, Lotus Orb, or Disperser, you're better off Decrepifying your ally to save them from right clicks. If the enemy has a Nullifier, it's probably more reliable to Decrepify the aggressing enemy hero to stop them from attacking.",
+      "Lane and neutral creeps will immediately drop aggro if you are Decrepified. If you're sneaking behind enemy lines and a creep is following you, Decrepify yourself and it'll lose interest.This is also extremely useful for tower dives since both the enemy tower and creeps will ignore Decrepified targets.This mechanic is also handy when dealing with wave pulling enemies. If an enemy is intentionally trying to draw aggro from your creeps in lane to cut the wave, Decrepify them and your creeps will resume pathing normally.",
+      "This is also extremely useful for tower dives since both the enemy tower and creeps will ignore Decrepified targets.",
+      "This mechanic is also handy when dealing with wave pulling enemies. If an enemy is intentionally trying to draw aggro from your creeps in lane to cut the wave, Decrepify them and your creeps will resume pathing normally.",
+      "If you use Decrepify on a lane creep, they immediately stop pathing and just stand around for some reason. Not very useful, but you could use this to stall a siege creep before it goes into tower range. You could also Decrepify a creep to save it from tower Glyph attacks.",
+      "Decrepify slows enemies, but not allies.",
+      "Decrepify can be applied to debuff immune/BKB'd allies to turn them ethereal.",
+      "Decrepify amplifies incoming heals. Cast Decrepify on yourself (or allies) to increase the HP gained from Life Drain.",
+      "You can Decrepify the Nether Ward, effectively making it invulnerable for a few seconds. You can also Decrepify Undying's Tombstone.",
+      "Cast range bonuses, like from Aether Lens, can be pretty cute on Pugna since they allow you to dump your Nether Ward inside trees.",
+      "Nether Ward will still zap heroes that are hidden in fog.",
+      "Nether Ward will only zap on spells that would give you Magic Stick charges. So an enemy Outworld Destroyer won't get zapped every time he casts Arcane Orb, for example.",
+      "Even though the Nether Ward will constantly zap a Storm Spirit in Ball Lightning, it doesn't deal any damage aside from the initial zap.",
+      "Life Drain creeps to heal yourself up after a team fight. Don't bother trying to regen mana from creeps, though, that part only works on hero targets.",
+      "Life Drain provides true sight on targets.",
+      "Agh's Shard Life Drain only finds secondary targets on cast. If more enemies walk into the AoE after you've started channeling, Life Drain won't acquire any new targets.",
+      "You can target Life Drain on allies to heal their HP at the cost of your own HP.",
+      "Life Drain's heal is completely independent from the actual damage an enemy takes. So Decrepifying an enemy will only increase the damage they take, but not the amount you'll heal from Life Draining them. Conversely, if you're Life Draining a BKB'd enemy, you'll still heal for the full value.The heal being separate from damage is also true when healing allies with Life Drain. For example, if you put a Glimmer Cape barrier on yourself, you'll fully heal allies while your barrier tanks the damage.",
+      "The heal being separate from damage is also true when healing allies with Life Drain. For example, if you put a Glimmer Cape barrier on yourself, you'll fully heal allies while your barrier tanks the damage.",
+      "Holy Locket only amplifies Life Drain's heals on the heroreceivingthe Life Drain. So if you build Holy Locket on Pugna, you're not going to heal allies more with Life Drain, but you will heal yourself more when Life Draining enemies. If your ally has those items, they'll heal more from your Life Drain.",
+      "Since Life Drain works on non-hero units, you can deny yourself in a pinch by Life Draining yourself into an allied creep."
+    ],
+    "counter_tips": [
+      "Pugna has one of the highest base move speeds in the game. While he may appear squishy, it's tough for a bootless support to get a lock on him because he's so fast.",
+      "The Nether Ward will toast you before your spell comes out. The spell won't be put on cooldown if you die, though.",
+      "If you're in the Nether Ward's AoE, you will see a debuff icon in your status bar even if the Ward is in fog.",
+      "Pipe of Insight's Barrier works on buildings to reduce Nether Blast damage.",
+      "The HP Pugna and his allies gain from Life Drain can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "If you're a carry and Pugna keeps Decrepifying targets that you're going on, get a Nullifier to dispel the ethereal state.",
+      "If you're a carry and Pugna keeps Decrepifyingyou, get an item that candispellike BKB, Manta Style, Disperser, or Satanic.",
+      "Muerta's Supernatural innate allows her to hit all ethereal targets, such as Decrepified ones. This includes a Decrepified Nether Ward."
+    ]
+  }
+}

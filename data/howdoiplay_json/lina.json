@@ -1,0 +1,21 @@
+{
+  "name": "Lina",
+  "safe_name": "lina",
+  "strategies": {
+    "general_tips": [
+      "While Lina has a terrible auto-attack animation, she also has ludicrous range to compensate. Few heroes can trade hits with you, despite your pizza spinning auto attack.",
+      "Dragon Slave can use unit targeting or ground targeting. If an enemy is juking into fog, use ground targeting, otherwise Lina may cancel the unit-targeted cast if the enemy escapes vision.",
+      "Dragon Slave can hit targets almost 500 units farther than the max cast range of the spell, so stick to ground targeting if you're trying to damage an enemy that's escaping.",
+      "If you ground target Dragon Slave from fog, you won't reveal yourself to the enemy who gets hit by it. If you directly target them, they'll get vision of you.This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "This is true for any spell that has the option between ground and direct unit targeting. If you ever directly target an enemy unit, the enemy team will briefly get vision of your hero. If you ground target, you won't be revealed through fog.",
+      "Light Strike Array breaks trees in its AoE.",
+      "Keep your eye on Fiery Soul stacks in your buffs. Burn a few spells on creeps or neutrals to maintain your stacks to stay in fight-ready condition.",
+      "You can scout for fogged or invisible enemies by casting spells in their direction and seeing if your Fiery Soul buff increases.You can check Rosh status by casting spells in his pit since you'll get at least one Fiery Soul stack if he's alive.",
+      "You can check Rosh status by casting spells in his pit since you'll get at least one Fiery Soul stack if he's alive."
+    ],
+    "counter_tips": [
+      "There is an extremely brief (0.25s) moment after Laguna Blade connects before the damage is actually dealt. You can dodge the damage with banishes, or invulnerability from spells like Morphling's Waveform or from items like Eul's Scepter or Manta Style activation if your timing is impeccable.",
+      "Lina gets a fairly large power spike at around 3-5 minutes once her nukes have a few levels. Coincidentally, this is the same time that Infused Raindrops become available for purchase. Her kill potential gets significantly cut by Raindrops, so consider buying them no matter what role you're playing."
+    ]
+  }
+}

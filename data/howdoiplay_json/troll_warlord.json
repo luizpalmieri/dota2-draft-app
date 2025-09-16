@@ -1,0 +1,49 @@
+{
+  "name": "Troll Warlord",
+  "safe_name": "troll_warlord",
+  "strategies": {
+    "general_tips": [
+      "Every attribute is harder, better, faster, and stronger in melee form. Typically the only reasons you should be in ranged form after the laning phase is to cast the ranged Whirling Axes, get hits on an enemy if you're blocked out by something like Earthshaker's Fissure or Clockwerk's Cogs, or to get one very last hit on an enemy before they escape. If you're trying to stay safe during a push, it can also be worthwhile to siege in ranged form.",
+      "You can toggle Berserker's Rage forms while channeling a TP.",
+      "If you're toggled into melee Berserker's Rage when your ranged attack projectile connects, it will land as a 'melee' attack. Toggled attacks can't get the melee Berserker's Rage root, but they can cleave in front of your hero, apply the melee version of attack modifiers, and they will never miss uphill, which can be relevant in the mid lane.The only exception is bonus damage from Quelling Blade will not take the melee value if you swap mid-attack.You can kill couriers from range with one attack if you toggle into melee Berserker's Rage before your attack projectile hits the courier.",
+      "The only exception is bonus damage from Quelling Blade will not take the melee value if you swap mid-attack.",
+      "You can kill couriers from range with one attack if you toggle into melee Berserker's Rage before your attack projectile hits the courier.",
+      "The ensnare in melee form Berserker's Rage can root debuff immune/BKB'd enemies.",
+      "Whirling Axes are great wave clearing spells, but Troll runs out of magic juice fast with his terrible INT gain. Keep eyes on your mana pool.",
+      "Neither the blind, nor the damage, from Whirling Axes (Melee) work on Rosh.",
+      "The dispel on enemies with Agh's Scepter Whirling Axes goes through debuff immunity.",
+      "Illusions can independently build up Fervor stacks.",
+      "Fervor attack speed persists through death. This is important to know after you respawn (including from Aegis) or buyback. If you go back to hitting the same hero you were attacking before you died, you'll keep the speed and resume adding Fervor stacks accordingly.",
+      "Fervor attack speed only resets once an attack lands on a new enemy. When farming jungle camps, take advantage of residual Fervor stacks from a dead camp by walking to a new camp, swapping to ranged form once in attack range, and tossing a few ranged projectiles utilizing your existing Fervor stacks before the first Fervor-resetting attack projectile lands on a new creep.This quirk is also useful after taking a high ground tower and changing focus onto barracks. Swap into ranged form after the tower goes down and you can toss a few ranged projectiles onto the nearest barracks to build up stacks with the max Fervor off the tower.",
+      "This quirk is also useful after taking a high ground tower and changing focus onto barracks. Swap into ranged form after the tower goes down and you can toss a few ranged projectiles onto the nearest barracks to build up stacks with the max Fervor off the tower.",
+      "Agh's Shard Fervor secondary attacks can proc attack modifiers.",
+      "Casting Battle Trance applies a basic dispel on your hero.With the \"Battle Trance Strong Dispels\" talent you can activate the spell while you're stunned or cycloned.",
+      "With the \"Battle Trance Strong Dispels\" talent you can activate the spell while you're stunned or cycloned.",
+      "Mechanically, activating Battle Trance is like having a Dazzle Shallow Grave cast on Troll. So whatever interactions work against Shallow Grave (like dying through Axe's Culling Blade, but not instantly shattering to Ancient Apparition's Ice Blast) are true with Battle Trance as well.",
+      "When locked on to a target during Battle Trance, you can't control your movement, but you can toggle Berserker's Rage forms, cast both Whirling Axes, and cast items.You won't have to turn to face a target when casting items.You can't channel a TP if you're Battle Tranced onto a target.You can't get into Abyssal Blade cast range while in Battle Trance because Troll will never move close enough to a target (even in melee form).",
+      "You won't have to turn to face a target when casting items.",
+      "You can't channel a TP if you're Battle Tranced onto a target.",
+      "You can't get into Abyssal Blade cast range while in Battle Trance because Troll will never move close enough to a target (even in melee form).",
+      "You can't attack in Battle Trance while you're feared, but you will stay moving towards your Trance target.",
+      "You can force yourself to stay permanently locked on a target by casting Battle Trance while you're in the middle of your attack animation. For example, if you want to stay attacking a tower and don't want an enemy walking by to pull your Battle Trance aggro, cast Battle Trance while you're mid-attack animation on the tower. You'll stick to the tower until it dies. This also works on Roshan or ward-type units.",
+      "You'll chase a target until it dies once you're locked on in Battle Trance. However, if your target is outside your ranged form attack range, you can reacquire the nearest available target by toggling into melee form.",
+      "If a target is about to fog you, consider activating Battle Trance just to keep them in vision. You maintain shared vision through fog of war when they're the focus of your Trance."
+    ],
+    "counter_tips": [
+      "Troll's no Ursa, but be aware that he can still solo Rosh fairly early in the game.",
+      "The blind on Whirling Axes (Melee) is obnoxious and usually worth getting one of the King Bars (MKB or BKB) for. It also means that you need to be very careful when ganking him if you rely heavily on right clicks for damage.",
+      "Troll's entire kit revolves around making chop suey out of a single target. If he has to switch focus before killing a target, you're doing a good job dealing with him. Force Staffs, Ghost Scepter, Eulses, and banishes are all ideal counters.",
+      "Troll gets shared vision on a locked target during Battle Trance if they're within the acquisition range, so you can't fog him to lose aggro.",
+      "Troll ignores taunts when in Battle Trance.",
+      "A Battle Tranced Troll won't run away when being feared, but he can't attack during the fear duration.",
+      "Troll is immune to move speed slows while in Battle Trance.",
+      "Axe can Culling Blade instagib Troll even when he's in Battle Trance.Culling Blade is the only \"instant kill\" spell that can kill through Battle Trance. This is because a lethal Culling Blade specifically removes the Battle Trance buff from Troll andthenkills him. Ancient Apparition's Ice Blast, in comparison, will attempt to deal lethal damage to a Troll who is in Shatter range, but the Battle Trance buff will prevent him from going below 1 HP.",
+      "Culling Blade is the only \"instant kill\" spell that can kill through Battle Trance. This is because a lethal Culling Blade specifically removes the Battle Trance buff from Troll andthenkills him. Ancient Apparition's Ice Blast, in comparison, will attempt to deal lethal damage to a Troll who is in Shatter range, but the Battle Trance buff will prevent him from going below 1 HP.",
+      "Monkey King can instantly lose a Battle Tranced Troll's aggro by going into Mischief.",
+      "The lifesteal Troll Warlord gains from Battle Trance can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Be aware that Troll gets a self-dispel on Whirling Axes (Melee) with Agh's Scepter, so only use a Vessel charge on himafterhe's used the spell.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Be aware that Troll gets a self-dispel on Whirling Axes (Melee) with Agh's Scepter, so only use a Vessel charge on himafterhe's used the spell.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others."
+    ]
+  }
+}

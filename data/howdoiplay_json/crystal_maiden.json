@@ -1,0 +1,26 @@
+{
+  "name": "Crystal Maiden",
+  "safe_name": "crystal_maiden",
+  "strategies": {
+    "general_tips": [
+      "Crystal Nova provides vision around the target radius for ~6 seconds. Useful when trying to deward or scout the Rosh pit.The vision radius is also waaaay bigger than the actual spell's damage radius (900 ground vision), so you can use it to scout across treelines, help get vision of an escaping enemy at night, cast it on high ground if an enemy is going up stairs, or keep track of enemy movement during a tier 3 push after your creep wave dies.",
+      "The vision radius is also waaaay bigger than the actual spell's damage radius (900 ground vision), so you can use it to scout across treelines, help get vision of an escaping enemy at night, cast it on high ground if an enemy is going up stairs, or keep track of enemy movement during a tier 3 push after your creep wave dies.",
+      "Frostbite deals extra damage to non-ancient creeps.",
+      "Try to drag the big creep out of the camp before Frostbiting them. This way you won't draw aggro from the other creeps while you're beating on the big one.",
+      "Agh's Shard Crystal Clone disjoints incoming projectiles.",
+      "You can use the movement from casting Agh's Shard Crystal Clone to travel up and down cliffs.",
+      "You can cast Agh's Shard Crystal Clone while channeling. Like channeling Freezing Field or a TP.",
+      "You can detonate your own Agh's Shard Crystal Clone by damaging it with your AoE spells like Crystal Nova or Freezing Field.",
+      "Freezing Field hassomelogic to how its damage is determined.Basically the AoE circle of the spell is divided into quadrants and each quadrant is cycled through counterclockwise every 0.1s with the northeast quadrant being the first one.In theory,the most reliable way to damage an enemy is to have them standing directly in a cardinal direction from your hero so that they're on the line between two quadrants. In practice, this doesn't consistently make that big a difference. Overall, it's just a pretty random spell.",
+      "If you're going Battle Maiden, one item of choice is Shadow Blade/Shadow Amulet/Glimmer Cape since you can cast the invis while you're channeling your Freezing Field. BKB is also a nice luxury option.",
+      "Boots of Bearing, Disperser from allies, and Dark Seer's Surge can allow you to temporarily bypass the move speed slow when casting Agh's Scepter Freezing Field.",
+      "A good Freezing Field can often make or break a team fight. You don't have to blow the spell as soon as the fight breaks out (unless you want to force the enemy to use their disables on a support). Casting your ultimate when the enemy has forgotten about you and once disables are on cooldown could be the key to success."
+    ],
+    "counter_tips": [
+      "Don't underestimate her early game spell damage. If you don't have any stuns/silences, her ult will destroy you in a 1v1 support cage match.",
+      "Frostbite is a root which will disable most movement spells (and obviously Blink Dagger). If you're an Anti-Mage or Queen of Pain and CM is sauntering towards you, you can be sure that she has backup.",
+      "In matches against CM you'll often find yourself wondering,\"How does X have so much mana!?\"CM's Arcane Aura is why they have so much mana. So don't assume that just because Ancient Apparition used Chilling Touch 3 times at level 2 that he's going to stop any time soon.",
+      "A lot of things that you'd thinkwouldstop an Agh's Scepter Freezing Field don't. Axe's Berserker's Call, Disruptor's Glimpse, Kunkka's X Marks The Spot, Treant Protector's Overgrowth, and Vengeful Spirit's Nether Swap, will no longer cancel Freezing Field after CM gets an Agh's Scepter."
+    ]
+  }
+}

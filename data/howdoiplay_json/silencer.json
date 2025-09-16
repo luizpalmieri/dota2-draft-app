@@ -1,0 +1,27 @@
+{
+  "name": "Silencer",
+  "safe_name": "silencer",
+  "strategies": {
+    "general_tips": [
+      "Arcane Curse's duration pauses on all silence debuffs, not just ones applied by Silencer himself.",
+      "Manually casting Glaives of Wisdom on enemy heroes won't draw creep aggro.",
+      "Last Word provides a ton of utility all game long. Early game you want to spam it for nuke damage, late game you want to cast it on heroes who rely on spell combos (Invoker, Bristleback, Puck, etc). All game long you want to use it for the shared vision that the shower curtain provides on the targeted hero.",
+      "Last Wording a target before Hurricane Piking them allows you to keep them in vision for your attacks.",
+      "The Last Word silence won't trigger on enemy channeled spells until their channelcompletes. So Last Wording a Pudge before he starts Dismembering won't silence him until he's done.",
+      "The \"AoE Last Word\" talent allows Last Word to target units in fog, invisible targets, and even untargetable units like a Dark Willow in Shadow Realm or Slark in Shadow Dance.",
+      "Much like with Undying's Tombstone, you don't want to use Global Silence and then have the enemy team walk away until the spell wears off. Silencer's job is rarely to start fights, he's there toSILESILESILENCSILENCSILENCSILSILSSILSILENCEfights that are on the cusp of breaking out. You usually want to cast Global Silence soon after your initiator goes in or as soon as your team gets initiated on. It's okay to let a spell or two leak through at the beginning if it means that the enemy is committing to the fight. The goal is to hit them with the4'33\"right when they're at the point-of-no-return in the team fight.",
+      "You can save Global Silence to break channeling ults as well (Enigma's Black Hole, Bane's Fiend's Grip, Witch Doctor's Death Ward, Crystal Maiden's Freezing Field), but sometimes it's better to stop them from using their spells altogether by preemptively silencing than to risk getting disabled while they're channeling.",
+      "While Global Silence does pierce debuff immunity, BKB also dispels targets on activation. If you Global before BKB, they'll dispel it off with a BKB activation. If you GlobalafterBKB, the silence will go through BKB's debuff immunity.",
+      "Heroes that arehidden(Puck Phase Shift, Outworld Devourer Astral Imprisonment, Shadow Demon Disruption, other banishes)will notbe affected by Global Silence. Global Silencewillaffect enemies that are invulnerable or cycloned, however, since they're still technically on the map.",
+      "Global Silence debuffseveryenemy unit. Heroes, summons, creep-heroes, illusions, even enemy lane creeps get silenced."
+    ],
+    "counter_tips": [
+      "Avoid trading kills with this hero because the permanent INT steal on kills from his Brain Drain innate adds up quickly.",
+      "If you begin channeling a spell while Last Word is on your hero, Last Word won't silence and damage your hero until the channel completes.For Puck, Phase Shift can completely dodge the silence and damage on Last Word if you complete the channel. However, if you prematurely exit Phase Shift, Last Word will trigger normally on your hero.",
+      "For Puck, Phase Shift can completely dodge the silence and damage on Last Word if you complete the channel. However, if you prematurely exit Phase Shift, Last Word will trigger normally on your hero.",
+      "Because Silencer takes your INT with Glaives, mana consumables are more effective. If you've got a few stacks of INT stolen, that's the best time to eat a Mango, use a Bottle, or activate a Stick.",
+      "Save your BKB for after Global Silence is cast. If Global is castwhileyou're debuff immune/BKB'd, you'll still get silenced. If you go debuff immuneafterGlobal comes out, the silence is dispelled.Eul's is a cheap, but effective, way of dispelling Global Silence. Lotus Orb, Manta Style, Disperser, Satanic, and Guardian Greaves are also basic dispels that can remove the silence.",
+      "Eul's is a cheap, but effective, way of dispelling Global Silence. Lotus Orb, Manta Style, Disperser, Satanic, and Guardian Greaves are also basic dispels that can remove the silence."
+    ]
+  }
+}

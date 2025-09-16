@@ -1,0 +1,47 @@
+{
+  "name": "Muerta",
+  "safe_name": "muerta",
+  "strategies": {
+    "general_tips": [
+      "Muerta's Supernatural innate allows you to hit ethereal (Ghost Scepter, Pugna's Decrepify, Necrophos's Ghost Shroud) targets and attack while you yourself are ethereal.You can even hit Pugna's Nether Ward if he Decrepifies it.",
+      "You can even hit Pugna's Nether Ward if he Decrepifies it.",
+      "Dead Shot's targeted projectile won't damage any units on the way to the target, but will damage units after the ricochet.",
+      "Dead Shot's projectile provides a small radius of flying vision as it travels. It doesn't last very long, but you could use it to scout Rosh or check for an enemy ward on a cliff.",
+      "Dead Shot's targeted projectile will interact with enemy Linken's Spheres and Lotus Orbs, but the fear projectile is ignored.",
+      "Dead Shot will destroy the tree it ricochets off of.",
+      "Dead Shot can target Hoodwink's Acorn Shot, Nature's Prophet Sprout, and Iron Branch trees. Coordinate with an ally for BIG PLAYS.",
+      "Dead Shot's range is huge so you can use it to help stack camps from a distance.",
+      "Use Dead Shot's fear to keep enemies stuck in The Calling AoE.",
+      "If you have the \"Double Tap Ability to Self Cast\" setting enabled, double tapping The Calling will cast the spell on top of your hero.",
+      "Revenants from The Calling will always travel counter-clockwise regardless of the angle or direction your hero is when you cast it.",
+      "All aspects of The Calling work on neutral units.The attack speed slow from The Calling can be useful against Rosh.",
+      "The attack speed slow from The Calling can be useful against Rosh.",
+      "With the \"Dance of the Dead\" facet, enemies dying under Aegis (or Wraith King Reincarnation) will refresh The Calling duration and add a Revenant.Any Meepo, Arc Warden Tempest Double, Spirit Bear, or debuff immune/BKB'd enemy dying under The Calling will count as a hero death to refresh The Calling and add a Revenant.Illusions don't count as heroes to refresh The Calling.",
+      "Any Meepo, Arc Warden Tempest Double, Spirit Bear, or debuff immune/BKB'd enemy dying under The Calling will count as a hero death to refresh The Calling and add a Revenant.",
+      "Illusions don't count as heroes to refresh The Calling.",
+      "Gunslinger will only proc on the main target if there are no secondary targets available.",
+      "Gunslinger attacks will never target ward-type units unless they're the primary unit and only unit available to Gunsling onto.",
+      "Gunslinger will prioritize nearby creeps if you're targeting a tower, but towers are the lowest priority to Gunsling onto when attacking creeps.",
+      "Gunslinger range is slightly higher than your base attack range and scales with attack range bonuses.",
+      "Gunslinger secondary hits areinstant attacksthat can proc attack modifiers and can miss due to evasion.",
+      "Unlike some other ethereal sources, the ethereal form of Pierce the Veil does not reduce your own magic resistance.",
+      "Your Pierce the Veil attacks will interact with spell lifesteal and spell damage amplification/reduction.Traditional attack lifesteal, like from Satanic, willnotwork while in Pierce the Veil.All other attack modifiers will work while in Pierce the Veil.",
+      "Traditional attack lifesteal, like from Satanic, willnotwork while in Pierce the Veil.",
+      "All other attack modifiers will work while in Pierce the Veil.",
+      "Be careful when activating Pierce the Veil to take a Tormentor. The Tormentor will end up reflecting a ton of magic damage which may kill your teammates.",
+      "Activating Pierce the Veil applies a basic dispel on your hero and disjoints any incoming projectiles.",
+      "You have phased movement during Pierce the Veil.",
+      "You can't hit buildings while in Pierce the Veil.You can't interact with any structures on the map, really. You can't channel Twin Gates, Outposts, or Watchers while Pierce the Veil is active.",
+      "You can't interact with any structures on the map, really. You can't channel Twin Gates, Outposts, or Watchers while Pierce the Veil is active.",
+      "Enemies need to die within 925 range of Muerta for Agh's Shard Pierce the Veil to build stacks."
+    ],
+    "counter_tips": [
+      "Try not to be caught in between your creeps and Muerta if you're near her tower otherwise Dead Shot's fear may push you into tower attack range.",
+      "Dead Shot's targeted projectile can be disjointed by invis and blinks.",
+      "You only take damage when bumping into the ghosts from The Calling. The center of the aura doesn't deal any damage.",
+      "Gunslinger can be disabled by Breaks.Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Pierce the Veil cannot be dispelled off Muerta."
+    ]
+  }
+}

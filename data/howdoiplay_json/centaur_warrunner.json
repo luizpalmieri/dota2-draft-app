@@ -1,0 +1,18 @@
+{
+  "name": "Centaur Warrunner",
+  "safe_name": "centaur_warrunner",
+  "strategies": {
+    "general_tips": [
+      "Double Edge costs no mana, so use it as your primary pushing spell late game.",
+      "Retaliate damages towers. Be a boss and draw aggro from the tower to speed up the pushing process. If you ever want to force aggro, just right click any enemy hero anywhere on the map while you're in tower range, or attack+move their top bar portrait if they're in vision, or just be the closest target attacking the tower.",
+      "All Returned damage under the \"Retaliate Aura\" talent credits Centaur as the damage source.",
+      "Pay attention to when you can use Stampede from across the map. If your boy Shadow Fiend is getting ganked, don't be shy about turning on your lawnmower with R. Similarly, if SF is ganking an enemy Luna, but just can't keep up, use your ultimate.",
+      "Stampede boosts the move speed of all allied heroes and summons, excluding ward-type units. All Stampeding units can apply the slow on enemies.",
+      "An ally affected by Agh's Scepter Hitch A Ride iscompletelyinvulnerable during the duration. This means they can't be affected by damage, debuffs, or even something like a Faceless Void's Chronosphere."
+    ],
+    "counter_tips": [
+      "Attacks from Gyrocopter's Flak Cannon, Luna's Moon Glaives, or Medusa's Split Shot won't trigger Retaliate unless Centaur is the primary target.",
+      "Nyx Assassin can easily stun Centaur since Retaliate damage can be reflected with Spiked Carapace just by right clicking him."
+    ]
+  }
+}

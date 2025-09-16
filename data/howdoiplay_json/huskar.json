@@ -1,0 +1,41 @@
+{
+  "name": "Huskar",
+  "safe_name": "huskar",
+  "strategies": {
+    "general_tips": [
+      "Because you don't have mana thanks to your Blood Magic innate, certain spells work weird on you. For example, Clockwerk's Power Cogs won't touch you, Lion can't Mana Drain you, and Nyx Assassin can't target you with Mind Flare.You technically still have \"mana\" as shown by your INT value if you hover over your stats. For the purposes of spells that do math with your mana, you're effectively always at that max mana value.",
+      "You technically still have \"mana\" as shown by your INT value if you hover over your stats. For the purposes of spells that do math with your mana, you're effectively always at that max mana value.",
+      "Inner Fire is not a stun and does not cancel channels, it just applies knockback on enemies.However, the knockback mechanic doesmoveenemies, making it cancel things like Magnus's Skewer, Phoenix's Icarus Dive, Primal Beast's Onslaught, Spirit Breaker's Charge, Techies' Blast Off, and Templar Assassin's Meld.",
+      "However, the knockback mechanic doesmoveenemies, making it cancel things like Magnus's Skewer, Phoenix's Icarus Dive, Primal Beast's Onslaught, Spirit Breaker's Charge, Techies' Blast Off, and Templar Assassin's Meld.",
+      "Agh's Shard Inner Fire gives you the full hero heal value on illusions.",
+      "You can cast spells (like Inner Fire) or items while mid-flight during Life Break.",
+      "Manually casting Burning Spears on enemy heroes won't draw creep aggro.",
+      "If you level up Burning Spears but keep building an old Spear stack debuff on an enemy, it'll continue using the lower level spell values until the debuff times out.",
+      "Burning Spears can't be dispelled.",
+      "Life Break dispels yourself on cast.",
+      "Huskar is debuff immune while flying in Life Break.",
+      "Agh's Scepter Life Break can taunt enemies through debuff immunity/BKB.",
+      "Turn on your Armletafteryou Life Break, not before, to lose less HP. If you intentionally want less HP, do the opposite.",
+      "There is a guaranteed reliable way to take Rosh safely with just an Armletno matter how bad your Rosh bash RNG is. Every time your Armlet is off cooldown, toggle it immediately after Rosh lands an attack and you should always be able to survive.",
+      "You can toggle your Armlet while TPing.",
+      "Remember to turn on Armlet before picking up Shield or Illusion runes.",
+      "There is a way toperfectlytoggle Armlet on and off on the server same tick. Basically, whichever item slot you want to use for Armlet, assign it a quickcast hotkey too. Then mash both hotkeys at the same time to get an instant toggle.To do this, enable \"Direct Cast Bindings\" in your hotkey settings menu. Then click the Quickcast toggle that appears under the items and set a new hotkey to your usual Armlet item slot.Here's a video explaining it (with the old settings screen).To make this trick extra safe, you can also consider adding your Magic Wand hotkey to the mash for the heal.",
+      "To do this, enable \"Direct Cast Bindings\" in your hotkey settings menu. Then click the Quickcast toggle that appears under the items and set a new hotkey to your usual Armlet item slot.Here's a video explaining it (with the old settings screen).",
+      "To make this trick extra safe, you can also consider adding your Magic Wand hotkey to the mash for the heal."
+    ],
+    "counter_tips": [
+      "Remember, none of Huskar's spells can cancel TPs. If you see this roided up madman leaping towards you, just start TPing out.",
+      "Burning Spears can't be dispelled.",
+      "Life Break dispels Huskar on cast.",
+      "Spell reflection from Lotus Orb will reflect Life Break on Huskar's impact, not on the Life Break cast.",
+      "You can Break Huskar's Berserker's Blood passive.Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.Viper is especially good at dealing with Huskar since his Corrosive Skin also loves Burning Spears.",
+      "Breaks can be provided with items like Silver Edge or Khanda. Spells that Break include Hoodwink's Sharpshooter, Naga Siren's Agh's Scepter Ensnare, Phantom Assassin's Agh's Scepter Fan of Knives, Shadow Demon's Agh's Scepter Demonic Purge, Viper's Viper Strike, anda few others.",
+      "Viper is especially good at dealing with Huskar since his Corrosive Skin also loves Burning Spears.",
+      "The HP regen Huskar gains from his Berserker's Blood passive can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Be aware that Life Break dispels Huskar on cast, so only use a Vessel charge on himafterhe activates Life Break.His \"Cauterize\" facet also provides a basic dispel when activating Berserker's Blood.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Be aware that Life Break dispels Huskar on cast, so only use a Vessel charge on himafterhe activates Life Break.",
+      "His \"Cauterize\" facet also provides a basic dispel when activating Berserker's Blood.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Earthshaker",
+  "safe_name": "earthshaker",
+  "strategies": {
+    "general_tips": [
+      "Enemies killed by your Enchant Totem attacks or other spells will fly backwards and deal damage to anything in their path thanks to your Slugger innate.",
+      "In most situations, the block on Fissure is more valuable than the stun itself. So if you're trying to throw out a Fissure from long range, lead it ahead more than you want to. If you don't land the stun, it's a minor inconvenience. Separating your team from your target, that's a major inconvenience.",
+      "If you're trying to milk your stun time for as long as possible, don't mash all your spells at once. You can squeeze in about one auto-attack's worth of time in between casts once Aftershock is maxed.",
+      "If you feel a fight coming on, prime up an Enchant Totem if you have the mana to spare. The duration is long, so you should be able to walk in with one Enchanted Totem and pull out another one during the fight.",
+      "With Agh's Shard, Aftershock applies to the Fissure globally. You don't have to be anywhere near the Fissure to get it to resonate Aftershocks from an Enchant Totem. If there's a Fissure still lingering around in the middle of a fight, try to stun off that to catch enemies by surprise.",
+      "With Agh's Shard, the Aftershock on Fissure stacks with the Aftershock your hero has. When free farming a creep wave, you should walk in the middle of the wave before Fissuring to get the damage from both Aftershocks.",
+      "You can travel up and down cliffs with Agh's Shard by casting Fissure and walking through it.",
+      "Echo Slam works fully on invisible units.",
+      "Echo Slam has zero cast animation. As long as you're not disabled, you should always be able to get it off."
+    ],
+    "counter_tips": [
+      "\"Hey guys don't clump, I think Shaker has blink da... Yeah... he does.\"",
+      "Clockwerk makes life difficult for Earthshaker since Battery Assault cancels most of his cast animations.",
+      "Aftershock won't trigger if Earthshaker is under a Break debuff.",
+      "The Enchant Totem buff can be dispelled off Earthshaker.",
+      "Rooting Earthshaker will prevent his ability to jump away with Agh's Scepter Enchant Totem."
+    ]
+  }
+}

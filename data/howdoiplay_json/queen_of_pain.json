@@ -1,0 +1,30 @@
+{
+  "name": "Queen Of Pain",
+  "safe_name": "queen_of_pain",
+  "strategies": {
+    "general_tips": [
+      "Reflected damage taken from your \"Masochist\" facet is calculated before reductions, does not reflect from damaging illusions, can never be lethal, and can be negated by going debuff immune/BKB'ing.",
+      "There's a cast time on Shadow Strike, so stop-cancel the animation when laning to try and bait out defensive spells from enemies.",
+      "Agh's Scepter Shadow Strike turns the spell AoE meaning it bypasses Linken's Sphere and can hit units in fog and untargetable units like a Dark Willow in Shadow Realm.Agh's Scepter Shadow Strike will visually toss a dagger to invis units in the AoE, but won't actually hit them unless you have true sight.",
+      "Agh's Scepter Shadow Strike will visually toss a dagger to invis units in the AoE, but won't actually hit them unless you have true sight.",
+      "Agh's Scepter Shadow Strike will give the Scream on re-application when cast on creep-heroes like Lone Druid's Spirit Bear, Visage's Familiars, or Warlock's Golem.",
+      "Only Blink to initiate if you're absolutely positive that the enemies can't take a fight when you show up. If it turns out that Lion had just enough mana for a Hex and now Ursa is TPing in, that Blink cooldown is going to feel like an eternity.",
+      "With Agh's Shard, you can Blink in place to deal both instances of damage in roughly the same area.",
+      "Scream of Pain can hit invis units and units in fog.",
+      "Sonic Wave deals multiple ticks of damage over the course of the spell.",
+      "Sonic Wave's knockback doesn't disable enemies and won't cancel channels.However, the knockback mechanic doesmoveenemies, making it cancel things like Magnus's Skewer, Phoenix's Icarus Dive, Primal Beast's Onslaught, Spirit Breaker's Charge, Techies' Blast Off, and Templar Assassin's Meld.",
+      "However, the knockback mechanic doesmoveenemies, making it cancel things like Magnus's Skewer, Phoenix's Icarus Dive, Primal Beast's Onslaught, Spirit Breaker's Charge, Techies' Blast Off, and Templar Assassin's Meld."
+    ],
+    "counter_tips": [
+      "Shadow Strike is not a constant DoT. There's an initial nuke damage when the projectile hits and then a tick of damage every few seconds. Get a quick Bottle sip or Armlet toggle immediately after you take damage between ticks to stay alive.",
+      "Shadow Strike's projectile can be completely disjointed by invisibility and blinks.",
+      "You can deny allies affected by Shadow Strike.",
+      "Watch her Blink animation to determine the direction that she Blinks in. The particle 'trail' always points in the direction that she traveled.",
+      "Roots/leashes prevent Queen of Pain from casting Blink.",
+      "Harpoon's active is undisjointable. If you're trying to catch an escaping Queen of Pain, try timing Harpoon during her Blink animation and the projectile will follow and drag her right back to you. This is less reliable in melee range because you need the Blink to happen before the Harpoon projectile connects.",
+      "Dispelling Agh's Scepter Shadow Strike will cause the Scream of Pain to instantly trigger.",
+      "Beware of casting spells on Queen of Pain when you're at low HP. Her Bondage innate will make her deal a reflected amount of damage back to you.",
+      "Sonic Wave is a skillshot. If you're ever in melee range of a Queen of Pain who wants to Sonic Wave you,just run circles around her."
+    ]
+  }
+}

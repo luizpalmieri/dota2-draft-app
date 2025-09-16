@@ -1,0 +1,26 @@
+{
+  "name": "Omniknight",
+  "safe_name": "omniknight",
+  "strategies": {
+    "general_tips": [
+      "Illusions of Omniknight carry his Degen Aura innate.",
+      "Purification can damage fogged and invisible enemies. If you pay close attention, you can faintly see some particles on the target's location if you hit them.",
+      "You can cast Purification on couriers, but the spell won't heal them.",
+      "Debuff immunity, like from Repel, prevents Tormentor damage from reflecting on the target.",
+      "Despite providing debuff immunity, Repel doesnotdispel the target. As a result, stuns that pierce debuff immunity will still linger on allies even after Repelling them.",
+      "Here's a weird mechanic: Did you know that debuff immunity (like from Repel) can bypass the damage penalty on illusions? Cast Repel on an allied Terrorblade's Conjure Image and watch it do full damage to all targets.",
+      "Omniscience is great for diving. Guardian Angel will completely negate any damage from enemy towers or fountain since attacks from buildings deal physical damage.",
+      "Agh's Scepter Guardian Angel can target buildings."
+    ],
+    "counter_tips": [
+      "Guardian Angel can be dispelled off enemies. Dispels like Brewmaster's Storm Brewling's Cyclone (and obviously Dispel Magic), Enchantress's Enchant, Invoker's Tornado, and Oracle's Fortune's End can remove Guardian Angel. Nullifier or Eul's can also be bought as dispels.The small white Satyr Banisher's Purge can work as a dispel solution in a pinch.",
+      "The small white Satyr Banisher's Purge can work as a dispel solution in a pinch.",
+      "Dispels that pierce debuff immunity, like Doom's Doom, Shadow Demon's Demonic Purge, or Winter Wyvern's Winter's Curse, can dispel and remove Repel off enemies.",
+      "The heal from Omniknight's Purification can be reduced by debuffs that affect Health Restoration:Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Items that can reduce health restoration: Spirit Vessel, Orb of Frost/Corrosion, Skadi, Shiva's Guard, and the \"Crippling Crossbow\" and \"Jidi Pollen Bag\" neutral item artifacts.",
+      "Spells that can reduce health restoration: Ancient Apparition's Ice Blast, Broodmother's Spin Webs with \"Necrotic Webs\" facet, Doom's Doom, Dragon Knight's \"Frost Dragon\" facet, Drow Ranger's Agh's Scepter Hypothermia, anda few others.",
+      "Revenant's Brooch can potentially turn right clicks into magic damage allowing you to penetrate Guardian Angel.The tier 5 \"Audacious\" neutral item enchantment adds magic damage to your attacks.",
+      "The tier 5 \"Audacious\" neutral item enchantment adds magic damage to your attacks."
+    ]
+  }
+}
